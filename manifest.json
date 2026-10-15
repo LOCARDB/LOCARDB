@@ -1,5 +1,38 @@
 {
   "version": 1,
-  "updatedAt": "",
-  "packs": []
+  "updatedAt": "2026-10-15T18:21:22.487Z",
+  "packs": [
+    {
+      "id": "CUSA03173",
+      "titleId": "CUSA03173",
+      "name": "Bloodborne",
+      "team": "الحلم المتجدد للتعريب\nالتعديل التقني: AdamSaeed، ‎!MAX\nالترجمة: جيزص، Mesho، RyokoSubs، Allen Wouka، منصور (ترجمات ثانوية)\nالتدقيق: YatoSubs، Yasser-Sensei\nالشعار والتوجه الفني: AdamSaeed، منصور\nمراقبة الجودة: ‎!MAX\nدمج التعريب مع باتش 60FPS: ‎!MAX\nنسخة محاكي ShadPS4: كوتشيكي\nتنسيق النشرة: AdamSaeed، منصور\nشكر خاص: KayMaw، فريق DarkWare، سباد، مؤلف كتاب موسوعة العذاب، وكل من شجعنا على تعريب هذه اللعبة أو نصحنا بالابتعاد عنها",
+      "version": "1.3",
+      "supportedUpdate": "1.09",
+      "format": "AFR",
+      "size": 82532525,
+      "sha256": "24352f09dd921d30d7744355567255c9d8e22ad2e0bd8ba7cfe19a5109d1b93f",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA03173_arabic_v1.3.zip",
+      "icon": "media/icons/CUSA03173-mv9tm9id.png",
+      "screenshots": [],
+      "description": "تعريب كامل للعبة Bloodborne (وليد الدم) على PS4 من فريق الحلم المتجدد للتعريب، يشمل اللعبة الأساسية وجميع الإضافات. أكثر من 57 ألف نص مترجم، بخط Elden Ring وواجهات معدّلة من اليمين إلى اليسار، مع شعار عربي جديد ونصوص بديلة تجريبية للشخصية الأنثى، والأسماء مراجَعة على النص الياباني.",
+      "readme": ""
+    },
+    {
+      "id": "CUSA57547",
+      "titleId": "CUSA57547",
+      "name": "Call of Duty: Black Ops",
+      "team": "عمرو شاهين (برمجة وتعريب) — أحمد خالد وM2D (اختبار ومراجعة) — سجاد رحيم لصالح مكتب حيدر كيارة (نقل التعريب لمنصة PS4)",
+      "version": "1.0",
+      "supportedUpdate": "1.00",
+      "format": "AFR",
+      "size": 212481092,
+      "sha256": "45c4dee3bdc4dae54ccbac90be1488c95aa81ef834162abbc9a85e77f9e7919d",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA57547.zip",
+      "icon": "media/icons/CUSA57547-mv9tm9mg.png",
+      "screenshots": [],
+      "description": "تعريب كامل للعبة Call of Duty: Black Ops لمنصة PS4، منقول من نسخة الحاسوب. يشمل القوائم والحملة الفردية ووضع الفرق المتعدد.",
+      "readme": ""
+    }
+  ]
 }
