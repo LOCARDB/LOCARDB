@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-15T18:21:22.487Z",
+  "updatedAt": "2026-10-15T19:21:16.569Z",
   "packs": [
     {
       "id": "CUSA03173",
@@ -13,6 +13,7 @@
       "size": 82532525,
       "sha256": "24352f09dd921d30d7744355567255c9d8e22ad2e0bd8ba7cfe19a5109d1b93f",
       "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA03173_arabic_v1.3.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/RA_kwDOVLPCbc4mcHJ3",
       "icon": "media/icons/CUSA03173-mv9tm9id.png",
       "screenshots": [],
       "description": "تعريب كامل للعبة Bloodborne (وليد الدم) على PS4 من فريق الحلم المتجدد للتعريب، يشمل اللعبة الأساسية وجميع الإضافات. أكثر من 57 ألف نص مترجم، بخط Elden Ring وواجهات معدّلة من اليمين إلى اليسار، مع شعار عربي جديد ونصوص بديلة تجريبية للشخصية الأنثى، والأسماء مراجَعة على النص الياباني.",
@@ -29,6 +30,7 @@
       "size": 212481092,
       "sha256": "45c4dee3bdc4dae54ccbac90be1488c95aa81ef834162abbc9a85e77f9e7919d",
       "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA57547.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/RA_kwDOVLPCbc4mcHht",
       "icon": "media/icons/CUSA57547-mv9tm9mg.png",
       "screenshots": [],
       "description": "تعريب كامل للعبة Call of Duty: Black Ops لمنصة PS4، منقول من نسخة الحاسوب. يشمل القوائم والحملة الفردية ووضع الفرق المتعدد.",
