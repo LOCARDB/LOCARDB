@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-16T17:08:52.440Z",
+  "updatedAt": "2026-10-16T17:10:28.982Z",
   "packs": [
     {
       "id": "CUSA03173",
@@ -57,8 +57,8 @@
       "format": "AFR",
       "size": 261491295,
       "sha256": "b38872b215b2de6ed19132df26601bee566cd569219491a2e6ca5533684fff8b",
-      "url": "",
-      "api": "",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA36843_1.0.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/RA_kwDOVLPCbc4mn9as",
       "icon": "media/icons/mvb7qelp-a9rj.png",
       "screenshots": [
         "media/shots/mvb7qhnq-1w0i.jpg",
