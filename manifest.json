@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-15T23:01:51.242Z",
+  "updatedAt": "2026-10-16T17:08:52.440Z",
   "packs": [
     {
       "id": "CUSA03173",
@@ -13,7 +13,7 @@
       "size": 82532525,
       "sha256": "24352f09dd921d30d7744355567255c9d8e22ad2e0bd8ba7cfe19a5109d1b93f",
       "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA03173_arabic_v1.3.zip",
-      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/RA_kwDOVLPCbc4meGnF",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/RA_kwDOVLPCbc4mn6Ty",
       "icon": "media/icons/mva4w545-hael.png",
       "screenshots": [
         "media/shots/mva4vgke-zq47.jpg",
@@ -35,7 +35,7 @@
       "size": 212481092,
       "sha256": "45c4dee3bdc4dae54ccbac90be1488c95aa81ef834162abbc9a85e77f9e7919d",
       "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA57547.zip",
-      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/RA_kwDOVLPCbc4meH-3",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/RA_kwDOVLPCbc4mn7fO",
       "icon": "media/icons/mva4ws2n-8r7q.png",
       "screenshots": [
         "media/shots/mva4wtuw-hdc1.jpg",
@@ -45,6 +45,28 @@
         "media/shots/mva4wzq7-nvpq.jpg"
       ],
       "description": "تعريب كامل للعبة Call of Duty: Black Ops لمنصة PS4، منقول من نسخة الحاسوب. يشمل القوائم والحملة الفردية ووضع الفرق المتعدد.",
+      "readme": ""
+    },
+    {
+      "id": "CUSA36843",
+      "titleId": "CUSA36843",
+      "name": "Red Dead Redemption",
+      "team": "آفاق التعريب",
+      "version": "1.0",
+      "supportedUpdate": "1.04",
+      "format": "AFR",
+      "size": 261491295,
+      "sha256": "b38872b215b2de6ed19132df26601bee566cd569219491a2e6ca5533684fff8b",
+      "url": "",
+      "api": "",
+      "icon": "media/icons/mvb7qelp-a9rj.png",
+      "screenshots": [
+        "media/shots/mvb7qhnq-1w0i.jpg",
+        "media/shots/mvb7qj9l-an0m.jpg",
+        "media/shots/mvb7qkny-wpo0.jpg",
+        "media/shots/mvb7qm4e-ar8j.jpg"
+      ],
+      "description": "الترجمة:\n\nYPS | أحمد خالد | Great Guy | Gamer Zone9 | Mohamed Anouar | shgby | Yahya | R I T O | Staa Nina | transjordanian | zalamit | Staroo | M2D | BedTimeZzz | Muhand Khaled | Jinky Minus | Richter | ToofyRoofy | Emad Adel | LayaLy | Lithium\n\nالتدقيق:\n\nYPS| أحمد خالد\n\nتجربة التعريب واكتشاف الأخطاء:\n\nSaleem Jallad | Escobar | M3TZ | YPS | Abdul Haq | SMZ | JeSus | Monty | ABORF3H | oCanbl | ahmed alhakim | mJeeD | momenyk | R I T O | AbuLafi\n\nتصميم أدوات الخطوط وعكس النصوص:\n\nAmr Shaheen\n\nتصميم الخطوط وإدخال النصوص:\n\nAmr Shaheen | أحمد خالد\n\nتنظيم المشروع:\n\nR I T O | أحمد خالد\n\nتعديل الصور:\n\nShAd0w | ACHRAFninf | Lithium\n\nتعديل المجسمات والصور في اللعبة:\n\nAbdul Haq | R I T O | أحمد خالد\n\nتصميم الشعار العربي:\n\nR I T O\n\nشكر خاص:\n\nEmad Adel | Amr Shaheen | YPS | R I T O | AbuLafi",
       "readme": ""
     }
   ]
