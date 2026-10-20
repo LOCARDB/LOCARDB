@@ -1,5 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-16T21:23:04.210Z",
-  "packs": []
+  "updatedAt": "2026-10-20T20:31:58.125Z",
+  "packs": [
+    {
+      "id": "CUSA16746",
+      "titleId": "CUSA16746",
+      "name": "It Takes Two",
+      "team": "نديم قيروط",
+      "version": "1.0",
+      "supportedUpdate": "1.00",
+      "format": "AFR",
+      "size": 1493367,
+      "sha256": "69c4676bbec7d4528c67429212e595406df51bfe3ba2a9c020e32fc427ed213e",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA16746_T1.0_G1.00.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/660409379",
+      "icon": "media/icons/mvh4z0al-ezde.png",
+      "screenshots": [],
+      "iconSha256": "339123b340db5d2ed92744cfa3d46c387d4894a6b94b2c26e78717e6fa446fcd",
+      "screenshotsSha256": [],
+      "description": "شكر وتقدير\nنديم قيروط — الترجمة الأصلية\nآدم — الخط\nمهند — المخطوطة",
+      "readme": "",
+      "parts": []
+    }
+  ],
+  "sig": "69b76d0b73f910dd3d5aa992ad14525b7a3c5e6d3936ce3d224213c70287ed40ba5d5c3d0d9ed3b02124ef52e6ae1f9416b4e8ce7f699a1d44ca7b159c58130d"
 }
