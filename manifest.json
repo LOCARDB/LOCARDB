@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T18:42:59.498Z",
+  "updatedAt": "2026-10-21T18:46:37.634Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -95,7 +95,39 @@
       "origin": "community",
       "translationType": "human",
       "parts": []
+    },
+    {
+      "id": "CUSA57547",
+      "titleId": "CUSA57547",
+      "name": "Call of Duty Black Ops",
+      "team": "عمرو شاهين",
+      "version": "1.0",
+      "supportedUpdate": "1.08",
+      "format": "AFR",
+      "size": 191638115,
+      "sha256": "86acef32a3ed25e09b95597103c169eb2b7d942204d2023aec4691018365246c",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA57547_T1.0_G1.08.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/663459900",
+      "icon": "media/icons/mvignogf-z5du.png",
+      "screenshots": [
+        "media/shots/mvignq7t-bmz7.jpg",
+        "media/shots/mvignsx7-l7l8.jpg",
+        "media/shots/mvignubw-hcl0.jpg",
+        "media/shots/mvignwlx-nigr.jpg"
+      ],
+      "iconSha256": "5b9a8dcff4afeb44616d1322c971c5fb59b78a9e338ba42016d772f4193536ab",
+      "screenshotsSha256": [
+        "6de8988dbd820570fc4f17e7ad26e3e66b9cb79ac2d3e3d3813c63a752042711",
+        "4c651cc722d52ad903bc59699a668c381252ed0f701c9331c7058983bee25f7f",
+        "bc97c99b9e2ae0d8e973aeb571f233894a4ec28965ec46bd8cd8a8925a642d31",
+        "bf1ef17db7a44f04f375fa95741419c94d1ff2043f5035cdc70a460c83e2c759"
+      ],
+      "description": "برمجة وتعريب:\nعمرو شاهين\n\nالاختبار والمراجعة:\nاحمد خالد و M2D\n\nنقل التعريب الى منصة PS4:\nسجاد رحيم",
+      "readme": "",
+      "origin": "community",
+      "translationType": "human",
+      "parts": []
     }
   ],
-  "sig": "4aeef30378592e1a9072fbb70d533bc26d7dbb3a66895eff09b0dcf28acdfdfbca04d14917c2487b13d54d9aa75419e2d3b1fe0542dcda278f89b4b0f1f55d0b"
+  "sig": "0659d99884c3b242b9fa2ebe4da705f450f822f8e8d37483ab861695db0db9837a305285c127654eb9d5e10f903b83eff136fb50e9a88187e2eec9d2d373a007"
 }
