@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T18:46:37.634Z",
+  "updatedAt": "2026-10-21T18:55:30.579Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -127,7 +127,39 @@
       "origin": "community",
       "translationType": "human",
       "parts": []
+    },
+    {
+      "id": "CUSA10812",
+      "titleId": "CUSA10812",
+      "name": "A Plague Tale Innocence",
+      "team": "عمرو شاهين",
+      "version": "1.0",
+      "supportedUpdate": "1.00",
+      "format": "AFR",
+      "size": 16680990,
+      "sha256": "2f305733ada59bc915583e4b4575083a9d869c284bc032b45940334d1a44a350",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA10812_T1.0_G1.00.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/663485770",
+      "icon": "media/icons/mvigzbsh-c809.png",
+      "screenshots": [
+        "media/shots/mvigzdks-oeyq.jpg",
+        "media/shots/mvigzf4c-gr0b.jpg",
+        "media/shots/mvigzhb0-sg7c.jpg",
+        "media/shots/mvigzim4-8wih.jpg"
+      ],
+      "iconSha256": "1856f55bb964fcda128553c3fd4ac34a73644bb2f017326f774afacb00880e4f",
+      "screenshotsSha256": [
+        "09c9935ae52114a0d9d96910f8f06ea109ffeeb1a952ba2aabcb44c89c16e7c4",
+        "71eb2e236ea9e0168f5879bb1b48b17a09e16ffe4a837cb7b387782f4debaf9d",
+        "1b52c35d50f517cdfce95f1c87e680659d514857c418515c35b21a40a0e96457",
+        "4ab4eca87242b1f28326a5e232e235dca4a80285ede1d677a16ec509f0b14ff3"
+      ],
+      "description": "برمجة وتعريب:\nعمرو شاهين\n\nنقل التعريب لمنصة PS4:\nabodora",
+      "readme": "",
+      "origin": "community",
+      "translationType": "human",
+      "parts": []
     }
   ],
-  "sig": "0659d99884c3b242b9fa2ebe4da705f450f822f8e8d37483ab861695db0db9837a305285c127654eb9d5e10f903b83eff136fb50e9a88187e2eec9d2d373a007"
+  "sig": "73442e561592a3f986dbd249066334568b359094a182509b0c26501508456527018e92af2262cbbedae169211c209a5b7c622b2038ca9d7b4ef4fb868d662e03"
 }
