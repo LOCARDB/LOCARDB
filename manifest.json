@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T11:38:26.690Z",
+  "updatedAt": "2026-10-21T11:38:33.702Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -44,14 +44,14 @@
       "sha256": "5ded6760be62cf777f7c76e551c8af3fce59fa00ff66b1f62bae02b876e9ce77",
       "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA36843_T1.0_G1.04.zip",
       "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/660499746",
-      "icon": "media/icons/mvh6g111-hjkz.png",
+      "icon": "",
       "screenshots": [
         "media/shots/mvh6g377-lcir.png",
         "media/shots/mvh6g4qz-ckt0.png",
         "media/shots/mvh6g6ie-9z05.png",
         "media/shots/mvh6g83m-81qm.png"
       ],
-      "iconSha256": "dc638da6fba38cb4b3bbb23659f3a0c81d7ca9319f8722e8950edfe8c0849111",
+      "iconSha256": "",
       "screenshotsSha256": [
         "331f523b3aef6d6694c6400bf352e80e6bfef0a7c9c4622ca765f4fc671e174e",
         "558269bf39f7346955ee54c839ba6f86f632ec3192f748c3a4fd8c539c3a157d",
@@ -60,8 +60,10 @@
       ],
       "description": "عمل على المشروع\n\nالترجمة:\n\nYPS | أحمد خالد | Great Guy | Gamer Zone9 | Mohamed Anouar | shgby | Yahya | R I T O | Staa Nina | transjordanian | zalamit | Staroo | M2D | BedTimeZzz | Muhand Khaled | Jinky Minus | Richter | ToofyRoofy | Emad Adel | LayaLy | Lithium\n\nالتدقيق:\n\nYPS| أحمد خالد\n\nتجربة التعريب واكتشاف الأخطاء:\n\nSaleem Jallad | Escobar | M3TZ | YPS | Abdul Haq | SMZ | JeSus | Monty | ABORF3H | oCanbl | ahmed alhakim | mJeeD | momenyk | R I T O | AbuLafi\n\nتصميم أدوات الخطوط وعكس النصوص:\n\nAmr Shaheen\n\nتصميم الخطوط وإدخال النصوص:\n\nAmr Shaheen | أحمد خالد\n\nتنظيم المشروع:\n\nR I T O | أحمد خالد\n\nتعديل الصور:\n\nShAd0w | ACHRAFninf | Lithium\n\nتعديل المجسمات والصور في اللعبة:\n\nAbdul Haq | R I T O | أحمد خالد\n\nتصميم الشعار العربي:\n\nR I T O\n\nشكر خاص:\n\nEmad Adel | Amr Shaheen | YPS | R I T O | AbuLafi",
       "readme": "",
+      "origin": "community",
+      "translationType": "human",
       "parts": []
     }
   ],
-  "sig": "074a3aa36aed39a9b503641f87e815f9e5e546f6b07503fe6e4808b0ba99a5ced33e83c922f2d6eda1a428529cd487d06e6c6881ec7e7011b0eb75f5445cb400"
+  "sig": "7026d7406d405f5b535e3a70d8bcbd2317e43703129acc2a4cadd5849f469b14dd76f89aacfc3745a7dfb62b48870b101649ed5457c1bd11135b8703a0204d01"
 }
