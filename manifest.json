@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T18:55:30.579Z",
+  "updatedAt": "2026-10-21T19:03:36.126Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -159,7 +159,39 @@
       "origin": "community",
       "translationType": "human",
       "parts": []
+    },
+    {
+      "id": "CUSA03856",
+      "titleId": "CUSA03856",
+      "name": "Resident Evil 6",
+      "team": "ArGamez",
+      "version": "1.0",
+      "supportedUpdate": "1.01",
+      "format": "AFR",
+      "size": 4465885,
+      "sha256": "9727a769f8081e778647d95a8bc9307e9458dfb3eccff71c2acf75e067ff6622",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA03856_T1.0_G1.01.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/663504581",
+      "icon": "media/icons/mvihb1m3-0exl.png",
+      "screenshots": [
+        "media/shots/mvihc9mh-k4rl.jpg",
+        "media/shots/mvihcbbo-vlzw.jpg",
+        "media/shots/mvihccn7-hxh3.jpg",
+        "media/shots/mvihcdzz-do13.jpg"
+      ],
+      "iconSha256": "a7972f2a722a1c4c20d5b060ce1c8e4c387b3bf3fc86908b4144d583e97dbe3a",
+      "screenshotsSha256": [
+        "cc53dc0c013a80b162179b6d804d3dde68d6a13f11ce5703e4471288024905b0",
+        "82795f912088c94e5eaf15858a65c0ef9fb5dcbe4108b77d4a7fd444843c6b70",
+        "0389b01f46daf088b2a7e7bdc783051a9fd453ed15c4287d919e78d9f5fe245c",
+        "064d18cd23cb224756d139a64c9003d396aaa11b32b2c0004348c5b266cec0f5"
+      ],
+      "description": "برمجة و تعريب\nعمر أحمد\n\nدعم فني\nمصطفى حسن\n\nترجمة\n-عمر أحمد\n-محمدصبحي\nEhaab Raider-\n\nشكر خاص\n-مصمم الغلاف: سليمان أبو عمر",
+      "readme": "",
+      "origin": "community",
+      "translationType": "human",
+      "parts": []
     }
   ],
-  "sig": "73442e561592a3f986dbd249066334568b359094a182509b0c26501508456527018e92af2262cbbedae169211c209a5b7c622b2038ca9d7b4ef4fb868d662e03"
+  "sig": "175e6eb72e8e95794bbab8d08e3fcf2cbdbea181f56a0e69756bd95ba7f06a3cd7e4bf918eaf74caea016b2cb8635ddf3013df69ca619a16c5b5bf7a2951f804"
 }
