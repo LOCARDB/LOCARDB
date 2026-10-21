@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T18:36:39.686Z",
+  "updatedAt": "2026-10-21T18:42:52.653Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -63,7 +63,39 @@
       "origin": "community",
       "translationType": "human",
       "parts": []
+    },
+    {
+      "id": "CUSA03173",
+      "titleId": "CUSA03173",
+      "name": "Bloodborne",
+      "team": "الحلم المتجدد",
+      "version": "1.3",
+      "supportedUpdate": "1.09",
+      "format": "AFR",
+      "size": 82515484,
+      "sha256": "62a6c8b98c7cd6d17d9df3b3da2246cc4d472efdaff25d86843e03e58bef205a",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA03173_T1.3_G1.09.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/663453481",
+      "icon": "media/icons/mviggmad-re0l.png",
+      "screenshots": [
+        "media/shots/mviggoom-rjb5.jpg",
+        "media/shots/mviggs8z-n2qu.jpg",
+        "media/shots/mviggts6-demn.jpg",
+        "media/shots/mvigguz9-mjcn.jpg"
+      ],
+      "iconSha256": "422f73df1ff3f3af95a81e5f95e4d34cea816b0458cd67936d2c763bf9f5e665",
+      "screenshotsSha256": [
+        "d52e8e9f55da7c07b50b148ee8b59762f11706ff2fcd14c243ec8f9faaa592e6",
+        "8307dd688d239fa15ba9fe29f3e689f2fc176a1d2652710c0888a2690c013cf1",
+        "f7af4dc5e021bb12feb2928e01d2ab718217c3d2198815ec75faa878baea1505",
+        "864260205070d8648add34848f7bb8b5e3b5ecdb23eb4b571b543818e7d99856"
+      ],
+      "description": "  التعديل التقني: AdamSaeed، ‎!MAX\n  الترجمة: جيزص، Mesho، RyokoSubs، Allen Wouka، منصور (ترجمات ثانوية)\n  التدقيق: YatoSubs، Yasser-Sensei\n  الشعار والتوجه الفني: AdamSaeed، منصور\n  مراقبة الجودة: ‎!MAX\n  دمج التعريب مع باتش 60FPS: ‎!MAX\n  نسخة محاكي ShadPS4: كوتشيكي\n  تنسيق النشرة: AdamSaeed، منصور\n  شكر خاص: KayMaw، فريق DarkWare، سباد، مؤلف كتاب موسوعة العذاب، وكل من شجعنا على تعريب هذه اللعبة أو نصحنا بالابتعاد عنها",
+      "readme": "",
+      "origin": "community",
+      "translationType": "human",
+      "parts": []
     }
   ],
-  "sig": "b07183a2af38813e2ad011ce96d26b27b001e70ad19241bcbc908b656fe610b5dad2cbd52c311bb4145c56474f0d4f83e27dd6525abf0d35c93ddcbd46c7d906"
+  "sig": "fe1083964924358f6b93e3489b5ece202d72a06622f5b070901ce5b76d44692a66f5e2e722fc2f6e1ba89bf421d208dd19a60340399fc01cd716264c5501880f"
 }
