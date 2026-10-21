@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T19:07:10.773Z",
+  "updatedAt": "2026-10-21T19:07:47.945Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -203,7 +203,7 @@
       "size": 602429,
       "sha256": "16001da38d50f94ab0312a042500f6f6c6538abdcf479f86c78bfc76f1fc2daa",
       "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA15487_T1.0_G1.00.zip",
-      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/663513243",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/663514675",
       "icon": "media/icons/mvihh12r-tymz.png",
       "screenshots": [],
       "iconSha256": "fca0a2e2488896b8dcdb8fc5f4c27013499ed12851f0ece5e95df3ba686055fa",
@@ -211,9 +211,9 @@
       "description": "AR Team",
       "readme": "",
       "origin": "community",
-      "translationType": "machine",
+      "translationType": "human",
       "parts": []
     }
   ],
-  "sig": "38a11dc37de6edf1186d55ab482e49e461d6a1aecd567e38eed59db5b0b2f62de2993681e59e9eadac25a90c674d88c4bf716dd237ebd2a05176f4a2ea28680f"
+  "sig": "18ed8462e13bd915abf1853c23e829ad2163d574d8357c8dcfdb462a8c4981b4ec4f814075935a33349e0baa0de4165fa94c07598ef60460dd8733edee300205"
 }
