@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T19:03:36.126Z",
+  "updatedAt": "2026-10-21T19:07:10.773Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -191,7 +191,29 @@
       "origin": "community",
       "translationType": "human",
       "parts": []
+    },
+    {
+      "id": "CUSA15487",
+      "titleId": "CUSA15487",
+      "name": "Close To The Sun",
+      "team": "AR Team",
+      "version": "1.0",
+      "supportedUpdate": "1.00",
+      "format": "AFR",
+      "size": 602429,
+      "sha256": "16001da38d50f94ab0312a042500f6f6c6538abdcf479f86c78bfc76f1fc2daa",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA15487_T1.0_G1.00.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/663513243",
+      "icon": "media/icons/mvihh12r-tymz.png",
+      "screenshots": [],
+      "iconSha256": "fca0a2e2488896b8dcdb8fc5f4c27013499ed12851f0ece5e95df3ba686055fa",
+      "screenshotsSha256": [],
+      "description": "AR Team",
+      "readme": "",
+      "origin": "community",
+      "translationType": "machine",
+      "parts": []
     }
   ],
-  "sig": "175e6eb72e8e95794bbab8d08e3fcf2cbdbea181f56a0e69756bd95ba7f06a3cd7e4bf918eaf74caea016b2cb8635ddf3013df69ca619a16c5b5bf7a2951f804"
+  "sig": "38a11dc37de6edf1186d55ab482e49e461d6a1aecd567e38eed59db5b0b2f62de2993681e59e9eadac25a90c674d88c4bf716dd237ebd2a05176f4a2ea28680f"
 }
