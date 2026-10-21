@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20T21:13:35.229Z",
+  "updatedAt": "2026-10-21T11:38:26.690Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -10,16 +10,26 @@
       "version": "1.0",
       "supportedUpdate": "1.00",
       "format": "AFR",
-      "size": 1493367,
-      "sha256": "69c4676bbec7d4528c67429212e595406df51bfe3ba2a9c020e32fc427ed213e",
+      "size": 1600889,
+      "sha256": "228602e80c5e0904b4068b32e5076f9fa6c828300fe88d425760f1ed14d060f7",
       "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA16746_T1.0_G1.00.zip",
-      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/660409379",
-      "icon": "media/icons/mvh4z0al-ezde.png",
-      "screenshots": [],
-      "iconSha256": "339123b340db5d2ed92744cfa3d46c387d4894a6b94b2c26e78717e6fa446fcd",
-      "screenshotsSha256": [],
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/662306000",
+      "icon": "",
+      "screenshots": [
+        "media/shots/mvi1fnww-6lpj.jpg",
+        "media/shots/mvi1fpjf-ic2f.jpg",
+        "media/shots/mvi1fqzd-f01q.jpg"
+      ],
+      "iconSha256": "",
+      "screenshotsSha256": [
+        "742185965bcc0dcd2bf875b7cdb69c4f394fac09559926daffbde9219f1f068e",
+        "dd92ce28ee4763743ccdddc0ba99beda6bbb23f6839c37a5c694d598ba5dc04f",
+        "692232189ff7957c2119389b7eec56fc57f23d02212c47c06f1892652722753d"
+      ],
       "description": "شكر وتقدير\nنديم قيروط — الترجمة الأصلية\nآدم — الخط\nمهند — المخطوطة",
       "readme": "",
+      "origin": "community",
+      "translationType": "human",
       "parts": []
     },
     {
@@ -53,5 +63,5 @@
       "parts": []
     }
   ],
-  "sig": "5dcf77f6355564c405062ea5c5ac54370347f1331326a572e1435c8e7c416021d4a12a5f6da4ab5e636a58e35f99211c5dea2a10c6bd7566a9d9104f5e7bf408"
+  "sig": "074a3aa36aed39a9b503641f87e815f9e5e546f6b07503fe6e4808b0ba99a5ced33e83c922f2d6eda1a428529cd487d06e6c6881ec7e7011b0eb75f5445cb400"
 }
