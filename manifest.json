@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T10:46:50.737Z",
+  "updatedAt": "2026-10-22T20:29:52.833Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -216,7 +216,41 @@
       "origin": "community",
       "translationType": "human",
       "parts": []
+    },
+    {
+      "id": "CUSA02320",
+      "titleId": "CUSA02320",
+      "name": "Uncharted The Nathan Drake Collection",
+      "team": "Games in Arabic",
+      "version": "1.0",
+      "supportedUpdate": "1.03",
+      "format": "AFR",
+      "size": 9285135,
+      "sha256": "f64a4bd6b99ba272f49c808dad4388d51874e9641498297d232f09727d32c998",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA02320_T1.0_G1.03.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/667004337",
+      "icon": "media/icons/mvjzq7du-7wlc.jpg",
+      "screenshots": [
+        "media/shots/mvjztq5l-yu25.jpg",
+        "media/shots/mvjztrun-qr7v.jpg",
+        "media/shots/mvjztt5w-16yg.jpg"
+      ],
+      "iconSha256": "fdf237810e716eff92246914c880b4cc72769cee9697560a4742c95e8f812b8d",
+      "screenshotsSha256": [
+        "aafd1cf84037ca88c124ba6de8b585d09aa815802820fde1b036597a65b67eb6",
+        "352b6b0f3ebe6263627f3f71c240261163bde23053ee8c811a4da78630e20889",
+        "b41b27c9c52906f89dbc92b412c9f65b461a734267942c36e19eca0fd34a59b9"
+      ],
+      "description": "ملاحظة: التعريب يشمل الجزء الأول فقط.\n\n\nفريق العمل\nبرمجة:\nSajjad Rahim\n\nتصميم مخطوط اللعبة باللغة العربية:\nMOHANAD DESIGN\n\nمترجمين:\nabu11dahme (اكثر من 50% من حوارات اللعبة)\nSajjad Rahim\nroov55\n\nتدقيق:\n\n Skysands2008",
+      "readme": "",
+      "origin": "community",
+      "translationType": "human",
+      "compatibleTitleIds": [
+        "CUSA02344",
+        "CUSA02826"
+      ],
+      "parts": []
     }
   ],
-  "sig": "316bb3d9511bdea671340de4f8e27ef14316ed652d319a56064e6728592f86c131fc7edf80395e3a526b520a9f362c73708cb8deac1b768093799eaaaf2a0201"
+  "sig": "c0a34d8bfb7e67176c139884fd0972edf68ba76784812accc9cd219db970966f7d420800b594b8892636d534468fb62cdfc838d1378de2ef3a19c4b3fc7e4e06"
 }
