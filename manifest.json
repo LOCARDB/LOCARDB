@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T19:07:47.945Z",
+  "updatedAt": "2026-10-22T10:46:28.067Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -8,19 +8,19 @@
       "name": "It Takes Two",
       "team": "نديم قيروط",
       "version": "1.0",
-      "supportedUpdate": "1.00",
+      "supportedUpdate": "1.03",
       "format": "AFR",
       "size": 2172120,
       "sha256": "c66e354c6e0ea39d1dd3702e1f0e7c55e580e260b19b7da12e63a022308bec3c",
       "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA16746_T1.0_G1.00.zip",
       "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/663422803",
-      "icon": "media/icons/mvig5ren-r2zb.png",
+      "icon": "",
       "screenshots": [
         "media/shots/mvi1fnww-6lpj.jpg",
         "media/shots/mvi1fpjf-ic2f.jpg",
         "media/shots/mvi1fqzd-f01q.jpg"
       ],
-      "iconSha256": "339123b340db5d2ed92744cfa3d46c387d4894a6b94b2c26e78717e6fa446fcd",
+      "iconSha256": "",
       "screenshotsSha256": [
         "742185965bcc0dcd2bf875b7cdb69c4f394fac09559926daffbde9219f1f068e",
         "dd92ce28ee4763743ccdddc0ba99beda6bbb23f6839c37a5c694d598ba5dc04f",
@@ -30,6 +30,9 @@
       "readme": "",
       "origin": "community",
       "translationType": "human",
+      "compatibleTitleIds": [
+        "CUSA16742"
+      ],
       "parts": []
     },
     {
@@ -215,5 +218,5 @@
       "parts": []
     }
   ],
-  "sig": "18ed8462e13bd915abf1853c23e829ad2163d574d8357c8dcfdb462a8c4981b4ec4f814075935a33349e0baa0de4165fa94c07598ef60460dd8733edee300205"
+  "sig": "19c7649d551170ce7a4f2ffac0061cf010dbc3ad774e5d647b91d42371398a468781beb00b592b810260547bb9b9c83a234fb58ddcf5bbd9fd5131d2dc05610e"
 }
