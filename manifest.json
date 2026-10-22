@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T20:34:51.943Z",
+  "updatedAt": "2026-10-22T21:29:57.268Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -250,7 +250,41 @@
         "CUSA02826"
       ],
       "parts": []
+    },
+    {
+      "id": "CUSA02320_1.02",
+      "titleId": "CUSA02320",
+      "name": "Uncharted The Nathan Drake Collection",
+      "team": "ArgosOs",
+      "version": "1.0",
+      "supportedUpdate": "1.02",
+      "format": "AFR",
+      "size": 39063987,
+      "sha256": "b35ced796d741fb42c0803c111ecc29f1cc90f3314bb8e4fab65ece58619a124",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA02320_T1.0_G1.02_AI_ArgosOs.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/667143015",
+      "icon": "media/icons/mvk1ywmb-1hft.png",
+      "screenshots": [
+        "media/shots/mvk1yynk-aa0g.jpg",
+        "media/shots/mvk1z00p-ltts.jpg",
+        "media/shots/mvk1z1c6-mkgt.jpg"
+      ],
+      "iconSha256": "550dbb092b574aeda870f554b4945be972f71b152c34e5d771e4063951368123",
+      "screenshotsSha256": [
+        "1f2d0a3a01084f451c776361215378da32a4b56fb01e4ff80e9964c67520e3f3",
+        "5368c6b6c806fa5dd76378bb66a6e3b7888a8176ac0524f43140aadec78e37ff",
+        "de397c7d3beac5779212937fadd6efb8184bd900805b3064b3435de04f09e3a3"
+      ],
+      "description": "مميزات التعريب:\n\nتعريب شامل للثلاثية بالكامل:\nUncharted 1: Drake's Fortune\nUncharted 2: Among Thieves\nUncharted 3: Drake's Deception",
+      "readme": "",
+      "origin": "community",
+      "translationType": "machine",
+      "compatibleTitleIds": [
+        "CUSA02344",
+        "CUSA02826"
+      ],
+      "parts": []
     }
   ],
-  "sig": "04c72c72f5959a9379b3e07337a13e8ecf209e1d30d9a01bc92f17d2c9174f9181faea63ba15c8c20099ff507f39636ccb15fc54ed826870ae428023122ce50d"
+  "sig": "690542116eb4bd8b2da7e7d96c363d3426531fbbc8ee39f1c00e60091ebc1378496a9d45660ba3eb6fcff1ba54b4c144de3809daea6b104e367bdd859b1e4202"
 }
