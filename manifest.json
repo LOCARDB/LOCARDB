@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T20:29:52.833Z",
+  "updatedAt": "2026-10-22T20:34:51.943Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -223,12 +223,12 @@
       "name": "Uncharted The Nathan Drake Collection",
       "team": "Games in Arabic",
       "version": "1.0",
-      "supportedUpdate": "1.03",
+      "supportedUpdate": "1.02",
       "format": "AFR",
       "size": 9285135,
-      "sha256": "f64a4bd6b99ba272f49c808dad4388d51874e9641498297d232f09727d32c998",
-      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA02320_T1.0_G1.03.zip",
-      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/667004337",
+      "sha256": "24509e4d938232f8c0246deda93a1cb2277625fa0691642a7cc38c849287798b",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA02320_T1.0_G1.02.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/667016924",
       "icon": "media/icons/mvjzq7du-7wlc.jpg",
       "screenshots": [
         "media/shots/mvjztq5l-yu25.jpg",
@@ -252,5 +252,5 @@
       "parts": []
     }
   ],
-  "sig": "c0a34d8bfb7e67176c139884fd0972edf68ba76784812accc9cd219db970966f7d420800b594b8892636d534468fb62cdfc838d1378de2ef3a19c4b3fc7e4e06"
+  "sig": "04c72c72f5959a9379b3e07337a13e8ecf209e1d30d9a01bc92f17d2c9174f9181faea63ba15c8c20099ff507f39636ccb15fc54ed826870ae428023122ce50d"
 }
