@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T22:33:38.354Z",
+  "updatedAt": "2026-10-23T22:47:22.193Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -391,7 +391,33 @@
       "translationType": "human",
       "parts": [],
       "downloads": 0
+    },
+    {
+      "id": "CUSA09263",
+      "titleId": "CUSA09263",
+      "name": "Devil May Cry 3",
+      "team": "ماجد العتيبي",
+      "version": "1.0",
+      "supportedUpdate": "1.01",
+      "format": "AFR",
+      "size": 958218884,
+      "sha256": "f6f524d958e62f33c1aef284424ca744f37b26ad8883f953f1e61ba7d0b1ea15",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA09263_T1.0_G1.01_HUMAN_584d08.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/670613044",
+      "icon": "media/icons/mvljwi9x-4o2q.png",
+      "screenshots": [],
+      "iconSha256": "47ae4bf8d125ccf2b0f0f98259201091862eb0660e39dea548f6353e8e978e6a",
+      "screenshotsSha256": [],
+      "description": "فريق التعريب\n\nترجمة رئيسية: ماجد العتيبي\n• ترجمة فرعية: منصور (30% من القصة)، داركو (قوائم)\n• تعديل تقني: ماجد العتيبي (إدخال النصوص بالجملة)، داركو (ادخال تمهيدي، اصلاح)، منصور (الخط، الريجيكس)، \n\n• شكر خاص: joestar (تجربة التعريب)",
+      "readme": "",
+      "origin": "community",
+      "translationType": "human",
+      "compatibleTitleIds": [
+        "CUSA09407"
+      ],
+      "parts": [],
+      "downloads": 0
     }
   ],
-  "sig": "5ee7f3f2d0473f699081932495177a04a98805f1b0535967d8f08da4c5b35c077b257083faf93c1cc2b0ad7aedc846c7fa241fd79ae2a1ec35d229ac6e27a903"
+  "sig": "8862e397a4d0b846d7129295f3b63160a5ba6f7548d7065e37e24fac4dacb986cb1bdf5ac9b91a080a631c7064d3cacd04aa8d4ff2f682afe3fa4d9d4986ac08"
 }
