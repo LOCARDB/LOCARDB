@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T22:26:20.173Z",
+  "updatedAt": "2026-10-23T22:33:38.354Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -350,7 +350,48 @@
       ],
       "parts": [],
       "downloads": 0
+    },
+    {
+      "id": "CUSA01013",
+      "titleId": "CUSA01013",
+      "name": "DmC Devil May Cry Definitive Edition",
+      "team": "ArGamez",
+      "version": "1.0",
+      "supportedUpdate": "1.00",
+      "format": "AFR",
+      "size": 64405967,
+      "sha256": "24f7a02f074fc0bf25213e9fe7a8134eb31ea76daf672579f5c36b4aa6f801b3",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA01013_T1.0_G1.00_HUMAN_ArGamez.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/670599843",
+      "icon": "media/icons/mvljp2ds-rx6h.png",
+      "screenshots": [
+        "media/shots/mvljp4nt-6rpq.jpg",
+        "media/shots/mvljp691-2n8k.jpg",
+        "media/shots/mvljp7dt-ue0x.jpg",
+        "media/shots/mvljp9ch-tkyg.jpg",
+        "media/shots/mvljpamx-xmhy.jpg",
+        "media/shots/mvljpbym-peda.jpg",
+        "media/shots/mvljpdhq-mfgh.jpg",
+        "media/shots/mvljpetl-67xr.jpg"
+      ],
+      "iconSha256": "4fdd8421588f9e23b0bc4d53f44a2b496dda4c82afa27d9c60483321d985ced2",
+      "screenshotsSha256": [
+        "8af52728c3d9dde1b5d53d2e7fe952e2381d280594b6528833e3bc832cd34b0e",
+        "994b31e717c64574edbfdc02884e3bbbf7728e8f447d487a0101c8fdbda7602f",
+        "1a3c1c38904ef46d9ad1523992d2f6c16c637cc83495b17c99e58a0c61e3356b",
+        "c5fa3071982a7679beacd73c95cc130f9fdd0449a68dc7e7bad28638b5a2a0a2",
+        "f7dbf8aaffd4823230d56ebbf67d198a24a162a5836804793918c5db0eba2f6e",
+        "c99ff3aad50fce04d784380c4c759a6a05ea1fb32facdf434867910046e778b0",
+        "8705d24ee2b57ecc1dfedd2a531f3cd656962c61644cf7b668dde268db14f5c5",
+        "ec9d5b2028c017814661ed78c643397b4648da34a98bbf4e80f2aac6cddc58ae"
+      ],
+      "description": "فريق العمل\n\nبرمجة و تعريب\nعمر احمد\n\nترجمة\nفائز المهدي\nعمر احمد\nباسم علي\nاحمد صبحي\nمحمد صبحي",
+      "readme": "",
+      "origin": "community",
+      "translationType": "human",
+      "parts": [],
+      "downloads": 0
     }
   ],
-  "sig": "9d94e2298b0a3c56ea323f47b27c07911ac8460e27ac62559c5669719b48c680cc0a54249fb900910b2b2f79e826af8a9c49ec61924da42ba53355defc73cb08"
+  "sig": "5ee7f3f2d0473f699081932495177a04a98805f1b0535967d8f08da4c5b35c077b257083faf93c1cc2b0ad7aedc846c7fa241fd79ae2a1ec35d229ac6e27a903"
 }
