@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T21:30:04.196Z",
+  "updatedAt": "2026-10-23T22:18:42.014Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -33,7 +33,8 @@
       "compatibleTitleIds": [
         "CUSA16742"
       ],
-      "parts": []
+      "parts": [],
+      "downloads": 2
     },
     {
       "id": "CUSA36843",
@@ -65,7 +66,8 @@
       "readme": "",
       "origin": "community",
       "translationType": "human",
-      "parts": []
+      "parts": [],
+      "downloads": 4
     },
     {
       "id": "CUSA03173",
@@ -97,7 +99,8 @@
       "readme": "",
       "origin": "community",
       "translationType": "human",
-      "parts": []
+      "parts": [],
+      "downloads": 0
     },
     {
       "id": "CUSA57547",
@@ -129,7 +132,8 @@
       "readme": "",
       "origin": "community",
       "translationType": "human",
-      "parts": []
+      "parts": [],
+      "downloads": 0
     },
     {
       "id": "CUSA10812",
@@ -161,7 +165,8 @@
       "readme": "",
       "origin": "community",
       "translationType": "human",
-      "parts": []
+      "parts": [],
+      "downloads": 0
     },
     {
       "id": "CUSA03856",
@@ -193,7 +198,8 @@
       "readme": "",
       "origin": "community",
       "translationType": "human",
-      "parts": []
+      "parts": [],
+      "downloads": 0
     },
     {
       "id": "CUSA15487",
@@ -215,7 +221,8 @@
       "readme": "",
       "origin": "community",
       "translationType": "human",
-      "parts": []
+      "parts": [],
+      "downloads": 0
     },
     {
       "id": "CUSA02320",
@@ -249,7 +256,8 @@
         "CUSA02344",
         "CUSA02826"
       ],
-      "parts": []
+      "parts": [],
+      "downloads": 12
     },
     {
       "id": "CUSA02320_1.02",
@@ -283,8 +291,32 @@
         "CUSA02344",
         "CUSA02826"
       ],
-      "parts": []
+      "parts": [],
+      "downloads": 4
+    },
+    {
+      "id": "CUSA11302",
+      "titleId": "CUSA11302",
+      "name": "Celeste",
+      "team": "الحلم المتجدد",
+      "version": "1.0",
+      "supportedUpdate": "1.00",
+      "format": "AFR",
+      "size": 514200,
+      "sha256": "0c905d90cfb89775ef79370b135487ccc6d7d8c52383d25d58d1ffaa12a78fd2",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA11302_T1.0_G1.00_HUMAN_be95cf.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/670570880",
+      "icon": "media/icons/mvlj6gtd-dlj3.png",
+      "screenshots": [],
+      "iconSha256": "2d4559ead48e964df69c7d98b84d68c1543aaa547f4d19f7acc9b1457cde55ae",
+      "screenshotsSha256": [],
+      "description": "Asgore_Undertale : ترجمة النص، تعديل تقني، إعداد تنصيب التعريب.\nداركو، صفا: تعديل تقني (حل مشكلة الخط في أول المشروع).\nسلمان: تعديل تقني (الخط)، مراجعة لغوية.\nمحمد المسطح، عمر يوسف: مساعدة في المراجعة اللغوية.\nAllen Wouka: نقل التعريب.",
+      "readme": "",
+      "origin": "community",
+      "translationType": "human",
+      "parts": [],
+      "downloads": 0
     }
   ],
-  "sig": "152bcff7e895b333075ae23df70bd8ebe159f5c4986bd4af965a00d58d518f5cb3ed42733810d6d75b6dce65ddc28797a686f73002540b1478160fa28a9ec806"
+  "sig": "67dfcb50c4a8fe5070c2f694fcbdbaadf72dce0c2aac9e5be78c4b1ca6e469adcab3ea516cea32b0c3bbfd4bd305ea656750af0bbf25bad34187e364e7b3de0f"
 }
