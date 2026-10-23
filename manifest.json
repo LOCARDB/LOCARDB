@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T22:18:42.014Z",
+  "updatedAt": "2026-10-23T22:26:20.173Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -316,7 +316,41 @@
       "translationType": "human",
       "parts": [],
       "downloads": 0
+    },
+    {
+      "id": "CUSA05347",
+      "titleId": "CUSA05347",
+      "name": "Darksiders Warmastered Edition",
+      "team": "محمد، @rs0_s",
+      "version": "1.0",
+      "supportedUpdate": "1.01",
+      "format": "AFR",
+      "size": 29405792,
+      "sha256": "19d417cfc186aec2c0445a1b4fd951ec74706552d88d2c870121ae6cce9dbd5b",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA05347_T1.0_G1.01_HUMAN_rs0s.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/670585977",
+      "icon": "media/icons/mvljec3w-cbv3.png",
+      "screenshots": [
+        "media/shots/mvljfui3-tx3w.jpg",
+        "media/shots/mvljfvxu-2m0r.jpg",
+        "media/shots/mvljfx6a-7vqf.jpg"
+      ],
+      "iconSha256": "01279c0efb5125423626a70607b50c4c27db730c3c63f345d11ea07e000bbfb8",
+      "screenshotsSha256": [
+        "7fe5f70f8e48804000370a163ee8c46db88d6f5c60af985a1ac55add931fbccc",
+        "177644865dd89a78ba78668fde6ee3b76b4bdebd76532b594bc63d77d4fec934",
+        "dc4cfd87ed0b301e90e0226c0add2ddb27cf43ade6de483d08eaa31a4a83eaee"
+      ],
+      "description": "صاحب التعريب والمصادر\nمحمد، @rs0_s",
+      "readme": "",
+      "origin": "community",
+      "translationType": "human",
+      "compatibleTitleIds": [
+        "CUSA05275"
+      ],
+      "parts": [],
+      "downloads": 0
     }
   ],
-  "sig": "67dfcb50c4a8fe5070c2f694fcbdbaadf72dce0c2aac9e5be78c4b1ca6e469adcab3ea516cea32b0c3bbfd4bd305ea656750af0bbf25bad34187e364e7b3de0f"
+  "sig": "9d94e2298b0a3c56ea323f47b27c07911ac8460e27ac62559c5669719b48c680cc0a54249fb900910b2b2f79e826af8a9c49ec61924da42ba53355defc73cb08"
 }
