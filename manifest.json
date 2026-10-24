@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T18:13:02.776Z",
+  "updatedAt": "2026-10-24T18:59:00.301Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -624,7 +624,40 @@
       ],
       "partsFormat": "zip",
       "downloads": 0
+    },
+    {
+      "id": "CUSA17761",
+      "titleId": "CUSA17761",
+      "name": "Mafia 2 Definitive Edition",
+      "team": "عمرو شاهين",
+      "version": "1.0",
+      "supportedUpdate": "1.00",
+      "format": "AFR",
+      "size": 161161501,
+      "sha256": "8a4fe0aaa4299801e88e2658c901a0ae1a9ff08a34dd44c5d1ec3195dcff7679",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA17761_T1.0_G1.00_HUMAN_653757.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/673049195",
+      "icon": "media/icons/mvmrgfrl-46z6.png",
+      "screenshots": [
+        "media/shots/mvmrghh5-aaky.jpg",
+        "media/shots/mvmrgixb-ke63.jpg",
+        "media/shots/mvmrgkc0-q862.jpg",
+        "media/shots/mvmrglqt-subm.jpg"
+      ],
+      "iconSha256": "818bf712b42bffd4aaf90bdf9294bff0f212f07532677284fbb0a57df3526376",
+      "screenshotsSha256": [
+        "abf1169e760c68217621bca5e8976cc0f0c5a21f6a6918a4b01a3d952783169c",
+        "877157ea840f000438d7b8d71082d9004235e6650133ccfd3364bc6c92381990",
+        "ef80d8cab1249f929117c8ffd7385239282b7cd8c03f325eb5b8c1f77fc0e115",
+        "d68d11e638ba0ca064e8d1dc347c84aca369953268baa9d2f61e924ac1b8b001"
+      ],
+      "description": "برمجة وتعريب\nعمرو شاهين",
+      "readme": "",
+      "origin": "community",
+      "translationType": "human",
+      "parts": [],
+      "downloads": 0
     }
   ],
-  "sig": "9f9e1b7339206aa97282e114e1c11730971bd328c079feecd61214394ede0d85891f157aa9f71be71ce0f537dd7f548e0793353c409672f98a70f882e8a49800"
+  "sig": "bda4e7217311915b3ef5b2f2b398d2167f1ff20a17e156b98a6baba0b415ad39e41afe6029ffde56ad0900984e8d2c31c30f487820cd90b7aae62233d8cb8607"
 }
