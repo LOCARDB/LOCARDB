@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T20:25:41.743Z",
+  "updatedAt": "2026-10-24T20:27:17.169Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -707,10 +707,10 @@
       "version": "1.0",
       "supportedUpdate": "1.02",
       "format": "AFR",
-      "size": 16548901,
-      "sha256": "bd8e4a6ef8ae48c2efd27a6149fa87dcb6d970fdd5970e371895d31fb2e1b10e",
+      "size": 16548932,
+      "sha256": "d54d8b9510ba1dc4b21d6d75436e1db711ec0d526b4786e4cd134675ea50169f",
       "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA00409_T1.0_G1.02_HUMAN_ArGamez.zip",
-      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/673228249",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/673232197",
       "icon": "media/icons/mvmujwy9-ipez.png",
       "screenshots": [
         "media/shots/mvmujyqa-t1cv.jpg",
@@ -727,7 +727,7 @@
         "250d37559f38c64bd6a0b38a84dd6ec1579bd61dc605ea15379f08d45ccfb74d",
         "d2e433e52b376b28594f6b35865d88326f6fdbe24104f4f0bad973042201cc20"
       ],
-      "description": "برمجة و تعريب \nعمر أحمد\n\n دعم فني و إدارة إعلانية\nمحمود ترجا ( TERGAAA )\n\nرئيس فريق الترجمة\nمحمد صبحي\n\nالمترجمين \nعمراحمد\nإبراهيم سمير الزواوي\nعمرو سليمان\nبيدو رسلان\nخالد خلف الله\nمحمد عكاشة\nحسان وائل\nمحمود أمين\nمحمود مجدي\nمحمد أنور\nكرم قاسم\nمحمد امين\nفهد الخالدي\nمحمد هارون\n(Osaid Alhomedy)\n(Doka Moussa)\n(Coenterao Abdalaziz)\n\nشكر خاص \nسليمان أبو عمر",
+      "description": "برمجة و تعريب \nعمر أحمد\n\n دعم فني و إدارة إعلانية\nمحمود ترجا ( TERGAAA )\n\nرئيس فريق الترجمة\nمحمد صبحي\n\nالمترجمين \nعمراحمد\nإبراهيم سمير الزواوي\nعمرو سليمان\nبيدو رسلان\nخالد خلف الله\nمحمد عكاشة\nحسان وائل\nمحمود أمين\nمحمود مجدي\nمحمد أنور\nكرم قاسم\nمحمد امين\nفهد الخالدي\nمحمد هارون\n(Osaid Alhomedy)\n(Doka Moussa)\n(Coenterao Abdalaziz)\n\nشكر خاص \nسليمان أبو عمر\n\nنقل التعريب الى نسخة PS4\nabodora",
       "readme": "",
       "origin": "community",
       "translationType": "human",
@@ -735,5 +735,5 @@
       "downloads": 0
     }
   ],
-  "sig": "3363d5970be94b29bf26412b0eab8216c69bd7bc7c440e1941c23f7852c7e5ef06e9f005c82328d836e5f1b2223ff1caf2d876a6e404f0fef190c3bdc4c47f0f"
+  "sig": "7d28562fd224ac162df6378a40efe016764f0b3dd0bd186816ecbd35d659af8cc2836580afffa6b012aa1c307b7bac81da8c77ec09f2225ffe847cf5a0d5620f"
 }
