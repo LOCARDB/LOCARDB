@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T20:19:41.784Z",
+  "updatedAt": "2026-10-24T20:25:41.743Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -698,7 +698,42 @@
       "translationType": "human",
       "parts": [],
       "downloads": 0
+    },
+    {
+      "id": "CUSA00409",
+      "titleId": "CUSA00409",
+      "name": "Outlast",
+      "team": "ArGamez",
+      "version": "1.0",
+      "supportedUpdate": "1.02",
+      "format": "AFR",
+      "size": 16548901,
+      "sha256": "bd8e4a6ef8ae48c2efd27a6149fa87dcb6d970fdd5970e371895d31fb2e1b10e",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA00409_T1.0_G1.02_HUMAN_ArGamez.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/673228249",
+      "icon": "media/icons/mvmujwy9-ipez.png",
+      "screenshots": [
+        "media/shots/mvmujyqa-t1cv.jpg",
+        "media/shots/mvmuk0oe-x0hb.jpg",
+        "media/shots/mvmuk24d-sqil.jpg",
+        "media/shots/mvmuk3jq-5y4x.jpg",
+        "media/shots/mvmuk52c-1reg.jpg"
+      ],
+      "iconSha256": "17b147f484eccb4942e6d4e16136d8599141c9e58a297d8422ba62fe7c04e127",
+      "screenshotsSha256": [
+        "8ad4f8237c8c4437efeff2ce034e3b0628fb12c36cf4efe410f17b291ee35101",
+        "64fa78afdd0f238bd17e5953436b9223c4ba9e4f51ef3fcdd3b7936208cebb26",
+        "245f67500fba8fb2754b4ab869b5c94533fd9ada8c7464235a25ad4fe02cb6c1",
+        "250d37559f38c64bd6a0b38a84dd6ec1579bd61dc605ea15379f08d45ccfb74d",
+        "d2e433e52b376b28594f6b35865d88326f6fdbe24104f4f0bad973042201cc20"
+      ],
+      "description": "برمجة و تعريب \nعمر أحمد\n\n دعم فني و إدارة إعلانية\nمحمود ترجا ( TERGAAA )\n\nرئيس فريق الترجمة\nمحمد صبحي\n\nالمترجمين \nعمراحمد\nإبراهيم سمير الزواوي\nعمرو سليمان\nبيدو رسلان\nخالد خلف الله\nمحمد عكاشة\nحسان وائل\nمحمود أمين\nمحمود مجدي\nمحمد أنور\nكرم قاسم\nمحمد امين\nفهد الخالدي\nمحمد هارون\n(Osaid Alhomedy)\n(Doka Moussa)\n(Coenterao Abdalaziz)\n\nشكر خاص \nسليمان أبو عمر",
+      "readme": "",
+      "origin": "community",
+      "translationType": "human",
+      "parts": [],
+      "downloads": 0
     }
   ],
-  "sig": "a89b1504b9ed5b27425e69a47bb6c20c7ea27443d7bfd6a227ec3e6c9a23a277af084d964f56bb589f49ca129ad3d6ac0199d9c947bf3354e7272f662a69d407"
+  "sig": "3363d5970be94b29bf26412b0eab8216c69bd7bc7c440e1941c23f7852c7e5ef06e9f005c82328d836e5f1b2223ff1caf2d876a6e404f0fef190c3bdc4c47f0f"
 }
