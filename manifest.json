@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T18:59:00.301Z",
+  "updatedAt": "2026-10-24T20:15:12.478Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -623,7 +623,7 @@
         }
       ],
       "partsFormat": "zip",
-      "downloads": 0
+      "downloads": 2
     },
     {
       "id": "CUSA17761",
@@ -657,7 +657,48 @@
       "translationType": "human",
       "parts": [],
       "downloads": 0
+    },
+    {
+      "id": "CUSA00342",
+      "titleId": "CUSA00342",
+      "name": "Murdered Soul Suspect",
+      "team": "ArGamez",
+      "version": "1.0",
+      "supportedUpdate": "1.00",
+      "format": "AFR",
+      "size": 16264829,
+      "sha256": "f7b2db8b7462d12a98b7244fd60600d00b63b5e18d16b7b8d4e77c1d5673e193",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA00342_T1.0_G1.00_HUMAN_ArGamez.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/673206527",
+      "icon": "media/icons/mvmu7dwy-3auo.jpg",
+      "screenshots": [
+        "media/shots/mvmu7gb1-3f5m.jpg",
+        "media/shots/mvmu7hpe-pgkx.jpg",
+        "media/shots/mvmu7jwc-9x5c.jpg",
+        "media/shots/mvmu7lae-vm2t.jpg",
+        "media/shots/mvmu7nd6-farv.jpg",
+        "media/shots/mvmu7p5d-40rz.jpg",
+        "media/shots/mvmu7qxd-qwyf.jpg",
+        "media/shots/mvmu7snf-b0qo.jpg"
+      ],
+      "iconSha256": "fb75b28d3f934c3213a346ccf5bbca31c58bff85ccc711521d6c5b29cab256c0",
+      "screenshotsSha256": [
+        "4cb9133b45fe4784a1eff4810164c4eaa8bdd8454b2aa8711eab998bb79374ad",
+        "0a4e886b60ab43452d8e62ed1b33f8a51f4b72aa959c86bdc32c2ef933fa9af5",
+        "97a5b34e6b03f7bdcd9974f9a67e904e505416be0606f32246ffd843dc64856f",
+        "901c27ecbf7440a14f1661ba958e5bad73536560eccc2cbbfd534b0ef603438a",
+        "c391c22396e714264a1c0eb5bee8fe23094969dee716fc9d32e2c7c60c12b9d2",
+        "f579cdbab3d8aae14105d2c308faee4338e5f9ffb6444d113673118144fa1202",
+        "16f53a1430d42fd7279d02ff09cb142111389777c10f2f100c034bd46b902706",
+        "2afca369d906c8d2aafc696814d54dc3177178cb82c0518a3130cfd55448995f"
+      ],
+      "description": "",
+      "readme": "",
+      "origin": "community",
+      "translationType": "human",
+      "parts": [],
+      "downloads": 0
     }
   ],
-  "sig": "bda4e7217311915b3ef5b2f2b398d2167f1ff20a17e156b98a6baba0b415ad39e41afe6029ffde56ad0900984e8d2c31c30f487820cd90b7aae62233d8cb8607"
+  "sig": "ef4d90e8b23ee88d9c5bb90bfc78c59169111d372de0b20c54ce055bad4531a91387a235bb5c4d4e7859ce90e44d9b18a42374371fe8e734ca5d025fc61a0b02"
 }
