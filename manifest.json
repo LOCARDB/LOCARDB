@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T17:10:44.273Z",
+  "updatedAt": "2026-10-24T18:12:57.422Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -559,7 +559,72 @@
       "translationType": "human",
       "parts": [],
       "downloads": 0
+    },
+    {
+      "id": "CUSA01708",
+      "titleId": "CUSA01708",
+      "name": "Devil May Cry 4 Special Edition",
+      "team": "ماجد العتيبي",
+      "version": "1.0",
+      "supportedUpdate": "1.00",
+      "format": "AFR",
+      "size": 7624499196,
+      "sha256": "",
+      "url": "",
+      "api": "",
+      "icon": "media/icons/mvmnoyzh-wz2q.png",
+      "screenshots": [
+        "media/shots/mvmnp0d5-shoh.jpg",
+        "media/shots/mvmnp1xl-51tm.jpg",
+        "media/shots/mvmnp36g-j9jq.jpg",
+        "media/shots/mvmnp4up-vq1t.jpg"
+      ],
+      "iconSha256": "5193094005926650dc1976f997d5da7e1e12f3880d265a0765831fb8f8b834d0",
+      "screenshotsSha256": [
+        "4f9738b2b7af74b196100b6b18c2c2614041502267b347901f0947c3f7d85a00",
+        "a9a4ab6f48bee23634d1986faae96550023e54d4dc8925c29175d605b16c7d3b",
+        "6d5dacebe26773d178692370a83eb3a3ab51b5290cfa71c42a3064f422e09515",
+        "f4dbeecb500cdc4c4e08fcd6cb044484728bc790c813d779f63e19b793ae58fa"
+      ],
+      "description": "ترجمة: ماجد العتيبي + داركو  (عبدالعزيز)",
+      "readme": "",
+      "origin": "community",
+      "translationType": "human",
+      "parts": [
+        {
+          "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA01708_T1.0_G1.00_HUMAN_584d08.part01.zip",
+          "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/672840990",
+          "size": 1566120798,
+          "sha256": "ce5b9e7f4cbc99712112f289c5527d4c7642c9b6e0645f809c96f70113d92fb6"
+        },
+        {
+          "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA01708_T1.0_G1.00_HUMAN_584d08.part02.zip",
+          "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/672864462",
+          "size": 1583147334,
+          "sha256": "189ddbb9852148358078f68192fc55310f3111e9d333706962fc7c2abf87a2c6"
+        },
+        {
+          "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA01708_T1.0_G1.00_HUMAN_584d08.part03.zip",
+          "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/672888881",
+          "size": 1607830427,
+          "sha256": "ce380df24a11432c95d2def08ef63c13590b57c358f869b5af7353eb85587935"
+        },
+        {
+          "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA01708_T1.0_G1.00_HUMAN_584d08.part04.zip",
+          "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/672914149",
+          "size": 1577236863,
+          "sha256": "7d7bb694f5e018a6153924ffcfa4257c4b7f9f941aa17b5afe09810c51462095"
+        },
+        {
+          "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA01708_T1.0_G1.00_HUMAN_584d08.part05.zip",
+          "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/672938489",
+          "size": 1290163774,
+          "sha256": "f9a4e81c85e5f354c4c1c313a43a070943b5b0298e5d73d09c81af49b169a5a8"
+        }
+      ],
+      "partsFormat": "zip",
+      "downloads": 0
     }
   ],
-  "sig": "339785006e33100606d37501efec3aa258d5ee51b5b2b99aa35ffe7d5df5493bb8f3442392774255c28c200e10a37b5a8d1451842ec1ef9a3c792118b4ccbb0d"
+  "sig": "4458be8825ca3adbb59b9238ffe1ca2314d2a19a80358d8c62479d1412055c2488c5ff68c84e6b25c18b50c0c8e63367b2a3fa5f3ae6aa26c69c866c6703a304"
 }
