@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T20:15:12.478Z",
+  "updatedAt": "2026-10-24T20:19:41.784Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -558,7 +558,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 0
+      "downloads": 2
     },
     {
       "id": "CUSA01708",
@@ -666,10 +666,10 @@
       "version": "1.0",
       "supportedUpdate": "1.00",
       "format": "AFR",
-      "size": 16264829,
-      "sha256": "f7b2db8b7462d12a98b7244fd60600d00b63b5e18d16b7b8d4e77c1d5673e193",
+      "size": 16265159,
+      "sha256": "4ff3cda28f6d3862485b9dabd759f7f8475176130855d4df139b00ba53684800",
       "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA00342_T1.0_G1.00_HUMAN_ArGamez.zip",
-      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/673206527",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/673214986",
       "icon": "media/icons/mvmu7dwy-3auo.jpg",
       "screenshots": [
         "media/shots/mvmu7gb1-3f5m.jpg",
@@ -692,7 +692,7 @@
         "16f53a1430d42fd7279d02ff09cb142111389777c10f2f100c034bd46b902706",
         "2afca369d906c8d2aafc696814d54dc3177178cb82c0518a3130cfd55448995f"
       ],
-      "description": "",
+      "description": "فريق العمل\n\nالبرمجة و التعريب\nعمر أحمد\n\nتنسيق عام و إدارة دعائية\n\n (TERGAAA) \nمحمود ترجاا\n\n\n\nالدعم الفني\nمصطفى حسن\n\n\n\nرئيس فريق الترجمة\nمحمد صبحي\n\nالمترجمين\nمحمود مجدي\n\n\nدينا جمال\nمحمد أمين\nأسيد الحميدي\nماريو عاطف\nمحمد هارون\nمحمد أنور\nشادي محمد\nابراهيم سمير الزواوي\nأدهم قاسم\nDoka Moussa\nCoenterao Abdalaziz\n\nشكر خاص\n\nسليمان أبو عمر\n",
       "readme": "",
       "origin": "community",
       "translationType": "human",
@@ -700,5 +700,5 @@
       "downloads": 0
     }
   ],
-  "sig": "ef4d90e8b23ee88d9c5bb90bfc78c59169111d372de0b20c54ce055bad4531a91387a235bb5c4d4e7859ce90e44d9b18a42374371fe8e734ca5d025fc61a0b02"
+  "sig": "a89b1504b9ed5b27425e69a47bb6c20c7ea27443d7bfd6a227ec3e6c9a23a277af084d964f56bb589f49ca129ad3d6ac0199d9c947bf3354e7272f662a69d407"
 }
