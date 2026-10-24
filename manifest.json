@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T00:01:12.213Z",
+  "updatedAt": "2026-10-24T00:12:39.419Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -453,7 +453,42 @@
       ],
       "parts": [],
       "downloads": 0
+    },
+    {
+      "id": "CUSA03309",
+      "titleId": "CUSA03309",
+      "name": "Far Cry Primal",
+      "team": "3arabiGames",
+      "version": "1.0",
+      "supportedUpdate": "1.03",
+      "format": "AFR",
+      "size": 698679951,
+      "sha256": "99206ceb8e6c1297500c2a00b7764e1de4fd25d2f20ba182f55c02109090a667",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA03309_T1.0_G1.03_HUMAN_3arabiGames.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/670776734",
+      "icon": "media/icons/mvln0sux-ha9r.png",
+      "screenshots": [
+        "media/shots/mvln0wek-ggw0.png",
+        "media/shots/mvln0xww-du6u.png",
+        "media/shots/mvln0zb8-muck.png",
+        "media/shots/mvln118p-07vr.png",
+        "media/shots/mvln12lj-w1iz.png"
+      ],
+      "iconSha256": "f1c1bf63149bc2bfd5e8b40a6f93341a3209da88cf6e287fa4f2d8de5ff4a0a2",
+      "screenshotsSha256": [
+        "36135af98db1501bd12f4f061918d0bf673038ccaeaed7d7f806c96424d8d5bb",
+        "19241eaabc10faaecd87c0c0c58bc83b2a451a31b0d79c73dedf1a882781ab6f",
+        "487d82e9fc4a4879feaa00c768aba245b4acc871ef13211acc32db252f3f1529",
+        "8e6bb2d0662b841db175a6dd7030d630eda7e601fce99f715cbe63b4bf238b13",
+        "482df8cd15f2608658b4ea4325287a07459816ad7e4a01d61826a7ce5298a37f"
+      ],
+      "description": "من إعداد 3arabiGames (ramy zahran)",
+      "readme": "",
+      "origin": "community",
+      "translationType": "human",
+      "parts": [],
+      "downloads": 0
     }
   ],
-  "sig": "33f269e1531b5aac30c99a166c39256592cf7135f8de5e46edced0973a139c821b43b095ff419846f11ae14c72f26b6d20ea0ed84ce67b5c5b6475bfaa2cab09"
+  "sig": "50f0d0e3dd0ae594fb91343af034489aeda73aade1807aceccf398592f45a82cbcef084fbbf713a3ce29ca64773bca7e0bd350f54007112fcfe4d7f798487009"
 }
