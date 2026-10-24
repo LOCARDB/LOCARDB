@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T01:58:02.832Z",
+  "updatedAt": "2026-10-24T12:38:42.066Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -522,32 +522,70 @@
       "parts": [
         {
           "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA01708_T1.0_G1.00_HUMAN_584d08.zip.part01",
-          "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/670867685",
+          "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/672117297",
           "size": 1610612736
         },
         {
           "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA01708_T1.0_G1.00_HUMAN_584d08.zip.part02",
-          "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/670890183",
+          "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/672145472",
           "size": 1610612736
         },
         {
           "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA01708_T1.0_G1.00_HUMAN_584d08.zip.part03",
-          "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/670917526",
+          "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/672169759",
           "size": 1610612736
         },
         {
           "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA01708_T1.0_G1.00_HUMAN_584d08.zip.part04",
-          "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/670946241",
+          "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/672192565",
           "size": 1610612736
         },
         {
           "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA01708_T1.0_G1.00_HUMAN_584d08.zip.part05",
-          "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/670971533",
+          "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/672216337",
           "size": 1182054636
         }
       ],
       "downloads": 0
+    },
+    {
+      "id": "CUSA25000",
+      "titleId": "CUSA25000",
+      "name": "Kena Bridge of Spirits",
+      "team": "الحلم المتجدد",
+      "version": "1.0",
+      "supportedUpdate": "2.08",
+      "format": "AFR",
+      "size": 2916078,
+      "sha256": "0a520b573ecf894024c7134b595947b86ad2a435c3dd7c63fafaf9670f97f38e",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA25000_T1.0_G2.08_HUMAN_be95cf.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/672234054",
+      "icon": "media/icons/mvmbtyjf-r9zj.png",
+      "screenshots": [
+        "media/shots/mvm976ot-f4ej.jpg",
+        "media/shots/mvm978yl-ebhk.jpg",
+        "media/shots/mvm97aea-dzo2.jpg",
+        "media/shots/mvm97c5s-sb36.jpg",
+        "media/shots/mvm97e31-t4t9.jpg"
+      ],
+      "iconSha256": "e1ecfab6e85eaa941e6694d0a45374772ea5dfd90ba6c3a0c9ce3d570f557bb0",
+      "screenshotsSha256": [
+        "252fcbc73c50d35b330b0610c1e3233425d23b6ce897c93b05a9298a7e43b230",
+        "38536d8b11d72b9bc29faafa9a6a3f849e4fe3e17949e102782eebb8600d01cb",
+        "77476aca4df5a9e4d6fb7fffe20582b5feb44b12c27bf1bbecbab5f50631cddc",
+        "5b8c1e41ddc45112896b3516c1f0c612c21457fa6b400a04c972cff659075aa4",
+        "12968cb1eb3f6cb7b7e62c09bfffa79bf29d71f338fee3c458c292ae54a8d774"
+      ],
+      "description": "إدارة المشروع: AdamSaeed\nالتعديل التقني: AdamSaeed (نسخة الحاسب)، Allen Wouka (دعم نقل نسخة PS4)\nالترجمة: AdamSaeed، و StriverFreedom و Spad.\nالتدقيق: AdamSaeed، منصور (ملاحظات)\nالشعار: Dothir\nمراقبة الجودة: رائد، DARD\nالتواصل: منصور، رائد\nشكر خاص: Irish Hercules (دعم بخصوص الفيديوهات)، Albatros (ملاحظات)",
+      "readme": "",
+      "origin": "community",
+      "translationType": "human",
+      "compatibleTitleIds": [
+        "CUSA24853"
+      ],
+      "parts": [],
+      "downloads": 0
     }
   ],
-  "sig": "1f2daadca8327ae7bec341dc5c3d7d19f021e5069afceca937a205ae879aaeb6b202661150ada4e633eca74283d6a5a087c185be0dbeaf6658766842fbf65802"
+  "sig": "61c3f23e08fa2a504d9e5b17be46c1a6629267a07ffbc1e452ff9dc71f58a1f6b7663f9bdeabd02d5e92bb1fae80cb502a0e1bc7ffaf53d4e9c346d3da3b4f04"
 }
