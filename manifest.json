@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T12:38:42.066Z",
+  "updatedAt": "2026-10-24T15:21:55.086Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -585,7 +585,40 @@
       ],
       "parts": [],
       "downloads": 0
+    },
+    {
+      "id": "CUSA18100",
+      "titleId": "CUSA18100",
+      "name": "Mafia Definitive Edition",
+      "team": "عمرو شاهين",
+      "version": "1.0",
+      "supportedUpdate": "1.00",
+      "format": "AFR",
+      "size": 7755579,
+      "sha256": "43f75ea86e3e98083e5af33c30948b49caffd6b6a6977a3411c03522862283bd",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA18100_T1.0_G1.00_HUMAN_653757.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/672593490",
+      "icon": "media/icons/mvmjpump-1aib.png",
+      "screenshots": [
+        "media/shots/mvmjpwi8-bae6.jpg",
+        "media/shots/mvmjpxui-o32w.jpg",
+        "media/shots/mvmjpz2f-9pin.jpg",
+        "media/shots/mvmjq0g8-cfhu.jpg"
+      ],
+      "iconSha256": "040eb4acdd204dca292ca964b6d75172a566c3379814de5a550f1453c327a699",
+      "screenshotsSha256": [
+        "9ba11a41421ca8d8c232d4ee46b798f4ba8f66c982e74ba5f401cf4801ad0451",
+        "e8831ebf015d7f4183a68344bb83d6ba0c0bfddaebed0fa0e979ec21ce902b8c",
+        "acb4b4f5a6b5ed2dadcc48eee7e6ce687ce17ed49529502060cc25cd3041deb9",
+        "db32322a0db08a500529c867f694fe31f849d6772300fef750a7fb3c1c12525b"
+      ],
+      "description": "برمجة وتعريب\nعمرو شاهين",
+      "readme": "",
+      "origin": "community",
+      "translationType": "human",
+      "parts": [],
+      "downloads": 0
     }
   ],
-  "sig": "61c3f23e08fa2a504d9e5b17be46c1a6629267a07ffbc1e452ff9dc71f58a1f6b7663f9bdeabd02d5e92bb1fae80cb502a0e1bc7ffaf53d4e9c346d3da3b4f04"
+  "sig": "4f996045b384372cde04bfb6a7cbd14440bb00c7e2928709525a35bb86290701f4726c997cbc63a3b3861336d4e8a290490291ae59c66ef6202456206b2e720b"
 }
