@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T22:47:22.193Z",
+  "updatedAt": "2026-10-24T00:01:12.213Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -257,7 +257,7 @@
         "CUSA02826"
       ],
       "parts": [],
-      "downloads": 12
+      "downloads": 14
     },
     {
       "id": "CUSA02320_1.02",
@@ -417,7 +417,43 @@
       ],
       "parts": [],
       "downloads": 0
+    },
+    {
+      "id": "CUSA10326",
+      "titleId": "CUSA10326",
+      "name": "Far Cry 3 Classic Edition",
+      "team": "عمرو شاهين",
+      "version": "1.0",
+      "supportedUpdate": "1.02",
+      "format": "AFR",
+      "size": 4585682,
+      "sha256": "73d2b69741d461e91223ce0b413dd1b1fca1db1e6f75a03c39b4be1f842a979f",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA10326_T1.0_G1.02_HUMAN_653757.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/670765180",
+      "icon": "media/icons/mvlmu82f-lna7.png",
+      "screenshots": [
+        "media/shots/mvlmu9p8-8jz7.jpg",
+        "media/shots/mvlmub2s-idpu.jpg",
+        "media/shots/mvlmucfa-d9al.jpg",
+        "media/shots/mvlmue38-qo3x.png"
+      ],
+      "iconSha256": "b50af2d45b18d5c5be3902d54aeda7361efbf3d668f14e6c4399d60312ad6213",
+      "screenshotsSha256": [
+        "ee1b31f2611b41d6cfaca0881202f80a8d9b4f70da318a7e93da8af50c0389bc",
+        "71725804e61be04cb839c0c139bf65284306acbb091561a48a2f3778f0aad107",
+        "89bcb7a2f0ee095efd2a8988c8195cf106c68c9fbe427669bebd65da490051d7",
+        "f43fe7e7d8ea1dc624335d97b0f40a088d55daf3d86be2414bd30d99d21a2b07"
+      ],
+      "description": "برمجة وتعريب\nعمرو شاهين",
+      "readme": "",
+      "origin": "community",
+      "translationType": "human",
+      "compatibleTitleIds": [
+        "CUSA10357"
+      ],
+      "parts": [],
+      "downloads": 0
     }
   ],
-  "sig": "8862e397a4d0b846d7129295f3b63160a5ba6f7548d7065e37e24fac4dacb986cb1bdf5ac9b91a080a631c7064d3cacd04aa8d4ff2f682afe3fa4d9d4986ac08"
+  "sig": "33f269e1531b5aac30c99a166c39256592cf7135f8de5e46edced0973a139c821b43b095ff419846f11ae14c72f26b6d20ea0ed84ce67b5c5b6475bfaa2cab09"
 }
