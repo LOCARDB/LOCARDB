@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T20:27:17.169Z",
+  "updatedAt": "2026-10-25T10:30:02.522Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -733,7 +733,38 @@
       "translationType": "human",
       "parts": [],
       "downloads": 0
+    },
+    {
+      "id": "CUSA16289",
+      "titleId": "CUSA16289",
+      "name": "Samurai Jack Battle Through Time",
+      "team": "TeamTranslate",
+      "version": "1.0",
+      "supportedUpdate": "1.02",
+      "format": "AFR",
+      "size": 4753331,
+      "sha256": "87007deed840813d9c22db1fbb695decd9c0f12334e7c8afe671470cab224610",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA16289_T1.0_G1.02_HUMAN_TeamTranslate.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/674750786",
+      "icon": "media/icons/mvnor9rt-p712.png",
+      "screenshots": [
+        "media/shots/mvnorb7b-75ix.jpg",
+        "media/shots/mvnorcm9-3uq9.jpg",
+        "media/shots/mvnords9-h2j5.jpg"
+      ],
+      "iconSha256": "ab64d1966c013115a06cd8bb03268f9e052179edb2c423a6c9b757d33505c929",
+      "screenshotsSha256": [
+        "601520aaee6f9a074a797b1ff7c1e4bc9da63d259fd594d5112df4ca440b5fed",
+        "e5cf378530d5b12fb4700bd0eb80bc049d24a57beffe5cbb639001527fac1908",
+        "8017c09f64f6bda05e4994c0d359c9b85b91918ae261aca9a82ddecdd6bf9076"
+      ],
+      "description": "تعريب فريق Team Translate ",
+      "readme": "",
+      "origin": "community",
+      "translationType": "human",
+      "parts": [],
+      "downloads": 0
     }
   ],
-  "sig": "7d28562fd224ac162df6378a40efe016764f0b3dd0bd186816ecbd35d659af8cc2836580afffa6b012aa1c307b7bac81da8c77ec09f2225ffe847cf5a0d5620f"
+  "sig": "1f4d3214daa6de73c4c38c53799cd8978af166686a33d9389a0e296a556391d28cfbbbaea451a5e9f3a259135d9e1749b620a32af08bca90406147f7023cfa07"
 }
