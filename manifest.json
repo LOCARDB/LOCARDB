@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T20:40:06.012Z",
+  "updatedAt": "2026-10-25T20:52:29.975Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -995,7 +995,47 @@
       "translationType": "human",
       "parts": [],
       "downloads": 0
+    },
+    {
+      "id": "CUSA10410",
+      "titleId": "CUSA10410",
+      "name": "Code Vein",
+      "team": "الحلم المتجدد",
+      "version": "1.0",
+      "supportedUpdate": "1.53",
+      "format": "AFR",
+      "size": 4678833,
+      "sha256": "4637872bb2fba39cc54bbefb9f718a92c181a194579712add7c8efa92df665eb",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA10410_T1.0_G1.53_HUMAN_be95cf.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/676097085",
+      "icon": "media/icons/mvoawv15-vhm1.png",
+      "screenshots": [
+        "media/shots/mvoaxwf6-y5n4.jpg",
+        "media/shots/mvoay13x-dnl9.jpg",
+        "media/shots/mvoay2pi-t77i.jpg",
+        "media/shots/mvoay48l-wljq.jpg",
+        "media/shots/mvoay5oj-mdmb.jpg",
+        "media/shots/mvoay6zn-qt81.jpg"
+      ],
+      "iconSha256": "0dc1a79c4db7dfe73884cc26d06acb3b8a48ffd3cb9e3eb50f7e8513420eabfa",
+      "screenshotsSha256": [
+        "bdc0a697431a5d529633d2a8b8d5f4a1c5281b75d560eaae52f71d3c1581c72f",
+        "9345178050fc4862f4a4850279b823c29143151caaab12ff863f8d87d42365a3",
+        "07ae30f6b486041661dec8b87f461f75cd6252b6c65606a5a22b35f5018f3429",
+        "215f29d3bc5ed3293ddc63b98599263dcaefbba849200badfbb9f51d53cae2ed",
+        "7f1a8a4ddb0370d243b6024098b05eb00fb29eb0044417ea82e51bb6ce84cccb",
+        "21f91cac47436cc956d0736c1fe1469553cedc5fbb364b3e7c20dd96bbfa4113"
+      ],
+      "description": "التعديل التقني: Hayyan • آسغور\nالترجمة: Allen Wouka • عبد الوهاب • Zojaj • Mo7nek\nالتدقيق والتحرير: Allen Wouka\nالشعار والتوجه الفني: Hayyan • منصور\nالإختبار: Allen Wouka • Phos • عبد الوهاب • AdamSaeed\nنقل التعريب: !MAX (نسخة الـPS4)\nالنشرة: Allen Wouka • ‏Levan",
+      "readme": "",
+      "origin": "community",
+      "translationType": "human",
+      "compatibleTitleIds": [
+        "CUSA10246"
+      ],
+      "parts": [],
+      "downloads": 0
     }
   ],
-  "sig": "99be1655d1c51b025c127991f16ed24252dcbfb8d6c47099386f16337f07ddaab1a0af5d364b94425360c83e74754aa5e0823adadda3ac00e80f82f462016802"
+  "sig": "4bfafe841fb4edadd701a994fcf65abdbc00e8becd16e10e94bb0e93d9ad6f581aab807c0214a01022becbdb7bfa4b3100e350cd90a2d18725a12ca05bd6fb0b"
 }
