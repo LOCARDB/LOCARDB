@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T16:19:14.513Z",
+  "updatedAt": "2026-10-25T16:19:54.742Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -742,11 +742,11 @@
       "version": "1.0",
       "supportedUpdate": "1.02",
       "format": "AFR",
-      "size": 4753331,
-      "sha256": "87007deed840813d9c22db1fbb695decd9c0f12334e7c8afe671470cab224610",
+      "size": 4753367,
+      "sha256": "64cb9ca891468682718a98df545fbd5c6026c0cf557709bd52eb6119785ffa99",
       "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA16289_T1.0_G1.02_HUMAN_TeamTranslate.zip",
-      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/674750786",
-      "icon": "media/icons/mvnor9rt-p712.png",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/675507235",
+      "icon": "media/icons/mvo19h1u-69ff.png",
       "screenshots": [
         "media/shots/mvnorb7b-75ix.jpg",
         "media/shots/mvnorcm9-3uq9.jpg",
@@ -758,7 +758,7 @@
         "e5cf378530d5b12fb4700bd0eb80bc049d24a57beffe5cbb639001527fac1908",
         "8017c09f64f6bda05e4994c0d359c9b85b91918ae261aca9a82ddecdd6bf9076"
       ],
-      "description": "تعريب فريق Team Translate ",
+      "description": "تعريب فريق Team Translate \nنقل التعريب لمنصة PS4:\nabodora2",
       "readme": "",
       "origin": "community",
       "translationType": "human",
@@ -800,5 +800,5 @@
       "downloads": 0
     }
   ],
-  "sig": "6df8d8555b9003762c6c9549efd76ee9e55ce0c94720fc48ccf7c1f7510fb2fad95c8b194d969c79a3a4b7947df09596af288d6183d3cccfe44b935deb2ee702"
+  "sig": "b2674029443c1143347f1458d8e4370c98f46d6d63d1354424114132ef13231e455fb261b5298f90dca280113224fbc2eb8943e7e5b97aa46ef22c1c1975550d"
 }
