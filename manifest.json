@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T23:46:37.823Z",
+  "updatedAt": "2026-10-25T23:48:39.324Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -1044,18 +1044,18 @@
       "version": "1.0",
       "supportedUpdate": "1.09",
       "format": "AFR",
-      "size": 193320507,
-      "sha256": "14db528f3aca7da0035006ec519cc9e898cab9ad271369e1977ae5acfcb36ed5",
+      "size": 193320512,
+      "sha256": "ad5980c5a66c5a6cbecfb5db4916c5c6ff34ea2eb51362c8cd8b8a0558446a6f",
       "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA57547_T1.0_G1.09_HUMAN_653757.zip",
-      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/676419462",
-      "icon": "",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/676447341",
+      "icon": "media/icons/mvoh8ipv-lvak.png",
       "screenshots": [
         "media/shots/mvogpxmy-srir.jpg",
         "media/shots/mvogpz8b-gpnv.jpg",
         "media/shots/mvogq0kr-8je6.jpg",
         "media/shots/mvogq276-dhmw.jpg"
       ],
-      "iconSha256": "",
+      "iconSha256": "5b9a8dcff4afeb44616d1322c971c5fb59b78a9e338ba42016d772f4193536ab",
       "screenshotsSha256": [
         "6de8988dbd820570fc4f17e7ad26e3e66b9cb79ac2d3e3d3813c63a752042711",
         "4c651cc722d52ad903bc59699a668c381252ed0f701c9331c7058983bee25f7f",
@@ -1070,5 +1070,5 @@
       "downloads": 0
     }
   ],
-  "sig": "d5b0c36760a65de7873e315bce045ee689c5d73fcfd15d08f95ced3f4d2dc570b157d4630c02430b24c3309e1f79ede4ef395f98c2abbf46ab9aeed048ae3202"
+  "sig": "62cee45274d9c95508673bf88fc2221271f2778a8eaa9f2e2d0c796ea58260a6a2122b2c8af441fd67761c1a0041c797798aed59e089595003b0056bf350210d"
 }
