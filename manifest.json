@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T16:19:54.742Z",
+  "updatedAt": "2026-10-25T16:26:39.180Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -798,7 +798,30 @@
       ],
       "parts": [],
       "downloads": 0
+    },
+    {
+      "id": "CUSA07029",
+      "titleId": "CUSA07029",
+      "name": "Wonder Boy The Dragons Trap",
+      "team": "الحلم المتجدد",
+      "version": "1.0",
+      "supportedUpdate": "1.01",
+      "format": "AFR",
+      "size": 16381836,
+      "sha256": "d531eb5d74fe4d5985f67236d8e09e29844f364a70dee4f1ba249eac79861518",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA07029_T1.0_G1.01_HUMAN_be95cf.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/675524976",
+      "icon": "media/icons/mvo1hn7e-bwzq.png",
+      "screenshots": [],
+      "iconSha256": "f890e3c222a02e812ce3112cb57f21258f1e6d11e1de1b9df4888e30e21e03d1",
+      "screenshotsSha256": [],
+      "description": "منصور – ترجمة نصية (مرسكلة من النسخة الحديثة)، خطوط و شعارات، ادخال نصوص (أولي).\ne% – ادخال نصوص (تكميلي)، اعادة توزيع التايلات لشاشة العنوان و النصوص المستعصية.\nشكر خاص – خالد حسني على تطويره خدمة الخط الكوفي الفاطمي التي استعملناها لتصميم شاشة العنوان.\nلم نستشر، أو نستعمل جهد/أبحاث/معلومات أحد غيرنا في عملنا على هذه النسخة.\nالنسخة الحديثة:\nمنصور – ترجمة نصية رئيسية، تعديل خطوط/رسوم، ادخال نصوص (الجزء الحديث، جزء الريترو).\nAdamSaeed – تصميم شعار شاشة العنوان الرائع.\nشكر خاص – e%، داركو، صفا (محاولات ادخال نصوص أولية)، oblait، كوتشيكي، و كل أعضاء الفريق (اقتراحات).\nنقل التعريب لنسخ PS4 و Switch:\nAllen Wouka – نقل لنسخة PS4.\nشكر خاص – داركو (نظر في نقل التعريب لنسخة سويتش).",
+      "readme": "",
+      "origin": "community",
+      "translationType": "human",
+      "parts": [],
+      "downloads": 0
     }
   ],
-  "sig": "b2674029443c1143347f1458d8e4370c98f46d6d63d1354424114132ef13231e455fb261b5298f90dca280113224fbc2eb8943e7e5b97aa46ef22c1c1975550d"
+  "sig": "f87f2fb7bde2ab99e189f3eb5302ef660cf487f935f7460c9288b9ba87bb9a03fe116a8af1c0a7c7458ae98588db6a22b0ad30a067aef08936280b736ecf9b04"
 }
