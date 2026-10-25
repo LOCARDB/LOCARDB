@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T20:14:36.881Z",
+  "updatedAt": "2026-10-25T20:31:03.706Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -924,7 +924,43 @@
       ],
       "parts": [],
       "downloads": 0
+    },
+    {
+      "id": "CUSA01589",
+      "titleId": "CUSA01589",
+      "name": "Dark Souls 2 Scholar of The First Sin",
+      "team": "الحلم المتجدد",
+      "version": "1.0",
+      "supportedUpdate": "1.02",
+      "format": "AFR",
+      "size": 20040597,
+      "sha256": "fc59cbb444097775f3ec4083a151ddcb0d3fbc45e200248aec7d8f75c6893182",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA01589_T1.0_G1.02_HUMAN_be95cf.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/676050541",
+      "icon": "media/icons/mvoa8430-313v.png",
+      "screenshots": [
+        "media/shots/mvoa3oj5-29ss.png",
+        "media/shots/mvoa3pzz-hzgj.png",
+        "media/shots/mvoa3rci-2xph.png",
+        "media/shots/mvoa3sme-nluw.png"
+      ],
+      "iconSha256": "1d8cfb42facfe649e512f35f574cfe33f3e591f42a47ac5e9dd39a1f5bfb7653",
+      "screenshotsSha256": [
+        "fba13213e4f75eb2d16b01ac4eed7f04241ce80ef970bf155b92999d0063e4a4",
+        "b8bfa57bb1a2e64f6a73d3b3ee112abb086edd9b51ced530390d9ec58642e0f1",
+        "677f729f177cd3eb67f11c03f5ed0c40c559add15f0f70d37ecb616e5f9c82fb",
+        "c0808b1ec66fe07c6a972d2f82b0ff7fdd5b757ce6d1876612e984a852ff40cd"
+      ],
+      "description": "التعديل التقني: آسغور • AdamSaeed • Garden of Eyes.\nتصميم الخط: آسغور • AdamSaeed.\nالترجمة الأساسية: جيزص • Mesho • Allen Wouka • عبد الوهاب • يُونُس العبيْدي • Zojaj • Mo7nek.\nالترجمة الفرعية: منصور • ديناصور • A_hassan.\nالتدقيق والتحرير: Allen Wouka • Mesho • الهمام • Yasser\nالشعار والتوجه الفني: KayMaw • منصور.\nالنشرة: منصور.\nالصور والتصاميم: منصور • Hayyan • Allen Wouka.\nنقل التعريب: !MAX (نسخة الـPS4)\nشكر خاص: Aetius (لحفظه السر) • Phos (تشجيع معنوي) • فريق DarkWare (صفحة فروم سوفت بالعربي)، مجتمع السولز للتعديلات وخاصة SoulsTools و الفريق المجري لترجمة اللعبة",
+      "readme": "",
+      "origin": "community",
+      "translationType": "human",
+      "compatibleTitleIds": [
+        "CUSA01760"
+      ],
+      "parts": [],
+      "downloads": 0
     }
   ],
-  "sig": "5f198c1184a96ba8f3c972f1a0da89ba811078bce02193cfb1ca1356ff866ba90cd3b65c4361a97d361ba59f511c2d6a56927265ea5bb6e2be9c62a17ceb3608"
+  "sig": "8bea17bbfc01d64daa382ea1e871d1eeae4e3619c3e245ed03c449acf006b649f3255d1333435a9c24d93df40f883e7a53ec04d16bb47f7aa7dbac8fc0beb200"
 }
