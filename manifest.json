@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T16:26:39.180Z",
+  "updatedAt": "2026-10-25T16:34:27.499Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -821,7 +821,43 @@
       "translationType": "human",
       "parts": [],
       "downloads": 0
+    },
+    {
+      "id": "CUSA04437",
+      "titleId": "CUSA04437",
+      "name": "Resident Evil 5",
+      "team": "ماجد العتيبي",
+      "version": "1.0",
+      "supportedUpdate": "1.01",
+      "format": "AFR",
+      "size": 79974694,
+      "sha256": "a2dee144251608234c568c9fdae1fffcd18299c1601d5f939001479adf036697",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA04437_T1.0_G1.01_HUMAN_584d08.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/675543538",
+      "icon": "media/icons/mvo1q3qe-tjh7.jpg",
+      "screenshots": [
+        "media/shots/mvo1q5gl-1xkd.jpg",
+        "media/shots/mvo1q6w2-dequ.jpg",
+        "media/shots/mvo1q8c4-fu28.jpg",
+        "media/shots/mvo1q9rx-8elf.jpg"
+      ],
+      "iconSha256": "bb0efdf5169b862eb745dbfc2542ffd8e171c12fa680bd82305d4a2431b41c4f",
+      "screenshotsSha256": [
+        "22320ee7a69b110c20aacc01024f3dc9277a699fb341abbd0b02e944a6fedd92",
+        "424140bd1cf791af342c786cc9bca26e68b004abee7bb2e24c31a3cf8f348413",
+        "e68faead282e5d6e0098ab8840f246a039cb8cd732b5ce72f1b74d3bff4fd47a",
+        "c655cabf9dbe254704eec145a787c17f2234730f60732d0d5aefb9aae90be154"
+      ],
+      "description": "تعريب ماجد العتيبي\nنقل التعريب لمنصة PS4:\nabodora2",
+      "readme": "",
+      "origin": "community",
+      "translationType": "human",
+      "compatibleTitleIds": [
+        "CUSA04284"
+      ],
+      "parts": [],
+      "downloads": 0
     }
   ],
-  "sig": "f87f2fb7bde2ab99e189f3eb5302ef660cf487f935f7460c9288b9ba87bb9a03fe116a8af1c0a7c7458ae98588db6a22b0ad30a067aef08936280b736ecf9b04"
+  "sig": "b5661cb06775cc5a0dedbc718759c9be3f3256d35adce5d86eb4019eacc8de8f32531ac8377914e65efd45bf98db81b8d4e8cf68858c29301c4a3c6ea2f8a401"
 }
