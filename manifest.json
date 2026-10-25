@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T10:35:20.458Z",
+  "updatedAt": "2026-10-25T16:19:14.513Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -773,23 +773,23 @@
       "version": "1.0",
       "supportedUpdate": "1.00",
       "format": "AFR",
-      "size": 75726097,
-      "sha256": "9bea5ecda94cb039471d99ffb138cc917a4ba5a812bbe2e21639714ac3a3fbf5",
+      "size": 75806238,
+      "sha256": "6ef77a8cb2d1b2422114fbe9f15b3f43a46ecdbb0c83d0f39b49a241f13a64c1",
       "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA03773_T1.0_G1.00_HUMAN_584d08.zip",
-      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/674759636",
-      "icon": "media/icons/mvnowpne-pfus.png",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/675503939",
+      "icon": "media/icons/mvo17w21-ie9b.png",
       "screenshots": [
         "media/shots/mvnowr9l-e0ib.png",
         "media/shots/mvnowsk1-g0j4.jpg",
         "media/shots/mvnowtti-dyrf.png"
       ],
-      "iconSha256": "f03239b37992b60a9b92b9fd398bf18d60093135907c014f76f7591c57a5aba5",
+      "iconSha256": "b7e4eb15fc08446c02cb9654c0dd07e6bc7ecb421aa6b29fb5fe5d3fa3b3058f",
       "screenshotsSha256": [
         "9048ca8a0044710da8f4faf3da96cc10d361a857d57f44552dd464449ca9c67b",
         "cedaf7334bf2124071e467e6903a33d396a19faf523b63adc81b7fe24c23e8bd",
         "c105e4a7018782fc40659744e7cb313d6d8f6b986a411b16c56543b3e5f0d087"
       ],
-      "description": "تعريب: ماجد العتيبي",
+      "description": "تعريب:\nماجد العتيبي\n\nنقل التعريب لمنصة PS4:\nabodora2",
       "readme": "",
       "origin": "community",
       "translationType": "human",
@@ -800,5 +800,5 @@
       "downloads": 0
     }
   ],
-  "sig": "440f91d5c4485185a796cad90875d7d619e377487b6e83aee4c49b2f805c9b086ae0af26f90b3066322fd738ba297edfccfff9e0128c8895da84934c5090d209"
+  "sig": "6df8d8555b9003762c6c9549efd76ee9e55ce0c94720fc48ccf7c1f7510fb2fad95c8b194d969c79a3a4b7947df09596af288d6183d3cccfe44b935deb2ee702"
 }
