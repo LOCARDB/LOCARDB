@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T23:34:26.897Z",
+  "updatedAt": "2026-10-25T23:46:37.823Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -1039,7 +1039,7 @@
     {
       "id": "CUSA57547_1.09",
       "titleId": "CUSA57547",
-      "name": "Call of Duty Black Ops",
+      "name": "Call of Duty Black Ops - 1.09",
       "team": "عمرو شاهين",
       "version": "1.0",
       "supportedUpdate": "1.09",
@@ -1048,14 +1048,14 @@
       "sha256": "14db528f3aca7da0035006ec519cc9e898cab9ad271369e1977ae5acfcb36ed5",
       "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA57547_T1.0_G1.09_HUMAN_653757.zip",
       "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/676419462",
-      "icon": "media/icons/mvogpvc6-fg24.png",
+      "icon": "",
       "screenshots": [
         "media/shots/mvogpxmy-srir.jpg",
         "media/shots/mvogpz8b-gpnv.jpg",
         "media/shots/mvogq0kr-8je6.jpg",
         "media/shots/mvogq276-dhmw.jpg"
       ],
-      "iconSha256": "5b9a8dcff4afeb44616d1322c971c5fb59b78a9e338ba42016d772f4193536ab",
+      "iconSha256": "",
       "screenshotsSha256": [
         "6de8988dbd820570fc4f17e7ad26e3e66b9cb79ac2d3e3d3813c63a752042711",
         "4c651cc722d52ad903bc59699a668c381252ed0f701c9331c7058983bee25f7f",
@@ -1070,5 +1070,5 @@
       "downloads": 0
     }
   ],
-  "sig": "22472486c30fb0ccdda77aff811d7f5a6124c1a07f7cc8ece14b42fa1c0016e2e41c94e4b36ad540cfe90de6ba51c614a968cf552de0ea9c7428ae06476ef302"
+  "sig": "d5b0c36760a65de7873e315bce045ee689c5d73fcfd15d08f95ced3f4d2dc570b157d4630c02430b24c3309e1f79ede4ef395f98c2abbf46ab9aeed048ae3202"
 }
