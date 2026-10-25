@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T10:30:02.522Z",
+  "updatedAt": "2026-10-25T10:35:20.458Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -764,7 +764,41 @@
       "translationType": "human",
       "parts": [],
       "downloads": 0
+    },
+    {
+      "id": "CUSA03773",
+      "titleId": "CUSA03773",
+      "name": "Sherlock Holmes The Devils Daughter",
+      "team": "ماجد العتيبي",
+      "version": "1.0",
+      "supportedUpdate": "1.00",
+      "format": "AFR",
+      "size": 75726097,
+      "sha256": "9bea5ecda94cb039471d99ffb138cc917a4ba5a812bbe2e21639714ac3a3fbf5",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA03773_T1.0_G1.00_HUMAN_584d08.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/674759636",
+      "icon": "media/icons/mvnowpne-pfus.png",
+      "screenshots": [
+        "media/shots/mvnowr9l-e0ib.png",
+        "media/shots/mvnowsk1-g0j4.jpg",
+        "media/shots/mvnowtti-dyrf.png"
+      ],
+      "iconSha256": "f03239b37992b60a9b92b9fd398bf18d60093135907c014f76f7591c57a5aba5",
+      "screenshotsSha256": [
+        "9048ca8a0044710da8f4faf3da96cc10d361a857d57f44552dd464449ca9c67b",
+        "cedaf7334bf2124071e467e6903a33d396a19faf523b63adc81b7fe24c23e8bd",
+        "c105e4a7018782fc40659744e7cb313d6d8f6b986a411b16c56543b3e5f0d087"
+      ],
+      "description": "تعريب: ماجد العتيبي",
+      "readme": "",
+      "origin": "community",
+      "translationType": "human",
+      "compatibleTitleIds": [
+        "CUSA26738"
+      ],
+      "parts": [],
+      "downloads": 0
     }
   ],
-  "sig": "1f4d3214daa6de73c4c38c53799cd8978af166686a33d9389a0e296a556391d28cfbbbaea451a5e9f3a259135d9e1749b620a32af08bca90406147f7023cfa07"
+  "sig": "440f91d5c4485185a796cad90875d7d619e377487b6e83aee4c49b2f805c9b086ae0af26f90b3066322fd738ba297edfccfff9e0128c8895da84934c5090d209"
 }
