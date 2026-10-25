@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T20:31:03.706Z",
+  "updatedAt": "2026-10-25T20:40:06.012Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -960,7 +960,42 @@
       ],
       "parts": [],
       "downloads": 0
+    },
+    {
+      "id": "CUSA07439",
+      "titleId": "CUSA07439",
+      "name": "Dark Souls 3",
+      "team": "الحلم المتجدد",
+      "version": "1.0",
+      "supportedUpdate": "1.03",
+      "format": "AFR",
+      "size": 20762739,
+      "sha256": "19438fbbfb01050f5ff2a5c07ad3696e964d192de3976e14cfa69f4d9760ef36",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA07439_T1.0_G1.03_HUMAN_be95cf.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/676069858",
+      "icon": "media/icons/mvoajhy2-bijz.png",
+      "screenshots": [
+        "media/shots/mvoae1sk-ge6q.jpg",
+        "media/shots/mvoae386-rz0g.jpg",
+        "media/shots/mvoae4ih-1hq0.jpg",
+        "media/shots/mvoae5rx-48qn.jpg",
+        "media/shots/mvoae74b-t26w.jpg"
+      ],
+      "iconSha256": "25fa64573241314b8afefd330e572d56d0abe80b9bc073730b5ebbf9265ad402",
+      "screenshotsSha256": [
+        "41f5cae6825d6683f7bb1dbbeb651a30213991f5a497968239d49147d60d1f8c",
+        "f1166e364af46fa4a23bfeedc05595cdc8a9065cf57867468e7fc0d00470ba3f",
+        "0d576172cf9c79733eada90493aaf16ae824f70dfc7f83127f9828ff166bca21",
+        "ab89f28baf0484d9ae1648a9af4ae9f23122a85a358e10789a8a3d260b48105d",
+        "ce69092d883bc92fc0dd3bd38f4ec63bc82e2a39435bc6e7c5390139fa471b04"
+      ],
+      "description": "التعديل التقني: آسغور • ‏AdamSaeed.\nالترجمة (المرحلة الأولى): ‏Mido Dz • تركي عبد الله • ‏Mageed Bogard • ‏Ezio Arishi • ‏ashhab 21 • ‏Osama Anas Ibrahim.\nالترجمة (المرحلة الثانية): ‏Allen Wouka • منصور • ‏Levan.\nالتدقيق والتحرير: Allen Wouka • منصور • ‏Mesho (ساعد في اختيار المصطلحات).\nالشعار والتوجه الفني: KayMaw • منصور.\nالصور والتصاميم: GINJEHAD • منصور .\nالاختبار: ‏Levan • ‏AdamSaeed.\nنقل التعريب للـ‏PS4‏: !MAX\nالنشرة: Allen Wouka • منصور • ‏Levan.\nشكر خاص: ‏‏Samet Takao (نصائح تقنية قيمة) • Phos‏ (تشجيع معنوي) • فريق DarkWare (صفحة فروم سوفت بالعربي)، مجتمع السولز للتعديلات وخاصة SoulsTools و Garden of Eyes و الفريق المجري لترجمة اللعبة.",
+      "readme": "",
+      "origin": "community",
+      "translationType": "human",
+      "parts": [],
+      "downloads": 0
     }
   ],
-  "sig": "8bea17bbfc01d64daa382ea1e871d1eeae4e3619c3e245ed03c449acf006b649f3255d1333435a9c24d93df40f883e7a53ec04d16bb47f7aa7dbac8fc0beb200"
+  "sig": "99be1655d1c51b025c127991f16ed24252dcbfb8d6c47099386f16337f07ddaab1a0af5d364b94425360c83e74754aa5e0823adadda3ac00e80f82f462016802"
 }
