@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T23:48:39.324Z",
+  "updatedAt": "2026-10-26T10:53:22.755Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -1068,7 +1068,33 @@
       "translationType": "human",
       "parts": [],
       "downloads": 0
+    },
+    {
+      "id": "CUSA10650",
+      "titleId": "CUSA10650",
+      "name": "Yokus Island Express",
+      "team": "الحلم المتجدد",
+      "version": "1.0",
+      "supportedUpdate": "1.02",
+      "format": "AFR",
+      "size": 987127,
+      "sha256": "99a25ec8a61297a22fcc35a2e13bcecfd0f9810b06393f86e161e0eabf3fdbce",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA10650_T1.0_G1.02_HUMAN_be95cf.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/677868424",
+      "icon": "media/icons/mvp5084i-ix8e.png",
+      "screenshots": [],
+      "iconSha256": "3d354a0943e7c6fd8bd76d9a262b9970c330261a1b772e41f962771e9b61d3b6",
+      "screenshotsSha256": [],
+      "description": "إدارة المشروع: AdamSaeed\nالتعديل التقني: AdamSaeed\nالترجمة: AdamSaeed، منصور\nالتدقيق: منصور\nالشعار: AdamSaeed\nمراقبة الجودة: الهمام\nنقل كونسول بلايستيشن 4: MAX\nنقل كونسول سويتش: AdamSaeed\nشكر خاص: Allen Wouka",
+      "readme": "",
+      "origin": "community",
+      "translationType": "human",
+      "compatibleTitleIds": [
+        "CUSA10654"
+      ],
+      "parts": [],
+      "downloads": 0
     }
   ],
-  "sig": "62cee45274d9c95508673bf88fc2221271f2778a8eaa9f2e2d0c796ea58260a6a2122b2c8af441fd67761c1a0041c797798aed59e089595003b0056bf350210d"
+  "sig": "1af008675d898a63daad3aefcf2c85dcb4e2023b6a23f05d7bc5c5d4c7c6b5bac20d262746a88c1d288ebb59cb0aaa7cc0a49bbab3c01cfaacc93f12431a2e00"
 }
