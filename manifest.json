@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-26T10:53:22.755Z",
+  "updatedAt": "2026-10-26T11:11:04.965Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -1094,7 +1094,51 @@
       ],
       "parts": [],
       "downloads": 0
+    },
+    {
+      "id": "CUSA30423",
+      "titleId": "CUSA30423",
+      "name": "Deaths Door",
+      "team": "الحلم المتجدد",
+      "version": "1.0",
+      "supportedUpdate": "1.01",
+      "format": "AFR",
+      "size": 24599555,
+      "sha256": "d422ea3ab3de51b8d59a57f065818d8c377b0464ceef60d8777d4f55dcfe35a7",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA30423_T1.0_G1.01_HUMAN_be95cf.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/677913139",
+      "icon": "media/icons/mvp5jh2s-hq68.png",
+      "screenshots": [
+        "media/shots/mvp5lme3-5sqc.jpg",
+        "media/shots/mvp5lnw8-uxu2.jpg",
+        "media/shots/mvp5lp9p-8j6w.jpg",
+        "media/shots/mvp5lquf-27n9.jpg",
+        "media/shots/mvp5lt62-b6lh.jpg",
+        "media/shots/mvp5lui2-5bj2.jpg",
+        "media/shots/mvp5lvro-vnuf.jpg",
+        "media/shots/mvp5lxhb-f7tq.jpg"
+      ],
+      "iconSha256": "134c3a6d7ceb60a6ccde70a30a1fc700faa06fa420b5ef5a540c12850e1bcb08",
+      "screenshotsSha256": [
+        "09f6d6a21c364e2c4d685badc1cb4dc84355821a78eadfb14b7538e0ee021d0e",
+        "4f0660a3624657e96dcd403e585a35c7006901b57a4559774a3ed200775e0b02",
+        "8485c0e4e4cf39911a462a823d12f5a2ed75834a5a0f05e32684b0ff721364e9",
+        "7db646b4cfb882af83993b64388da1307423167254583f417b850af8f8c0b9d2",
+        "97c43577dc4362fa54a01ec7bd010d794149d75b28d77ea42373e40e4e0ee971",
+        "f969ee1cc834a5a0e60089a3d6b61fb7d81f91e5d6af06ce7f57f5ec619433ca",
+        "4577efe7ca521058c04a92f06ae5465f3ac2b14263f5846adc35e66fa2953be3",
+        "92d4685ae4ed204ec4103cc7cec908804cf79752d50ab5790ce462a50265a727"
+      ],
+      "description": "الترجمة الرئيسية: StriverFreedom، Oblait، Spad\nالإشراف على المشروع: StriverFreedom (تدقيق رئيسي، تجميع ملفات، تنسيق مترجمين، الخ)\nالتعديل التقني: داركو (النص والصور والمرحلة الثانية من الخطوط)، StriverFreedom (تحرير النصوص)، كوتشيكي و e% (إعادة برمجة سريان اللعبة)، منصور (المرحلة الأولى من الخطوط)، Sobarashi (تعديل أولي على الخطوط).\nتصميم الشعار: AdamSaeed (شعار متميز آخر، أعيد إنتاجه مرتين…)\nاختبار اللعبة: DARD ،Raied، Sobarashi. سرعة وحماس وتميز كالعادة في صيد الأخطاء والمساعدة في لوجستيكيات المشروع!\nعلاقات عامة: منصور، Raied، Sobarashi، Oblait\nنقل الكونسول: MAX! (السوني 4)، AdamSaeed (السويتش)\nشكر خاص: أسغور أندرتيل (على إعداد الأدوات المستخدمة في مشاريعنا المختلفة، بما فيها هذا، ودونها لإستحال نشره)، وكل فريق الحلم المتجدد على الإقتراحات، ومتابعينا الأوفياء.",
+      "readme": "",
+      "origin": "community",
+      "translationType": "human",
+      "compatibleTitleIds": [
+        "CUSA30424"
+      ],
+      "parts": [],
+      "downloads": 0
     }
   ],
-  "sig": "1af008675d898a63daad3aefcf2c85dcb4e2023b6a23f05d7bc5c5d4c7c6b5bac20d262746a88c1d288ebb59cb0aaa7cc0a49bbab3c01cfaacc93f12431a2e00"
+  "sig": "0cd6d5cee4590d6c34c864edfc44623002aa4d6ac8cb16d47d2f84bdc770c61e258c1fba380940a2bf21f40b8ca9aab4c72eb1d85fc7c5b314f61904961e8c07"
 }
