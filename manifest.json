@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-26T11:11:04.965Z",
+  "updatedAt": "2026-10-26T15:26:18.242Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -1138,7 +1138,44 @@
       ],
       "parts": [],
       "downloads": 0
+    },
+    {
+      "id": "CUSA39420",
+      "titleId": "CUSA39420",
+      "name": "Hollow Knight Silksong",
+      "team": "AG GROUP وGAMING REPUBLIC",
+      "version": "1.0",
+      "supportedUpdate": "1.04",
+      "format": "AFR",
+      "size": 14379281,
+      "sha256": "c3f62e08a6b42ade13818088dbbef34314d15c4ac4d2c251bdfcf99c3ca7f8b4",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA39420_T1.0_G1.04_HUMAN_AGGROUPGAMINGREPUBLIC.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/678573994",
+      "icon": "media/icons/mvpers5e-6xm3.png",
+      "screenshots": [
+        "media/shots/mvperyvn-razw.jpg",
+        "media/shots/mvpes0h0-0b4u.jpg",
+        "media/shots/mvpes20c-fnva.png",
+        "media/shots/mvpes39d-azaz.png",
+        "media/shots/mvpes4hk-t2ic.png",
+        "media/shots/mvpes5qw-puzj.png"
+      ],
+      "iconSha256": "8990a05705654f19649ebe8764383cff37c2624c9b412b7c69d14df4ad567758",
+      "screenshotsSha256": [
+        "1c81dcae40a2b80cee1fd6c10bc18982a33a914250529c862800ea3151394713",
+        "c8265f7229367340ea888014a577585298d577960482b9429d882083c53fc90d",
+        "1c9b323c4827cdc871c834c1f841455b233885d157e9097b0f5f786211eb60ae",
+        "e3c75f9a25d3dd6d0cea2af18ab692295ce70bd3cc978082efd5ddd269da65ce",
+        "e99c3555e4242643856d9c22d1b3a062fc960d2d0ba948102dac992091eff969",
+        "ab8bbccb5edba73468c74a1529d00c127f92fdb938a12e1bf3313f8c166db9f0"
+      ],
+      "description": "فريق التعريب\n\nAG GROUP وGAMING REPUBLIC",
+      "readme": "",
+      "origin": "community",
+      "translationType": "human",
+      "parts": [],
+      "downloads": 0
     }
   ],
-  "sig": "0cd6d5cee4590d6c34c864edfc44623002aa4d6ac8cb16d47d2f84bdc770c61e258c1fba380940a2bf21f40b8ca9aab4c72eb1d85fc7c5b314f61904961e8c07"
+  "sig": "29221f636e6015952ac5e6942c9e68b8b0ae16c9e949f63e6c507b2b5e94c72d13fbef4fabb29de250f06c79f40a4fafb211016445afa4fdea246fb16ff6a30f"
 }
