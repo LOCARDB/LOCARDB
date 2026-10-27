@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T11:00:25.833Z",
+  "updatedAt": "2026-10-27T23:42:39.919Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -1213,7 +1213,71 @@
       ],
       "parts": [],
       "downloads": 0
+    },
+    {
+      "id": "CUSA13801",
+      "titleId": "CUSA13801",
+      "name": "Sekiro Shadows Die Twice",
+      "team": "Games in Arabic",
+      "version": "1.4",
+      "supportedUpdate": "1.06",
+      "format": "AFR",
+      "size": 86192696,
+      "sha256": "217afa634f758fe5ee41db36d6598e2fb65bd6dcf56b8c5ddf7db4ec6f22481e",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA13801_T1.4_G1.06_HUMAN_GamesinArabic.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/683224899",
+      "icon": "media/icons/mvrbqdx0-pdqm.jpg",
+      "screenshots": [
+        "media/shots/mvrbqubr-4n08.jpg",
+        "media/shots/mvrbu21w-dls1.jpg",
+        "media/shots/mvrbu3pd-ldmk.jpg",
+        "media/shots/mvrbu5bw-uhat.jpg",
+        "media/shots/mvrbu6k8-phwm.jpg",
+        "media/shots/mvrbu8aa-ynqa.jpg",
+        "media/shots/mvrbu9kj-eifv.jpg",
+        "media/shots/mvrbuayl-og9a.jpg",
+        "media/shots/mvrbuc7g-yi39.jpg",
+        "media/shots/mvrbudhv-0sco.jpg",
+        "media/shots/mvrbufw5-wbvv.jpg",
+        "media/shots/mvrbuhix-i660.jpg",
+        "media/shots/mvrbujtc-o0id.jpg",
+        "media/shots/mvrbulns-z8k3.jpg",
+        "media/shots/mvrbunw1-8yag.jpg",
+        "media/shots/mvrbuqnu-y9up.jpg",
+        "media/shots/mvrbusf9-8bg7.jpg",
+        "media/shots/mvrbuu7a-arje.jpg"
+      ],
+      "iconSha256": "ba6040aa3cce453af77bd5cde3b2adc5715a4f6dc37be20573836ace8c22d93c",
+      "screenshotsSha256": [
+        "528aae6cb627e8f19c861e560e5bce6edb3b701671c290ac3eae6017828018e1",
+        "cd92821d3651878c9675f0c1a2f0be6b17fb7c5a50c24b2fb438c42e74f9bf05",
+        "8cc9f68f8e80fe2e8b431c894b26bd0ee78429a4108b6bc72bea6bffc497ea8f",
+        "006c50f83500e610cc7d4adc48309c3d2c3e21b83d15b36ddfb17e5e4c6233d9",
+        "bbef04b108c788a93eb0d5253c4970ccb1d24bab6fa7e891bd680bc7f83baef4",
+        "9562857e4aae62e3c1d7d094b1bf601fdeb001d1585d1fbeab98045cab84dd47",
+        "44e6e138614a898413e720fa1fe0043b0f6d979714600e5f120c2e84bef9817d",
+        "09083f11efd4d002118684de98787e75dd4676a5ebb0b3442eb3916b78295d70",
+        "c026fe5cad0dcf54d511256f90f5ce5d37b81f2f69786969d330290aa8b5bb93",
+        "eed5ea1300a5c387af01c757761f34b111c87ef8a811f43aaa6dbe4f15a0e317",
+        "8370c8081c70d60b935001b1c1f0d06fe45c515897561a1d3ff94fa665ee0677",
+        "522de6d30773afc2e707ca22fbeced44fb1c23496b03020464013b3b250255fc",
+        "e2c685a0ca4e62a6883559a5ede166d43afc8d8e1c895a75941efa4445ecc40d",
+        "4f462eb626f060d6761fdc2bafe68f2fb593bf3aa5943e24fc9714e034796a6f",
+        "d4b4d6cca4a0cc06a95df9284df042c8a90b81a00fa9172df464a176d0793bba",
+        "4c5b767fa029715f47d4df0c55df29c11722ab98b992b745c7d0dfbfa8baf5e8",
+        "286ccb64bb62b335ed279e7e89111ff93e13e239229e0c29f0377c50cae53e8c",
+        "724a8805936b544905cc9f855d34312169a1a54fdd5d6a4a1a8b6a9e2be6a17a"
+      ],
+      "description": "فريق العمل: Localisation Team:\n==========================\nمدير المشروع: Project Manager:\n======================\nذي يزن الدايني - Theyazin 'GrumpyArab' Al-Dayni\nترجمة: Translation:\n===============\nذي يزن الدايني – Theyazin 'GrumpyArab' Al-Dayni\nسامي كمال\nستيفن سعدالله - Stapheen Sadllah\nسجاد رحيم - Sajjad Rahim\nتدقيق: Proofreading:\n=================\nذي يزن الدايني\nسامي كمال\n\nتجريب: Testing:\n============\nذي يزن الدايني\nسامي كمال\nإسلام الخليفي\nدعم تقني: Technical Support:\n=======================\nسجاد رحيم - Sajjad Rahim\nستيفن سعدالله\n\nتصميم المخطوطة: Logo Design:\n========================\nمحمد ناصر - Mohamed Nasser\n\nشكر خاص Special Thanks\n===================\nماجد عريشي\nAdam\nمحمد سامي [MXG3xD]\n\nنقل التعريب الى منصة PS4:\n===================\nسجاد رحيم - Sajjad Rahim",
+      "readme": "",
+      "origin": "community",
+      "translationType": "human",
+      "compatibleTitleIds": [
+        "CUSA12047"
+      ],
+      "parts": [],
+      "downloads": 0
     }
   ],
-  "sig": "8858ca62675d837b5f6b085036e5de5e6ab4f677d490111ec07d0a2c3c0d671ee3dc9303e8f960269ba7e6fb40006dff80a34ed0ddf053508de9b0825b3be60a"
+  "sig": "99263d667f604e38e95abf8b03bad277048436f87b2b052205cce9a0c6e6314c68ab78f6dc2de94cdd0392661a9119f45190efdb4d2c622fb2c459084d5afd0a"
 }
