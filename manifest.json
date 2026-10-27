@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-26T15:26:18.242Z",
+  "updatedAt": "2026-10-27T11:00:25.833Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -1175,7 +1175,45 @@
       "translationType": "human",
       "parts": [],
       "downloads": 0
+    },
+    {
+      "id": "CUSA08004",
+      "titleId": "CUSA08004",
+      "name": "A Way Out",
+      "team": "AR Team",
+      "version": "1.0",
+      "supportedUpdate": "1.01",
+      "format": "AFR",
+      "size": 4236148,
+      "sha256": "1095d36e650d9aa179c9f25a9b89ca58043a357667d90b18ea4df7dad353a972",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA08004_T1.0_G1.01_HUMAN_ARTeam.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/681322579",
+      "icon": "media/icons/mvqkp3lt-mr48.png",
+      "screenshots": [
+        "media/shots/mvqkq0z9-3e1j.jpg",
+        "media/shots/mvqkq2l1-g8wv.jpg",
+        "media/shots/mvqkq3vd-nyv8.jpg",
+        "media/shots/mvqkq59f-iaec.jpg",
+        "media/shots/mvqkq6ia-sx19.jpg"
+      ],
+      "iconSha256": "cdbf2fcff387d885d71751232af65657e1da11c5d8f5192aecba35a624001ba6",
+      "screenshotsSha256": [
+        "6cf6c5521f37b4b656691bdf6f8af25dcae0625ff71b806e13f45e24f8b9e3f8",
+        "d5e1b1884c1ef5cec0fa1721333a56f239f852b6152c3b1d9c0e8ecbe7f740f8",
+        "d5b627530f4300460e0c1a7ffd279a30e72e341e3716d6a39fd268ca65e20c69",
+        "086ba196b944eed74886dad78778afbf8c71b5a04e7b4b4a948b9cbb652af732",
+        "a9e127cabab619d7149b3380d4981939d1ac5e2b14c57919637419ac47441108"
+      ],
+      "description": "¤ برمجة وترجمة ¤\n\n« Jacob Darka »\n\n¤ شكر خاص ¤\n\n« ماجد العتيبي »\n« Sajjad Rahim »\n« Venom Hussain »",
+      "readme": "",
+      "origin": "community",
+      "translationType": "human",
+      "compatibleTitleIds": [
+        "CUSA07995"
+      ],
+      "parts": [],
+      "downloads": 0
     }
   ],
-  "sig": "29221f636e6015952ac5e6942c9e68b8b0ae16c9e949f63e6c507b2b5e94c72d13fbef4fabb29de250f06c79f40a4fafb211016445afa4fdea246fb16ff6a30f"
+  "sig": "8858ca62675d837b5f6b085036e5de5e6ab4f677d490111ec07d0a2c3c0d671ee3dc9303e8f960269ba7e6fb40006dff80a34ed0ddf053508de9b0825b3be60a"
 }
