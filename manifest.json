@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T23:42:39.919Z",
+  "updatedAt": "2026-10-28T17:59:05.014Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -1212,7 +1212,7 @@
         "CUSA07995"
       ],
       "parts": [],
-      "downloads": 0
+      "downloads": 2
     },
     {
       "id": "CUSA13801",
@@ -1276,8 +1276,74 @@
         "CUSA12047"
       ],
       "parts": [],
+      "downloads": 2
+    },
+    {
+      "id": "CUSA24899",
+      "titleId": "CUSA24899",
+      "name": "Stray",
+      "team": "Games in Arabic",
+      "version": "1.2",
+      "supportedUpdate": "1.04",
+      "format": "AFR",
+      "size": 21339211,
+      "sha256": "b0e44642aa1119d7da3f27039ece086e1bf03254d45b94088e75315407f9a8f0",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA24899_T1.2_G1.04_GamesinArabic.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/685860076",
+      "icon": "media/icons/mvsf0sxd-j0b5.png",
+      "screenshots": [
+        "media/shots/mvsf1an9-s92e.jpg",
+        "media/shots/mvsf1c6h-ssrv.jpg",
+        "media/shots/mvsf1dv5-aq2a.png",
+        "media/shots/mvsf1fui-mwwr.png",
+        "media/shots/mvsf1i3y-oniy.jpg",
+        "media/shots/mvsf1jm0-knq1.jpg",
+        "media/shots/mvsf1l88-at92.jpg",
+        "media/shots/mvsf1mt6-kbup.jpg",
+        "media/shots/mvsf1ocu-bbxx.jpg",
+        "media/shots/mvsf1ppi-3w76.jpg",
+        "media/shots/mvsf1r9p-lyos.jpg",
+        "media/shots/mvsf1spy-lmgc.jpg",
+        "media/shots/mvsf1ubd-slze.jpg",
+        "media/shots/mvsf1ws6-9fp4.jpg",
+        "media/shots/mvsf1ya1-ka8p.jpg",
+        "media/shots/mvsf2019-5ykr.jpg",
+        "media/shots/mvsf224d-qgb6.jpg",
+        "media/shots/mvsf23mw-2xxp.jpg",
+        "media/shots/mvsf252d-htsh.jpg",
+        "media/shots/mvsf26m1-64qd.jpg"
+      ],
+      "iconSha256": "bb84a0a65eaa2935804ba16e1633ca8c5d0339e6b4238b8d27f77b9256b6fba9",
+      "screenshotsSha256": [
+        "24878302f32c775ef469d599f984e43e62de29898b355781977624f721d0a833",
+        "0cd1f696a4c40d38e58415d98cabbed274053674a6369a7e187280da9d1de023",
+        "94dcebd75e903602d2e2b703f2265f70862a07b75737e9d47ce62d9c43581118",
+        "9096b534a0113dd42e2e4cb8aa66ce12b5ac7bb03186beb6913442e9f3b93264",
+        "1e581f39447c86a99f95a6207e396440784bad2db32e3ad8eb8cfe8556d422b3",
+        "726db186445f8ce32e7895f587b8de9882ca33104f534dd31f0207f0cac12a5e",
+        "1716cbd5d055bbc9c0f84924349bdf0c823bcab5d2e342c9d7446bfc68b2d5fe",
+        "87efb4040e8502e5d9c1e045de1d0d53de9ed2d863c71594edf3bf713f2ce99d",
+        "0ce5db72f13d5538bb070ab13dbfe99b7f27f78f06f3685649b13f99c2e4f0f7",
+        "2525a3d67ba4d9520b150a6132c93fb5677db1cf2b1ecc37a536a21a46791720",
+        "306ecaeae4c16c4dbcefca721471e574908ed9d44e7be83be98faa4968242710",
+        "06178cdb0ca518ebc65f41cc8947d71910f017cb6630c81482343c3ed6a8b369",
+        "6feec88a762b6abf3f273b366db3abc101d8be2944b09d4538a3c8d96926e11a",
+        "aab321f77ba2f4f9a34cc5bdb05b18ea21c818dcbdb95c5fc37998543f99dd84",
+        "f1d430e6d34e9dc88e4f51b6d13a8612fdecb9f51b46c4550b89443fb9fef4f5",
+        "42f01f3319e03f4cb8e1df07f0974ed10cac069f12f6018608fbd263794000ef",
+        "76b20b74b235812fcdd0f51fc0ade6bd30b88dbc787f7c9058387077334799d6",
+        "2195e02b72ff228a5662589edf7eddc834d1912afd7187cd7f4685f9326c1b0d",
+        "97eae53bbfacbef085b4f41b2265b84e3c52eae40b6c7f8e65d1d83493e907f3",
+        "727985889ae26a86d058c200c0ba19c651ec913d0fbf547b7adb6c99cdbd95d7"
+      ],
+      "description": "فريق العمل: Localisation Team:\n==========================\nتدقيق: Proofreading:\n=================\nذي يزن نجم الدايني - Theyazin Najim Al-Dayni\nزياد الغامدي - Ziyad Alghamdi (Zyido)\n\n=================\nترجمة: Translation:\n=================\nأنوار\nذي يزن نجم الدايني\nbesofh\nزياد الغامدي\n\n=========================\nدعم تقني: Technical Support:\n=========================\nسجاد رحيم - Sajjad Rahim\n\n==============================\nتعريب المخطوطة: Logo Localisation:\n==============================\nيزن عجاج - Yazan Ajaj\n\n=================================\nتعريب الرسوميات: Graphic Localisation:\n=================================\nWorood Al-Rawi\nذي يزن نجم الدايني\nMuhammed \"Mo\" Nasser\nيزن عجاج - Yazan Ajaj\n\nنقل التعريب الى منصة PS4 : PS4 PORT:\n=========================\nسجاد رحيم - Sajjad Rahim",
+      "readme": "",
+      "compatibleTitleIds": [
+        "CUSA24898"
+      ],
+      "parts": [],
       "downloads": 0
     }
   ],
-  "sig": "99263d667f604e38e95abf8b03bad277048436f87b2b052205cce9a0c6e6314c68ab78f6dc2de94cdd0392661a9119f45190efdb4d2c622fb2c459084d5afd0a"
+  "sig": "3c5222bf3e670908e3ee97755d80f931eac54b539050b545379d8a527d5ef5cd4c0ea9f3ea1e3533a99f2ed10da7b6546d5e0d483fdf33e7ab3880c2e54d6300"
 }
