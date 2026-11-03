@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T23:46:14.648Z",
+  "updatedAt": "2026-11-03T23:52:05.925Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -1389,11 +1389,11 @@
       "version": "1.0",
       "supportedUpdate": "1.09",
       "format": "AFR",
-      "size": 55676457,
-      "sha256": "a550cc844cf7c4d2c4cbd0c5bfdf30a8ac4582b8e4ebe91e3cc552b37d4bd9c9",
+      "size": 55677873,
+      "sha256": "085b7aa63f4c8f9be5cd5d4e0ef5563dc58477506ae48184128d94d547094aad",
       "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA32600_T1.0_G1.09_HUMAN_be95cf.zip",
-      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/707520666",
-      "icon": "media/icons/mw1c4gt5-wylj.png",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/707536015",
+      "icon": "media/icons/mw1cd910-zr9x.png",
       "screenshots": [
         "media/shots/mw1c4jc2-nrfg.jpg",
         "media/shots/mw1c4ktk-cscc.jpg",
@@ -1419,5 +1419,5 @@
       "addedAt": "2026-11-04T12:00:00.000Z"
     }
   ],
-  "sig": "69a443127b28f4dda793baaa0d8862f0e24cbc80c1b68dba7982c45ee9ab8ec7edd021093c07d5bb745a2c485efaf631c9734b9d796660f2b1523608e9f00302"
+  "sig": "60a83d03229b96caea1a662787af8cc99eb530cdc6770785a56e811daf0390641f68805d0b621cbab54fc8cd02d31a950e87c8cf6b9390e4e28af9b35ffe810b"
 }
