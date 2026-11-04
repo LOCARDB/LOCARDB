@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T23:52:05.925Z",
+  "updatedAt": "2026-11-04T11:41:06.663Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -1415,9 +1415,48 @@
         "CUSA32599"
       ],
       "parts": [],
+      "downloads": 1,
+      "addedAt": "2026-11-04T12:00:00.000Z"
+    },
+    {
+      "id": "CUSA00054",
+      "titleId": "CUSA00054",
+      "name": "Mad Max",
+      "team": "Alexo Sam",
+      "version": "1.0",
+      "supportedUpdate": "1.06",
+      "format": "AFR",
+      "size": 3944767,
+      "sha256": "e34bd1f82b702180bb6362750ed42ab4c60563b916d4744da657e1143fe64bbc",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA00054_T1.0_G1.06_AI_AlexoSam.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/709283082",
+      "icon": "media/icons/mw21mgvq-thws.jpg",
+      "screenshots": [
+        "media/shots/mw21miv4-qtsh.jpg",
+        "media/shots/mw21mlf8-08sb.jpg",
+        "media/shots/mw21mn86-byyt.jpg",
+        "media/shots/mw21mop1-ziou.jpg",
+        "media/shots/mw21mq4o-703n.jpg"
+      ],
+      "iconSha256": "f09b4ba39c381c5a027daf5068c19ca19727005b8eada99268e8e457737c36c0",
+      "screenshotsSha256": [
+        "fda8e139d271c648a72cf1d031695ba53479b00c9bca2472b0b096f2d500c94b",
+        "b7ac87a68ddc8f0722c5225cc74906e81818141969c67337768b5867fade7295",
+        "4372825e5133696d531a1f928289e165db501e3b130c10d03188c668cd853329",
+        "d898f83bd8e5b12ac1ea957bf4ef0268eea5cf17a4cd4c7d0a85ea8b9ab29d76",
+        "29060989ff46deed4d8c90055d69387cf8db5b4bbd6304bba69bdedc45b5981a"
+      ],
+      "description": "تعريب آلي ai من قبل Alexo Sam\nنقل التعريب من قبل abodora2",
+      "readme": "",
+      "origin": "community",
+      "translationType": "machine",
+      "compatibleTitleIds": [
+        "CUSA02703"
+      ],
+      "parts": [],
       "downloads": 0,
       "addedAt": "2026-11-04T12:00:00.000Z"
     }
   ],
-  "sig": "60a83d03229b96caea1a662787af8cc99eb530cdc6770785a56e811daf0390641f68805d0b621cbab54fc8cd02d31a950e87c8cf6b9390e4e28af9b35ffe810b"
+  "sig": "b9d381d23d3b7197b3d6b60444aba2ffa76b115bcb63d72b4c57a00729ce9d6aded021a6f8cae2c66b9d606f893b7fc2b5db0a5d8a29cee3e98c7d497c528b0d"
 }
