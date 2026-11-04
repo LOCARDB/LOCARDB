@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-04T11:58:41.008Z",
+  "updatedAt": "2026-11-04T12:58:49.304Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -1483,7 +1483,35 @@
       "parts": [],
       "downloads": 0,
       "addedAt": "2026-11-04T12:00:00.000Z"
+    },
+    {
+      "id": "CUSA00035",
+      "titleId": "CUSA00035",
+      "name": "The Order 1886",
+      "team": "t3reeb.games",
+      "version": "1.0",
+      "supportedUpdate": "1.02",
+      "format": "AFR",
+      "size": 254105664,
+      "sha256": "8d4d0e1b44156796520066649089c77e08596073aba4907141a9c81b2ac8d2f2",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA00035_T1.0_G1.02_AI_t3reebgames.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/709512009",
+      "icon": "media/icons/mw24eo5t-i5tv.jpg",
+      "screenshots": [],
+      "iconSha256": "9f43afcd7a2dca82dd445e10a946cc1e8abdc24538af5f080cdb95b490cb805b",
+      "screenshotsSha256": [],
+      "description": "التعريب من https://www.t3reeb.games\n",
+      "readme": "",
+      "origin": "community",
+      "translationType": "machine",
+      "compatibleTitleIds": [
+        "CUSA00785",
+        "CUSA00076"
+      ],
+      "parts": [],
+      "downloads": 0,
+      "addedAt": "2026-11-04T12:00:00.000Z"
     }
   ],
-  "sig": "6f85c4fc4e2c7e36b4345e90b1def64bb7e993e15f861e96ae790ff4eb46b900dc27ce3868a6182b0d02643ea02d91a6ea786b8aac02484feef2a8a487919f0e"
+  "sig": "be37dfda60f3714182089ca3c4967a4cb570be5e53ded14541e45b78105fce2f88b4d8f935a6fc0ea9f9ed55759036d6822a307b9c5e3f62890b9af0f927eb09"
 }
