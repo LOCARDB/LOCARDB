@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-04T13:12:48.963Z",
+  "updatedAt": "2026-11-04T13:16:08.476Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -1565,7 +1565,34 @@
       "parts": [],
       "downloads": 0,
       "addedAt": "2026-11-04T12:00:00.000Z"
+    },
+    {
+      "id": "CUSA26615",
+      "titleId": "CUSA26615",
+      "name": "Grand Theft Auto Vice City The Definitive Edition",
+      "team": "حمزة الحمود",
+      "version": "1.3",
+      "supportedUpdate": "1.07",
+      "format": "AFR",
+      "size": 4025535,
+      "sha256": "7b4f27cbc0bdef987f57de3fd55ce303f525280e4ef24ba115041cc0ede31968",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA26615_T1.3_G1.07_HUMAN_fb1187.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/709572961",
+      "icon": "media/icons/mw253msd-p65f.png",
+      "screenshots": [],
+      "iconSha256": "a068c08060b55c493abd6137909c65fa55fc1343cb7af85a2d533fb53f52fcbc",
+      "screenshotsSha256": [],
+      "description": "حمزة الحمود",
+      "readme": "",
+      "origin": "community",
+      "translationType": "human",
+      "compatibleTitleIds": [
+        "CUSA26616"
+      ],
+      "parts": [],
+      "downloads": 0,
+      "addedAt": "2026-11-04T12:00:00.000Z"
     }
   ],
-  "sig": "59efea10ec344e6ecb59758bcadcb0a814bcf91ffa4065b4c708b7a5629f6683a8a504f2b4af459cbc341680be2109ff99112212b75bec4b008397f20f585d0a"
+  "sig": "a1c12d51406a33eac20e11b17ef3044c4100107b711e66baf896ac6054f7d1d27f4a501109edd7037ef9c71fa09cfb1f352baca4bb6e06834b2e031708511709"
 }
