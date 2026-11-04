@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-04T13:07:04.593Z",
+  "updatedAt": "2026-11-04T13:12:42.789Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -1538,7 +1538,34 @@
       "parts": [],
       "downloads": 0,
       "addedAt": "2026-11-04T12:00:00.000Z"
+    },
+    {
+      "id": "CUSA26613",
+      "titleId": "CUSA26613",
+      "name": "Grand Theft Auto III The Definitive Edition",
+      "team": "حمزة الحمود",
+      "version": "1.3",
+      "supportedUpdate": "1.06",
+      "format": "AFR",
+      "size": 3724229,
+      "sha256": "9b1c833594a29058ae305cc198343604b58fe5b14c3a639abacbe920ba57fb93",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA26613_T1.3_G1.06_HUMAN_fb1187.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/709562784",
+      "icon": "",
+      "screenshots": [],
+      "iconSha256": "",
+      "screenshotsSha256": [],
+      "description": "حمزة الحمود",
+      "readme": "",
+      "origin": "community",
+      "translationType": "human",
+      "compatibleTitleIds": [
+        "CUSA23501"
+      ],
+      "parts": [],
+      "downloads": 0,
+      "addedAt": "2026-11-04T12:00:00.000Z"
     }
   ],
-  "sig": "ef91e02a0140ce126b1045e21034477fff4b74ec6e92304e2f7ec86e1ab75a9835cd18f2de4158b6305c79c4e3d90808568b1e01c3bbb416e2efbbb54a7cf906"
+  "sig": "866fdbd6f234e14552b0a353243ba3c92707ac38920ba688a91a6c5a61f6acc8c9344bba640e680edf0697b0e0418d9ef1112f36bda6fd71d32cfebdcfac1104"
 }
