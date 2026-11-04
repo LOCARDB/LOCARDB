@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-04T12:58:49.304Z",
+  "updatedAt": "2026-11-04T13:04:50.792Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -1511,7 +1511,31 @@
       "parts": [],
       "downloads": 0,
       "addedAt": "2026-11-04T12:00:00.000Z"
+    },
+    {
+      "id": "CUSA26619",
+      "titleId": "CUSA26619",
+      "name": "Grand Theft Auto San Andreas The Definitive Edition",
+      "team": "حمزة الحمود",
+      "version": "1.3",
+      "supportedUpdate": "1.06",
+      "format": "AFR",
+      "size": 4160961,
+      "sha256": "057e5878ef990f3aa8e089a3d57ec490b1c5da00801b1239e88cc9175f9ada55",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA26619_T1.3_G1.06_HUMAN_fb1187.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/709537795",
+      "icon": "media/icons/mw24opv4-o9hx.png",
+      "screenshots": [],
+      "iconSha256": "71dc93232d1118abaed1acbea8afd085c9a5b547ea2c21416012cb5495e5ac1e",
+      "screenshotsSha256": [],
+      "description": "حمزة الحمود",
+      "readme": "",
+      "origin": "community",
+      "translationType": "human",
+      "parts": [],
+      "downloads": 0,
+      "addedAt": "2026-11-04T12:00:00.000Z"
     }
   ],
-  "sig": "be37dfda60f3714182089ca3c4967a4cb570be5e53ded14541e45b78105fce2f88b4d8f935a6fc0ea9f9ed55759036d6822a307b9c5e3f62890b9af0f927eb09"
+  "sig": "f74e05f892397156a7fff22b3f5b3eecee34e58ff53da99750c0aa261911846d427ada6b341e73d5d88849439925161d0ad1d03890aa63c0077e8a0e386e1008"
 }
