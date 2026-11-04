@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-04T11:41:06.663Z",
+  "updatedAt": "2026-11-04T11:58:41.008Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -1456,7 +1456,34 @@
       "parts": [],
       "downloads": 0,
       "addedAt": "2026-11-04T12:00:00.000Z"
+    },
+    {
+      "id": "CUSA01004",
+      "titleId": "CUSA01004",
+      "name": "Sleeping Dogs Definitive Edition",
+      "team": "t3reeb.games",
+      "version": "1.0",
+      "supportedUpdate": "1.01",
+      "format": "AFR",
+      "size": 348869940,
+      "sha256": "89954374476b1ed5025bdb1877d0675e95792c5c60bd95dbb877311b043ff7b0",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA01004_T1.0_G1.01_AI_t3reebgames.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/709329896",
+      "icon": "media/icons/mw22807o-bzfr.jpg",
+      "screenshots": [],
+      "iconSha256": "99941441554be0c9695d096c169314f3c8237b9f5b2a1aac81232d5b2a4c6ce9",
+      "screenshotsSha256": [],
+      "description": "التعريب من https://www.t3reeb.games\n\nمهم: \n- التعريب تجريبي، إذا كانت هناك مشاكل في محاذاة النصوص وغيرها، تواصل معي.\n- لكي يظهر التعريب بشكل صحيح، يجب تغيير لغة الجهاز إلى الفرنسية.",
+      "readme": "",
+      "origin": "community",
+      "translationType": "machine",
+      "compatibleTitleIds": [
+        "CUSA01111"
+      ],
+      "parts": [],
+      "downloads": 0,
+      "addedAt": "2026-11-04T12:00:00.000Z"
     }
   ],
-  "sig": "b9d381d23d3b7197b3d6b60444aba2ffa76b115bcb63d72b4c57a00729ce9d6aded021a6f8cae2c66b9d606f893b7fc2b5db0a5d8a29cee3e98c7d497c528b0d"
+  "sig": "6f85c4fc4e2c7e36b4345e90b1def64bb7e993e15f861e96ae790ff4eb46b900dc27ce3868a6182b0d02643ea02d91a6ea786b8aac02484feef2a8a487919f0e"
 }
