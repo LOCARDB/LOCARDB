@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-04T13:04:50.792Z",
+  "updatedAt": "2026-11-04T13:07:04.593Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -1520,10 +1520,10 @@
       "version": "1.3",
       "supportedUpdate": "1.06",
       "format": "AFR",
-      "size": 4160961,
-      "sha256": "057e5878ef990f3aa8e089a3d57ec490b1c5da00801b1239e88cc9175f9ada55",
+      "size": 4160989,
+      "sha256": "31c68faf5f6bda890ccd1b4501186cebcce84cf470faf7ac76ebaf4dbb1ede26",
       "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA26619_T1.3_G1.06_HUMAN_fb1187.zip",
-      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/709537795",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/709544869",
       "icon": "media/icons/mw24opv4-o9hx.png",
       "screenshots": [],
       "iconSha256": "71dc93232d1118abaed1acbea8afd085c9a5b547ea2c21416012cb5495e5ac1e",
@@ -1532,10 +1532,13 @@
       "readme": "",
       "origin": "community",
       "translationType": "human",
+      "compatibleTitleIds": [
+        "CUSA26618"
+      ],
       "parts": [],
       "downloads": 0,
       "addedAt": "2026-11-04T12:00:00.000Z"
     }
   ],
-  "sig": "f74e05f892397156a7fff22b3f5b3eecee34e58ff53da99750c0aa261911846d427ada6b341e73d5d88849439925161d0ad1d03890aa63c0077e8a0e386e1008"
+  "sig": "ef91e02a0140ce126b1045e21034477fff4b74ec6e92304e2f7ec86e1ab75a9835cd18f2de4158b6305c79c4e3d90808568b1e01c3bbb416e2efbbb54a7cf906"
 }
