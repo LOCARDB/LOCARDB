@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T10:08:51.794Z",
+  "updatedAt": "2026-11-06T10:30:17.658Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -34,7 +34,7 @@
         "CUSA16742"
       ],
       "parts": [],
-      "downloads": 33,
+      "downloads": 36,
       "addedAt": "2026-10-22T10:46:47.000Z"
     },
     {
@@ -68,7 +68,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 53,
+      "downloads": 55,
       "addedAt": "2026-10-21T18:34:26.000Z"
     },
     {
@@ -300,7 +300,7 @@
         "CUSA02826"
       ],
       "parts": [],
-      "downloads": 21,
+      "downloads": 22,
       "addedAt": "2026-10-22T21:29:37.000Z"
     },
     {
@@ -324,7 +324,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 6,
+      "downloads": 7,
       "addedAt": "2026-10-23T22:18:41.000Z"
     },
     {
@@ -465,7 +465,7 @@
         "CUSA10357"
       ],
       "parts": [],
-      "downloads": 10,
+      "downloads": 11,
       "addedAt": "2026-10-24T00:01:09.000Z"
     },
     {
@@ -674,7 +674,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 12,
+      "downloads": 13,
       "addedAt": "2026-10-24T18:57:45.000Z"
     },
     {
@@ -949,7 +949,7 @@
         "CUSA08692"
       ],
       "parts": [],
-      "downloads": 4,
+      "downloads": 5,
       "addedAt": "2026-10-25T20:13:26.000Z"
     },
     {
@@ -1207,7 +1207,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 9,
+      "downloads": 10,
       "addedAt": "2026-10-26T15:26:09.000Z"
     },
     {
@@ -1311,7 +1311,7 @@
         "CUSA12047"
       ],
       "parts": [],
-      "downloads": 25,
+      "downloads": 26,
       "addedAt": "2026-10-27T23:42:00.000Z"
     },
     {
@@ -1378,7 +1378,7 @@
         "CUSA24898"
       ],
       "parts": [],
-      "downloads": 16,
+      "downloads": 19,
       "addedAt": "2026-10-28T17:58:55.000Z"
     },
     {
@@ -1481,7 +1481,7 @@
         "CUSA01111"
       ],
       "parts": [],
-      "downloads": 19,
+      "downloads": 21,
       "addedAt": "2026-11-04T12:00:00.000Z"
     },
     {
@@ -1685,7 +1685,58 @@
       "parts": [],
       "downloads": 0,
       "addedAt": "2026-11-06T12:00:00.000Z"
+    },
+    {
+      "id": "CUSA06166",
+      "titleId": "CUSA06166",
+      "name": "The Evil Within 2",
+      "team": "Games in Arabic",
+      "version": "1.0",
+      "supportedUpdate": "1.04",
+      "format": "AFR",
+      "size": 4691720,
+      "sha256": "7bd350e504ade969eef7cc872877689f7f15cf8b8a4fbff1bdcd6c77d9bd70a2",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA06166_T1.0_G1.04_HUMAN_GamesinArabic.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/716780279",
+      "icon": "media/icons/mw4u0pph-vbx1.jpg",
+      "screenshots": [
+        "media/shots/mw4u0uro-5euq.jpg",
+        "media/shots/mw4u0wli-m85b.jpg",
+        "media/shots/mw4u0ykv-7yr2.jpg",
+        "media/shots/mw4u102a-u829.jpg",
+        "media/shots/mw4u11f7-dfo3.jpg",
+        "media/shots/mw4u12kn-pjsz.jpg",
+        "media/shots/mw4u13zv-aqe6.jpg",
+        "media/shots/mw4u168f-w79g.jpg",
+        "media/shots/mw4u1874-9bpr.jpg",
+        "media/shots/mw4u19q3-ljzf.jpg",
+        "media/shots/mw4u1b2c-05jw.jpg"
+      ],
+      "iconSha256": "04e28dd1515cd008903519fe57ff7e66629b139335201ea42c7508930d02241e",
+      "screenshotsSha256": [
+        "42ab86bf942a99510636ef44a189e2c8e6b58a0a3f74c8679cd3a7a9dadcff8d",
+        "b568b1fbcc0ae6f4e78ea2b04aeb296521d88347b79e43ce8d269e6bbd9bee6a",
+        "31fc5ed00020ba185c34211bcca4e14c54591b0ad2d39621ad905c29072d7847",
+        "7781b83a44b0a3cc6eb2121b8835c61f6cef9e93f5941a1f78e6cd0d17155b34",
+        "2010168065fdefe7f093452b21a1945c58b5c24acf7c1eaabe4cedd35039515f",
+        "c5f3c43d19047b8cd467d4a66f57aae704cbf08e8efc760584c2521c59705ebc",
+        "0f843317fc1cf8143c69f47e714458c3e6000a1180082179e727a58056abddeb",
+        "0f843317fc1cf8143c69f47e714458c3e6000a1180082179e727a58056abddeb",
+        "8d534fd4b0d672f0d876675ecf97f5480eaaacec37b3a5e411f994657e01cdfa",
+        "41c26a46463ef39c5958107469ae74fe78b4504ea35e8ae83995832d1a999c4c",
+        "999c45d78ded0792a6f0df56018851cbb21235de03cc996444bc5751c3c7c6ff"
+      ],
+      "description": "\n:برمجة\nSajjad Rahim\n\n:تدقيق\nStapheen Sadllah\n\n:مترجمين\nعبدالله الحسين\nFares Al-Sunaidi\nتقي الدين عواوشة\nKhaled Hasan\nMustafa Kurdi\nعبد القادر السقاف\nMr firends مستر صداقا\nSasa Darsh\nroov55\nAAYMF AAYMF\nthe serpent's Embrace\nSajjad Rahim\nعزوز رحال\nRoaa Sameer\nStapheen Sadllah\nfarouk\nsanad SA\nBurning Gundam\nEmilia KT\nabuali huma\nHilda GM\nHashem Al-Nasser\nمحمد بن عبد العزيز\nابو سرمد\nقناة سفير الدواسر الرسمية\nZoived\nAbdullah Alyousef\nأبو فارس\nKrAkEn HD\nMr kholyo\ndz fury\nturki nasser\nahmed zizo\nفهد عزو\nEl Mahdy\nNaif Da Firenze\nsayer a\nZain Mohammed\nBtata gg\nيوسف محمد\nmimo gnr\nahmad gtx\nskull kid\nAhmed AL-haddi\nmohamed lalmi\nsome one\nLiza sB\nAbdulaziz\nMMHassoun Hassoun\nعبدا الله\nThe Knight\nPURE EVIL\nHamzeh Okour\nKarim kamal\nJacob Darka\nALNQAD\niTzZ_ninja\nLEMONH\nSnake\nMjeedoV\nOoO_Hunter_OoO\nAbdullah Albatairy\nAhmed Ady\nRakan AlAbdullatif\nzenoobia68\n#MisharyZH'\n\nRamy Zahran",
+      "readme": "",
+      "origin": "community",
+      "translationType": "human",
+      "compatibleTitleIds": [
+        "CUSA08974"
+      ],
+      "parts": [],
+      "downloads": 0,
+      "addedAt": "2026-11-06T12:00:00.000Z"
     }
   ],
-  "sig": "fc0c95840623db649d4616c8bacd3c29e2297672b8cb00257197df870a8025543f9b8126fb7f18ea2c33b9cac721b8547b5a289ed1f60439815b3d734140460c"
+  "sig": "cd7ffe991684e95dc2e15e0d861b84ab328ddcf913e64458bf6aae6a93384a8dd191f73e97357340d248459ac62254bb43cd86d1fe0d1babd109b67084d79403"
 }
