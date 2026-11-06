@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T17:08:02.137Z",
+  "updatedAt": "2026-11-06T19:16:05.831Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -34,7 +34,7 @@
         "CUSA16742"
       ],
       "parts": [],
-      "downloads": 66,
+      "downloads": 72,
       "addedAt": "2026-10-22T10:46:47.000Z"
     },
     {
@@ -68,7 +68,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 118,
+      "downloads": 121,
       "addedAt": "2026-10-21T18:34:26.000Z"
     },
     {
@@ -136,7 +136,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 59,
+      "downloads": 68,
       "addedAt": "2026-10-21T18:45:08.000Z"
     },
     {
@@ -170,7 +170,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 36,
+      "downloads": 41,
       "addedAt": "2026-10-21T18:55:21.000Z"
     },
     {
@@ -264,7 +264,7 @@
         "CUSA02826"
       ],
       "parts": [],
-      "downloads": 28,
+      "downloads": 29,
       "addedAt": "2026-10-22T20:34:45.000Z"
     },
     {
@@ -465,7 +465,7 @@
         "CUSA10357"
       ],
       "parts": [],
-      "downloads": 22,
+      "downloads": 25,
       "addedAt": "2026-10-24T00:01:09.000Z"
     },
     {
@@ -574,7 +574,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 24,
+      "downloads": 25,
       "addedAt": "2026-10-24T15:21:50.000Z"
     },
     {
@@ -674,7 +674,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 19,
+      "downloads": 20,
       "addedAt": "2026-10-24T18:57:45.000Z"
     },
     {
@@ -752,7 +752,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 17,
+      "downloads": 18,
       "addedAt": "2026-10-24T20:27:08.000Z"
     },
     {
@@ -784,7 +784,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 8,
+      "downloads": 9,
       "addedAt": "2026-10-25T16:19:51.000Z"
     },
     {
@@ -916,7 +916,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 4,
+      "downloads": 5,
       "addedAt": "2026-10-25T17:10:32.000Z"
     },
     {
@@ -949,7 +949,7 @@
         "CUSA08692"
       ],
       "parts": [],
-      "downloads": 13,
+      "downloads": 16,
       "addedAt": "2026-10-25T20:13:26.000Z"
     },
     {
@@ -1022,7 +1022,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 17,
+      "downloads": 18,
       "addedAt": "2026-10-25T20:39:55.000Z"
     },
     {
@@ -1097,7 +1097,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 28,
+      "downloads": 31,
       "addedAt": "2026-10-25T23:47:11.000Z"
     },
     {
@@ -1207,7 +1207,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 28,
+      "downloads": 29,
       "addedAt": "2026-10-26T15:26:09.000Z"
     },
     {
@@ -1246,7 +1246,7 @@
         "CUSA07995"
       ],
       "parts": [],
-      "downloads": 58,
+      "downloads": 60,
       "addedAt": "2026-10-27T11:00:23.000Z"
     },
     {
@@ -1311,7 +1311,7 @@
         "CUSA12047"
       ],
       "parts": [],
-      "downloads": 54,
+      "downloads": 57,
       "addedAt": "2026-10-27T23:42:00.000Z"
     },
     {
@@ -1378,7 +1378,7 @@
         "CUSA24898"
       ],
       "parts": [],
-      "downloads": 31,
+      "downloads": 34,
       "addedAt": "2026-10-28T17:58:55.000Z"
     },
     {
@@ -1454,7 +1454,7 @@
         "CUSA02703"
       ],
       "parts": [],
-      "downloads": 27,
+      "downloads": 29,
       "addedAt": "2026-11-04T12:00:00.000Z"
     },
     {
@@ -1481,7 +1481,7 @@
         "CUSA01111"
       ],
       "parts": [],
-      "downloads": 32,
+      "downloads": 33,
       "addedAt": "2026-11-04T12:00:00.000Z"
     },
     {
@@ -1536,7 +1536,7 @@
         "CUSA26618"
       ],
       "parts": [],
-      "downloads": 74,
+      "downloads": 79,
       "addedAt": "2026-11-04T12:00:00.000Z"
     },
     {
@@ -1590,7 +1590,7 @@
         "CUSA26616"
       ],
       "parts": [],
-      "downloads": 21,
+      "downloads": 22,
       "addedAt": "2026-11-04T12:00:00.000Z"
     },
     {
@@ -1647,7 +1647,7 @@
         "CUSA00203"
       ],
       "parts": [],
-      "downloads": 11,
+      "downloads": 12,
       "addedAt": "2026-11-06T12:00:00.000Z"
     },
     {
@@ -1683,7 +1683,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 8,
+      "downloads": 10,
       "addedAt": "2026-11-06T12:00:00.000Z"
     },
     {
@@ -1734,7 +1734,7 @@
         "CUSA08974"
       ],
       "parts": [],
-      "downloads": 12,
+      "downloads": 13,
       "addedAt": "2026-11-06T12:00:00.000Z"
     },
     {
@@ -1777,7 +1777,63 @@
       "parts": [],
       "downloads": 0,
       "addedAt": "2026-11-06T12:00:00.000Z"
+    },
+    {
+      "id": "CUSA08519",
+      "titleId": "CUSA08519",
+      "name": "Red Dead Redemption 2",
+      "team": "REDEMPTION TEAM",
+      "version": "1.9",
+      "supportedUpdate": "1.32",
+      "format": "AFR",
+      "size": 4931158169,
+      "sha256": "9f449daabc46202caa3c1d46a2c720ac631b5496a8382e8f4301a162705a3aa3",
+      "url": "",
+      "api": "",
+      "icon": "media/icons/mw59zmhm-nidw.png",
+      "screenshots": [
+        "media/shots/mw5a0wxi-3y3n.jpg",
+        "media/shots/mw5a0ygf-7g0o.jpg",
+        "media/shots/mw5a0zxy-ny6d.jpg"
+      ],
+      "iconSha256": "4782bfb96d5cea175199fad9e401e21c2952ff055ec4e0b312cfc75244678f7e",
+      "screenshotsSha256": [
+        "ff8ba930c71e58d0508da5f127c2f8a3e12d722b0492fd43d3fbed21b4c33baa",
+        "1a1d726a9861913989088f2d51a738b8c7042ff3ed788431ba12a0b1c92946bf",
+        "de32794aa397a66ce35c07c10a258cae0bd39d38e4a00bd30ed2a1c20a856e88"
+      ],
+      "description": "التعريب من قبل فريق REDEMPTION TEAM",
+      "readme": "",
+      "origin": "community",
+      "translationType": "human",
+      "compatibleTitleIds": [
+        "CUSA03041"
+      ],
+      "parts": [
+        {
+          "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA08519_T1.9_G1.32_HUMAN_REDEMPTIONTEAM.zip.part01",
+          "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/718038978",
+          "size": 1610612736
+        },
+        {
+          "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA08519_T1.9_G1.32_HUMAN_REDEMPTIONTEAM.zip.part02",
+          "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/718127980",
+          "size": 1610612736
+        },
+        {
+          "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA08519_T1.9_G1.32_HUMAN_REDEMPTIONTEAM.zip.part03",
+          "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/718221650",
+          "size": 1610612736
+        },
+        {
+          "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA08519_T1.9_G1.32_HUMAN_REDEMPTIONTEAM.zip.part04",
+          "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/718258480",
+          "size": 99319961
+        }
+      ],
+      "downloads": 0,
+      "addedAt": "2026-11-06T12:00:00.000Z"
     }
   ],
-  "sig": "3115cd24cf467c165f14e2d8e2c6658cf0a97bb2c769f5d23d5c803f33e4b97e55fadab5f1649add229e705c9bc123d32ef82bf6fce560c627ccd9e4e3f8c906"
+  "sig": "0d6c98a2d4ac8d4d2759c3ad0d6d6caa50dc8795fd9b0b7da6b4c0106647e37a64a36348c7f5b41fd3eb207953b5acd1c70e9fad3c835bccecce91cab1d3380e"
 }
