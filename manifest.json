@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T10:01:42.727Z",
+  "updatedAt": "2026-11-06T10:08:51.794Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -68,7 +68,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 51,
+      "downloads": 53,
       "addedAt": "2026-10-21T18:34:26.000Z"
     },
     {
@@ -136,7 +136,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 27,
+      "downloads": 28,
       "addedAt": "2026-10-21T18:45:08.000Z"
     },
     {
@@ -170,7 +170,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 17,
+      "downloads": 18,
       "addedAt": "2026-10-21T18:55:21.000Z"
     },
     {
@@ -204,7 +204,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 11,
+      "downloads": 12,
       "addedAt": "2026-10-21T19:03:32.000Z"
     },
     {
@@ -1649,7 +1649,43 @@
       "parts": [],
       "downloads": 0,
       "addedAt": "2026-11-06T12:00:00.000Z"
+    },
+    {
+      "id": "CUSA03979",
+      "titleId": "CUSA03979",
+      "name": "BioShock The Collection",
+      "team": "Games in Arabic",
+      "version": "1.0",
+      "supportedUpdate": "1.01",
+      "format": "AFR",
+      "size": 77871076,
+      "sha256": "cdffa50ef7643ba31e854e0d22e1e277bbaf781d1abf1b9a23430440df4db03b",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA03979_T1.0_G1.01_HUMAN_GamesinArabic.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/716716794",
+      "icon": "media/icons/mw4t8d4b-htio.png",
+      "screenshots": [
+        "media/shots/mw4t8ire-wcy9.jpg",
+        "media/shots/mw4t8k8l-s8ye.jpg",
+        "media/shots/mw4t8lsj-0ncj.jpg",
+        "media/shots/mw4t8n4f-hwjc.jpg",
+        "media/shots/mw4t8omn-ykvh.jpg"
+      ],
+      "iconSha256": "8fe6752ab62410a743068fba67dcb3e24e7a9173ceb38374dadb2a1da360523f",
+      "screenshotsSha256": [
+        "9263ba18e554a0f8994425a1ab029cecef7cf5949546f93d633a14178041f902",
+        "fc2f36bf970de3c448c9700bf2beb1d254ff6d5afdc374fd84295e0e8db128f0",
+        "64206c2226195972a19e53ed5dc9fcbab27d039f974e299ec6580b3bda8eef41",
+        "154c6686fd7a36b566ace20c5e27e60a6a8d553a9c3a3343232bb5722db55860",
+        "6a0d7a525ad121bef2deaf333926fb64b6fee626443e0d0b79bcf3123972370d"
+      ],
+      "description": "التعريب يشمل الجزء الاول فقط\n\nبرمجة:\n\n 1. Stapheen Sadllah\n2. Ren\n\n ترجمة:\n\n 1. Stapheen Sadllah\n\nنقل التعريب الى PS4:\nabodora2",
+      "readme": "",
+      "origin": "community",
+      "translationType": "human",
+      "parts": [],
+      "downloads": 0,
+      "addedAt": "2026-11-06T12:00:00.000Z"
     }
   ],
-  "sig": "d0e1ea8eb1e2396af3fd8286963a544b36423e7565c9eba9f5884dede7786564337d3057c747a1a10007e558aafb360de23051093744f4dc88a5554d50a3a001"
+  "sig": "fc0c95840623db649d4616c8bacd3c29e2297672b8cb00257197df870a8025543f9b8126fb7f18ea2c33b9cac721b8547b5a289ed1f60439815b3d734140460c"
 }
