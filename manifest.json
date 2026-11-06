@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T10:00:36.048Z",
+  "updatedAt": "2026-11-06T10:01:42.727Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -1481,7 +1481,7 @@
         "CUSA01111"
       ],
       "parts": [],
-      "downloads": 18,
+      "downloads": 19,
       "addedAt": "2026-11-04T12:00:00.000Z"
     },
     {
@@ -1601,11 +1601,11 @@
       "version": "1.0",
       "supportedUpdate": "1.00",
       "format": "AFR",
-      "size": 41156540,
-      "sha256": "43323cd27dfb9e2cd602e477dce1a10f019d9ead9ff630d1f2917db68f1632a3",
+      "size": 41156570,
+      "sha256": "9d2c682e60f99d908256ec301b1dc6c36bcf4ae963c8141107c3c602a17c6627",
       "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA00375_T1.0_G1.00_HUMAN_GamesinArabic.zip",
-      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/716695424",
-      "icon": "media/icons/mw4swxds-8v4h.jpg",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/716698528",
+      "icon": "media/icons/mw4t0kx6-os82.jpg",
       "screenshots": [
         "media/shots/mw4sx4g6-nojo.jpg",
         "media/shots/mw4sx5tt-gv19.jpg",
@@ -1639,7 +1639,7 @@
         "1f6db0192c2a1bb355914144301a895b062cf49325e92f32fed387c5ee336745",
         "7be5d0325ceac45717e5f03ee8904cd9d02c93d3b3e9982307ea09386a1092f1"
       ],
-      "description": "برمجة:\n\n 1. Sajjad Rahim\n\n ترجمة:\n\n 1. Stapheen Sadllah\n 2. Walid Owiti\n 3. Bassem Jamal\n4. Ahmad Aqrbawi\n 5. SoFiane Righi\n\n تدقيق:\n\n 1. Stapheen Sadllah\n\n شكر خاص بالمساعدة في الترجمة:\n\n 1. the serpent's Embrace\n 2. nin mado\n 3. Mr kholyo\n 4. NobunagaGG\n 5. maxvpp\n 6. Mohammad M\n 7. roov55\n 8. mimo gnr\n 9. Anonym\n 10. قرموع\n 11. Rx_ a\n 12. هيئة مكافحة اللي يقولون اول كومنت\n 13. Had 217\n 14. a3h3f3\n 15. a2fast\n 16. يوسف يوسف\n 17. Ali A\n 18. Abdulmajed\n 19. abdulaziz musaed\n 20. khaled mohammed\n 21. Lelouch Lamperouge\n 22. Salman\n 23. CREED\n\n شكر خاص للمتبرع:\n\n 1. Sulieman Abu Omar",
+      "description": "برمجة:\n\n 1. Sajjad Rahim\n\n ترجمة:\n\n 1. Stapheen Sadllah\n 2. Walid Owiti\n 3. Bassem Jamal\n4. Ahmad Aqrbawi\n 5. SoFiane Righi\n\n تدقيق:\n\n 1. Stapheen Sadllah\n\n شكر خاص بالمساعدة في الترجمة:\n\n 1. the serpent's Embrace\n 2. nin mado\n 3. Mr kholyo\n 4. NobunagaGG\n 5. maxvpp\n 6. Mohammad M\n 7. roov55\n 8. mimo gnr\n 9. Anonym\n 10. قرموع\n 11. Rx_ a\n 12. هيئة مكافحة اللي يقولون اول كومنت\n 13. Had 217\n 14. a3h3f3\n 15. a2fast\n 16. يوسف يوسف\n 17. Ali A\n 18. Abdulmajed\n 19. abdulaziz musaed\n 20. khaled mohammed\n 21. Lelouch Lamperouge\n 22. Salman\n 23. CREED\n\n شكر خاص للمتبرع:\n\n 1. Sulieman Abu Omar\n\nنقل التعريب الى PS4:\nabodora2",
       "readme": "",
       "origin": "community",
       "translationType": "human",
@@ -1651,5 +1651,5 @@
       "addedAt": "2026-11-06T12:00:00.000Z"
     }
   ],
-  "sig": "ce107462cd426ff0e11a901819be3ed6d12168389313b7357b927d02bd3fa23d595a22771a5b1cd192de8be74f240477b207d0ce63afbb55c3b8b2c0c6635e05"
+  "sig": "d0e1ea8eb1e2396af3fd8286963a544b36423e7565c9eba9f5884dede7786564337d3057c747a1a10007e558aafb360de23051093744f4dc88a5554d50a3a001"
 }
