@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-08T21:47:46.290Z",
+  "updatedAt": "2026-11-09T17:11:32.270Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -34,7 +34,7 @@
         "CUSA16742"
       ],
       "parts": [],
-      "downloads": 249,
+      "downloads": 355,
       "addedAt": "2026-10-22T10:46:47.000Z"
     },
     {
@@ -68,7 +68,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 398,
+      "downloads": 549,
       "addedAt": "2026-10-21T18:34:26.000Z"
     },
     {
@@ -102,7 +102,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 76,
+      "downloads": 125,
       "addedAt": "2026-10-21T18:42:12.000Z"
     },
     {
@@ -136,7 +136,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 237,
+      "downloads": 319,
       "addedAt": "2026-10-21T18:45:08.000Z"
     },
     {
@@ -170,7 +170,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 128,
+      "downloads": 167,
       "addedAt": "2026-10-21T18:55:21.000Z"
     },
     {
@@ -204,7 +204,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 92,
+      "downloads": 142,
       "addedAt": "2026-10-21T19:03:32.000Z"
     },
     {
@@ -228,7 +228,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 6,
+      "downloads": 10,
       "addedAt": "2026-10-21T19:07:46.000Z"
     },
     {
@@ -264,7 +264,7 @@
         "CUSA02826"
       ],
       "parts": [],
-      "downloads": 70,
+      "downloads": 95,
       "addedAt": "2026-10-22T20:34:45.000Z"
     },
     {
@@ -300,7 +300,7 @@
         "CUSA02826"
       ],
       "parts": [],
-      "downloads": 140,
+      "downloads": 189,
       "addedAt": "2026-10-22T21:29:37.000Z"
     },
     {
@@ -324,7 +324,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 36,
+      "downloads": 67,
       "addedAt": "2026-10-23T22:18:41.000Z"
     },
     {
@@ -359,7 +359,7 @@
         "CUSA05275"
       ],
       "parts": [],
-      "downloads": 13,
+      "downloads": 23,
       "addedAt": "2026-10-23T22:26:06.000Z"
     },
     {
@@ -401,7 +401,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 12,
+      "downloads": 19,
       "addedAt": "2026-10-23T22:33:07.000Z"
     },
     {
@@ -428,7 +428,7 @@
         "CUSA09407"
       ],
       "parts": [],
-      "downloads": 29,
+      "downloads": 40,
       "addedAt": "2026-10-23T22:40:10.000Z"
     },
     {
@@ -465,7 +465,7 @@
         "CUSA10357"
       ],
       "parts": [],
-      "downloads": 73,
+      "downloads": 101,
       "addedAt": "2026-10-24T00:01:09.000Z"
     },
     {
@@ -501,7 +501,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 47,
+      "downloads": 69,
       "addedAt": "2026-10-24T00:07:18.000Z"
     },
     {
@@ -540,7 +540,7 @@
         "CUSA24853"
       ],
       "parts": [],
-      "downloads": 30,
+      "downloads": 45,
       "addedAt": "2026-10-24T12:38:39.000Z"
     },
     {
@@ -574,7 +574,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 110,
+      "downloads": 158,
       "addedAt": "2026-10-24T15:21:50.000Z"
     },
     {
@@ -640,7 +640,7 @@
         }
       ],
       "partsFormat": "zip",
-      "downloads": 5,
+      "downloads": 6,
       "addedAt": "2026-10-24T17:14:46.000Z"
     },
     {
@@ -674,7 +674,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 49,
+      "downloads": 71,
       "addedAt": "2026-10-24T18:57:45.000Z"
     },
     {
@@ -716,7 +716,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 13,
+      "downloads": 17,
       "addedAt": "2026-10-24T20:19:33.000Z"
     },
     {
@@ -752,7 +752,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 63,
+      "downloads": 87,
       "addedAt": "2026-10-24T20:27:08.000Z"
     },
     {
@@ -784,7 +784,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 29,
+      "downloads": 41,
       "addedAt": "2026-10-25T16:19:51.000Z"
     },
     {
@@ -819,7 +819,7 @@
         "CUSA26738"
       ],
       "parts": [],
-      "downloads": 8,
+      "downloads": 10,
       "addedAt": "2026-10-25T16:18:39.000Z"
     },
     {
@@ -843,7 +843,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 10,
+      "downloads": 11,
       "addedAt": "2026-10-25T16:26:31.000Z"
     },
     {
@@ -880,7 +880,7 @@
         "CUSA04284"
       ],
       "parts": [],
-      "downloads": 71,
+      "downloads": 120,
       "addedAt": "2026-10-25T16:33:50.000Z"
     },
     {
@@ -916,7 +916,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 21,
+      "downloads": 24,
       "addedAt": "2026-10-25T17:10:32.000Z"
     },
     {
@@ -949,7 +949,7 @@
         "CUSA08692"
       ],
       "parts": [],
-      "downloads": 34,
+      "downloads": 55,
       "addedAt": "2026-10-25T20:13:26.000Z"
     },
     {
@@ -986,7 +986,7 @@
         "CUSA01760"
       ],
       "parts": [],
-      "downloads": 32,
+      "downloads": 43,
       "addedAt": "2026-10-25T20:30:53.000Z"
     },
     {
@@ -1022,7 +1022,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 37,
+      "downloads": 60,
       "addedAt": "2026-10-25T20:39:55.000Z"
     },
     {
@@ -1063,7 +1063,7 @@
         "CUSA10246"
       ],
       "parts": [],
-      "downloads": 11,
+      "downloads": 13,
       "addedAt": "2026-10-25T20:52:20.000Z"
     },
     {
@@ -1097,7 +1097,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 94,
+      "downloads": 126,
       "addedAt": "2026-10-25T23:47:11.000Z"
     },
     {
@@ -1124,7 +1124,7 @@
         "CUSA10654"
       ],
       "parts": [],
-      "downloads": 18,
+      "downloads": 30,
       "addedAt": "2026-10-26T10:53:21.000Z"
     },
     {
@@ -1169,7 +1169,7 @@
         "CUSA30424"
       ],
       "parts": [],
-      "downloads": 8,
+      "downloads": 12,
       "addedAt": "2026-10-26T11:10:53.000Z"
     },
     {
@@ -1207,7 +1207,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 152,
+      "downloads": 287,
       "addedAt": "2026-10-26T15:26:09.000Z"
     },
     {
@@ -1246,7 +1246,7 @@
         "CUSA07995"
       ],
       "parts": [],
-      "downloads": 202,
+      "downloads": 273,
       "addedAt": "2026-10-27T11:00:23.000Z"
     },
     {
@@ -1311,7 +1311,7 @@
         "CUSA12047"
       ],
       "parts": [],
-      "downloads": 204,
+      "downloads": 302,
       "addedAt": "2026-10-27T23:42:00.000Z"
     },
     {
@@ -1378,7 +1378,7 @@
         "CUSA24898"
       ],
       "parts": [],
-      "downloads": 135,
+      "downloads": 192,
       "addedAt": "2026-10-28T17:58:55.000Z"
     },
     {
@@ -1415,7 +1415,7 @@
         "CUSA32599"
       ],
       "parts": [],
-      "downloads": 10,
+      "downloads": 18,
       "addedAt": "2026-11-04T12:00:00.000Z"
     },
     {
@@ -1454,7 +1454,7 @@
         "CUSA02703"
       ],
       "parts": [],
-      "downloads": 84,
+      "downloads": 115,
       "addedAt": "2026-11-04T12:00:00.000Z"
     },
     {
@@ -1481,7 +1481,7 @@
         "CUSA01111"
       ],
       "parts": [],
-      "downloads": 98,
+      "downloads": 122,
       "addedAt": "2026-11-04T12:00:00.000Z"
     },
     {
@@ -1509,7 +1509,7 @@
         "CUSA00076"
       ],
       "parts": [],
-      "downloads": 59,
+      "downloads": 89,
       "addedAt": "2026-11-04T12:00:00.000Z"
     },
     {
@@ -1536,7 +1536,7 @@
         "CUSA26618"
       ],
       "parts": [],
-      "downloads": 262,
+      "downloads": 370,
       "addedAt": "2026-11-04T12:00:00.000Z"
     },
     {
@@ -1563,7 +1563,7 @@
         "CUSA23501"
       ],
       "parts": [],
-      "downloads": 36,
+      "downloads": 51,
       "addedAt": "2026-11-04T12:00:00.000Z"
     },
     {
@@ -1590,7 +1590,7 @@
         "CUSA26616"
       ],
       "parts": [],
-      "downloads": 129,
+      "downloads": 191,
       "addedAt": "2026-11-04T12:00:00.000Z"
     },
     {
@@ -1647,7 +1647,7 @@
         "CUSA00203"
       ],
       "parts": [],
-      "downloads": 53,
+      "downloads": 68,
       "addedAt": "2026-11-06T12:00:00.000Z"
     },
     {
@@ -1683,7 +1683,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 28,
+      "downloads": 34,
       "addedAt": "2026-11-06T12:00:00.000Z"
     },
     {
@@ -1734,7 +1734,7 @@
         "CUSA08974"
       ],
       "parts": [],
-      "downloads": 69,
+      "downloads": 91,
       "addedAt": "2026-11-06T12:00:00.000Z"
     },
     {
@@ -1775,7 +1775,7 @@
         "CUSA03986"
       ],
       "parts": [],
-      "downloads": 9,
+      "downloads": 12,
       "addedAt": "2026-11-06T12:00:00.000Z"
     },
     {
@@ -1831,7 +1831,7 @@
           "size": 99319961
         }
       ],
-      "downloads": 201,
+      "downloads": 281,
       "addedAt": "2026-11-06T12:00:00.000Z"
     },
     {
@@ -1870,7 +1870,7 @@
         "CUSA03985"
       ],
       "parts": [],
-      "downloads": 3,
+      "downloads": 13,
       "addedAt": "2026-11-08T12:00:00.000Z"
     },
     {
@@ -1898,9 +1898,51 @@
         "CUSA00552"
       ],
       "parts": [],
+      "downloads": 208,
+      "addedAt": "2026-11-09T12:00:00.000Z"
+    },
+    {
+      "id": "CUSA00924",
+      "titleId": "CUSA00924",
+      "name": "RESIDENT EVIL REVELATIONS 2",
+      "team": "Ahmad Aqrbawi",
+      "version": "1.0",
+      "supportedUpdate": "1.05",
+      "format": "AFR",
+      "size": 2451612,
+      "sha256": "0dc6ecad18a441ba1df0a210c6ca598a7f57f48704ac2dd0010a514cd1cb3791",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA00924_T1.0_G1.05_HUMAN_AhmadAqrbawi.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/728284312",
+      "icon": "media/icons/mw9imsrp-nmn9.jpg",
+      "screenshots": [
+        "media/shots/mw9imwky-0zku.jpg",
+        "media/shots/mw9imwl4-pwnr.jpg",
+        "media/shots/mw9imwl8-54wk.jpg",
+        "media/shots/mw9imwle-dsos.jpg",
+        "media/shots/mw9imwlm-gd2s.jpg",
+        "media/shots/mw9imwlt-yun2.jpg"
+      ],
+      "iconSha256": "0550f18a20782b723e54cdb7f0e99d430a2acee97f20788cc81f8c113b7bd263",
+      "screenshotsSha256": [
+        "d8aeede8c31668162cf42b77afb74a45d9addda28d3f5ba0770058701dc30386",
+        "693ecacc47e4b2374ff5a9dfd8fabab16212e27374cee7fb08656d5cd1386f4a",
+        "9acf09f9602904b0bbaeb6011abab74933f5158164ad918ab1cbee8c74c84f24",
+        "d262563a8bba0db09606080343c9a04888d9717b407a06d62ea1ec4d4a6c7c03",
+        "b95bf6ba72c63277cd720fc01bfc31f85a6d0ec50e3424da46e77449646a3f1d",
+        "32ed6028e5b74267d7b5350929fb1b283418b5dd88dd6c5124ceda3b47de6c0c"
+      ],
+      "description": "تعريب أحمد العقرباوي بمساعدة ماجد العتيبي\nالتعريب يدعم اصداري 1.04 و1.05 ممن اللعبة",
+      "readme": "",
+      "origin": "community",
+      "translationType": "human",
+      "compatibleTitleIds": [
+        "CUSA01133",
+        "CUSA01141"
+      ],
+      "parts": [],
       "downloads": 0,
       "addedAt": "2026-11-09T12:00:00.000Z"
     }
   ],
-  "sig": "e9ee01ef28f52b2f92de895ce03da36f491e8dbf1d76ee50352a32a9f80a2e98cdf06eac87c1edc79f8406aa646ee26dc01499b08d0a6aa30f89a04f854b8b0f"
+  "sig": "3441b75c090a0b0e5d54b4979efe04f390137d0b1ad836871784da93156c072b03a42d665b3c23cb42c07754450247c9eb3871e1f18674fd1c442f3e72511e00"
 }
