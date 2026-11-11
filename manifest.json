@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-11T20:01:52.874Z",
+  "updatedAt": "2026-11-11T20:04:22.955Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -1026,7 +1026,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 155,
+      "downloads": 157,
       "addedAt": "2026-10-25T20:39:55.000Z"
     },
     {
@@ -1315,7 +1315,7 @@
         "CUSA12047"
       ],
       "parts": [],
-      "downloads": 656,
+      "downloads": 658,
       "addedAt": "2026-10-27T23:42:00.000Z"
     },
     {
@@ -1458,7 +1458,7 @@
         "CUSA02703"
       ],
       "parts": [],
-      "downloads": 255,
+      "downloads": 261,
       "addedAt": "2026-11-04T12:00:00.000Z"
     },
     {
@@ -1540,7 +1540,7 @@
         "CUSA26618"
       ],
       "parts": [],
-      "downloads": 807,
+      "downloads": 811,
       "addedAt": "2026-11-04T12:00:00.000Z"
     },
     {
@@ -1835,7 +1835,7 @@
           "size": 99319961
         }
       ],
-      "downloads": 659,
+      "downloads": 663,
       "addedAt": "2026-11-06T12:00:00.000Z"
     },
     {
@@ -2085,7 +2085,63 @@
       "parts": [],
       "downloads": 0,
       "addedAt": "2026-11-11T12:00:00.000Z"
+    },
+    {
+      "id": "CUSA57548_1.11",
+      "titleId": "CUSA57548",
+      "name": "Call of Duty Black Ops II v1.11",
+      "team": "حمد الفايدي",
+      "version": "1.0",
+      "supportedUpdate": "1.11",
+      "format": "AFR",
+      "size": 15025782,
+      "sha256": "76a6dbe1b734eed7362f2ad57587e2ac5d58adb955494761a89949ea54adc883",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA57548_T1.0_G1.11_AI_6d7890.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/736798975",
+      "icon": "media/icons/mwcjquiu-irka.jpg",
+      "screenshots": [
+        "media/shots/mwcjqxvq-rqs5.jpg",
+        "media/shots/mwcjqxvy-c7nb.jpg",
+        "media/shots/mwcjqxw5-updk.jpg",
+        "media/shots/mwcjqxwc-olge.jpg",
+        "media/shots/mwcjqxwm-22uo.jpg",
+        "media/shots/mwcjqxws-utlk.jpg",
+        "media/shots/mwcjqxwx-llib.jpg",
+        "media/shots/mwcjqxx0-aepm.jpg",
+        "media/shots/mwcjqxx9-ftik.jpg",
+        "media/shots/mwcjqxxh-doxp.jpg",
+        "media/shots/mwcjqxxp-jy8d.jpg",
+        "media/shots/mwcjqxxx-r685.jpg",
+        "media/shots/mwcjqxy4-w283.jpg",
+        "media/shots/mwcjqxyb-23ve.jpg",
+        "media/shots/mwcjqxyh-ke8c.jpg"
+      ],
+      "iconSha256": "89577b16135b2e6eda6aad7cf0c678aae1c3deefd3094d13b55ab44b32c7bb04",
+      "screenshotsSha256": [
+        "85dc064d4bba466e6fe7c56c3dda4e68277f64e62a7cb527100538d5444593eb",
+        "07351aae2c6fb9c56c4b2fd98989fe481b96ae53c6402ce10652081bb7a361af",
+        "f13c6e5bf842fbabf7d428e25ede024ad699d5ff31f5ecafa738d8794d7edf7e",
+        "76b6799d3db6d3195f24017bcc01eccdc9adc8d9574e5682c667bb3615e7e98d",
+        "50a0e7d5db7af209c252cffa21efa1bda2c02419d5d7d0fbb68fbab235219449",
+        "6369201e028cac579341edcc4231f410b2f3682cf10149513a82a04e2433403c",
+        "0de5751e1b9d1725d6ab72b15b51446f48d7c27285e7364bbd48c2171a083068",
+        "7e1017e74c2669918697f3e95ff9be5def5bcd740e29532e96084b29f3266751",
+        "cb102e6d825911eaaa6adaf5bf6f79b156b15873be7408673c0818d849172c79",
+        "826933427c8e260c7b21f236c9080771be0aba1a6ee71e189b4e4846b8d835f5",
+        "c53cecc3639b4807b0a4a6281a95fe9a8f1074d8f725301e84773ca6b8ae5a06",
+        "e147bfd71848e571cc109f0e57d6a07cec9d74dfe3c5c786c590368682edf34e",
+        "676570c7fbd837630b7f5a9945db50fef8b83c1a787cbbd08d8ccc30f474fdb7",
+        "6f74e6c760614eabf8f09731dc1d5eef7fd19e0ef4d3c3b1b64a5bc68a6e32ed",
+        "a0170c7fa3fbb77ca22f7c3c52d778e8f799bf11106b31104b4285d32b19a5a5"
+      ],
+      "description": "الترجمة من قبل حمد الفايدي\nنقل التعريب إلى PS4 من قبل: سجاد رحيم",
+      "readme": "",
+      "origin": "community",
+      "translationType": "machine",
+      "parts": [],
+      "downloads": 0,
+      "addedAt": "2026-11-11T12:00:00.000Z"
     }
   ],
-  "sig": "17cb93545f864132cf218eebb4a7c8cf1c0beca7279501ec184fcc386affd305b0e7db2965a839149d7eedbaa34c9d30a6621059a26ae06cd11c72cf24585709"
+  "sig": "3dc268827fd8a9e5bb0d07fc5f7ad5c9a835de5ffd878a0447f1d5ee9b2267c3dd94e7b807ddc42db34822ab557c0c358605f9f8335748162a96a3dbba8b1704"
 }
