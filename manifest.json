@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T18:02:34.796Z",
+  "updatedAt": "2026-11-12T18:02:45.932Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -1104,6 +1104,62 @@
       "addedAt": "2026-11-04T12:00:00.000Z"
     },
     {
+      "id": "CUSA26619",
+      "titleId": "CUSA26619",
+      "name": "Grand Theft Auto San Andreas The Definitive Edition",
+      "team": "حمزة الحمود",
+      "version": "1.4",
+      "supportedUpdate": "1.07",
+      "format": "AFR",
+      "size": 8149841,
+      "sha256": "10c817739b140d7be2c3e201b3d326ade09529d61c4f471e8b5747bfab829451",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA26619_T1.4_G1.07_HUMAN_fb1187.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/740518725",
+      "icon": "media/icons/mwduqish-9w1u.png",
+      "screenshots": [
+        "media/shots/mwduu5b9-dfz4.jpg",
+        "media/shots/mwduu72j-ehrs.jpg",
+        "media/shots/mwduu8ab-bk5s.jpg",
+        "media/shots/mwduu9kt-a7hx.jpg",
+        "media/shots/mwduuavi-hf8f.jpg",
+        "media/shots/mwduuc9m-yjbd.jpg",
+        "media/shots/mwduudsc-efa4.jpg",
+        "media/shots/mwduuex3-yc83.jpg",
+        "media/shots/mwduug5m-994k.jpg",
+        "media/shots/mwduuhi9-93g3.jpg",
+        "media/shots/mwduuix9-s0wk.jpg",
+        "media/shots/mwduukey-x54c.jpg",
+        "media/shots/mwduulrs-8wto.jpg"
+      ],
+      "iconSha256": "71dc93232d1118abaed1acbea8afd085c9a5b547ea2c21416012cb5495e5ac1e",
+      "screenshotsSha256": [
+        "4c9531074f9204939f420d0e972c73e2d9fafaa78f1ef09e7bc4b0da60080358",
+        "d5b4fec70d2cc4aa32a24a964f5a9aec9bb6b01e31d95d3cd7ef1d2cf9a853e0",
+        "935efa70cb441a04cc67a50b5d2334d6dd09e571c973fcc600d08bd1b3128ab9",
+        "cd0f327306ed36221cb4d2af51a0020d1720cc5589d371c035b2519aa8751283",
+        "9a4dc7a0fd8b1b22c30b8db94fcedde5fdc65a08df386fc4e7d3ab4a94a16674",
+        "39064a5dffb61b48a66c5fda7dcafcb10c0b8455708cd0d636252f5eb0b939fd",
+        "e5e1c45ee5b0f95729a46bf2362146a34db3122aa6fc176a15d98a1600b53931",
+        "8c07e7605b853e277a4aad62f1176427c6d132e3c19c22a6f16de500a98294bc",
+        "2a6e592449fd9388d5e398326cf7807440a25d9d7ff6a2a988282ce43d87ad39",
+        "e7e657a520c90be830418a4a6ad0657d8096e41d7337c91133e4e7433760affb",
+        "686f1cd5b8bb6244a49618efd58fdcdb44e299afe1277aa6fc56ed1ae9d28626",
+        "762e2fa3588aad4fffef678f4abb9d1bae32c5ac4c76cdc06d3b58ce14d45cef",
+        "1dcf2e8ae9b8a997eddfdf53ec65e47d063aac699df5a2fbf594987d42312128"
+      ],
+      "description": "حمزة الحمود",
+      "readme": "",
+      "origin": "community",
+      "translationType": "human",
+      "compatibleTitleIds": [
+        "CUSA26618"
+      ],
+      "parts": [],
+      "downloads": 952,
+      "downloadsBase": 952,
+      "addedAt": "2026-11-12T12:00:00.000Z"
+    },
+    {
       "id": "CUSA26613",
       "titleId": "CUSA26613",
       "name": "Grand Theft Auto III The Definitive Edition",
@@ -1747,5 +1803,5 @@
       "addedAt": "2026-11-11T12:00:00.000Z"
     }
   ],
-  "sig": "84c2da57e868b3eddee1eeac1aa979db83ed8f2347193c95e4c000f8a5f2ef5d3b04a47f9ef5e2482d2c5d670725dd9444a5b6653ee227775da305c5be7f8b02"
+  "sig": "25ebf0f5a57a14d6ab41a56d561b5f44377af2bdcbe743dbc17a1a49c06103608334b937ab077bd633157d1404427c6376bce24c93ecac10b9bb9e4a81c3a40c"
 }
