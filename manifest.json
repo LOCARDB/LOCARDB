@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T16:38:43.683Z",
+  "updatedAt": "2026-11-12T17:55:32.420Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -34,7 +34,7 @@
         "CUSA16742"
       ],
       "parts": [],
-      "downloads": 827,
+      "downloads": 845,
       "addedAt": "2026-10-22T10:46:47.000Z"
     },
     {
@@ -68,7 +68,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 1374,
+      "downloads": 1396,
       "addedAt": "2026-10-21T18:34:26.000Z"
     },
     {
@@ -102,7 +102,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 732,
+      "downloads": 736,
       "addedAt": "2026-10-21T18:45:08.000Z"
     },
     {
@@ -136,7 +136,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 395,
+      "downloads": 401,
       "addedAt": "2026-10-21T18:55:21.000Z"
     },
     {
@@ -170,7 +170,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 307,
+      "downloads": 313,
       "addedAt": "2026-10-21T19:03:32.000Z"
     },
     {
@@ -194,7 +194,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 18,
+      "downloads": 20,
       "addedAt": "2026-10-21T19:07:46.000Z"
     },
     {
@@ -230,7 +230,7 @@
         "CUSA02826"
       ],
       "parts": [],
-      "downloads": 231,
+      "downloads": 233,
       "addedAt": "2026-10-22T20:34:45.000Z"
     },
     {
@@ -266,7 +266,7 @@
         "CUSA02826"
       ],
       "parts": [],
-      "downloads": 493,
+      "downloads": 503,
       "addedAt": "2026-10-22T21:29:37.000Z"
     },
     {
@@ -343,7 +343,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 53,
+      "downloads": 55,
       "addedAt": "2026-10-23T22:33:07.000Z"
     },
     {
@@ -370,7 +370,7 @@
         "CUSA09407"
       ],
       "parts": [],
-      "downloads": 104,
+      "downloads": 106,
       "addedAt": "2026-10-23T22:40:10.000Z"
     },
     {
@@ -407,7 +407,7 @@
         "CUSA10357"
       ],
       "parts": [],
-      "downloads": 217,
+      "downloads": 219,
       "addedAt": "2026-10-24T00:01:09.000Z"
     },
     {
@@ -477,7 +477,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 373,
+      "downloads": 377,
       "addedAt": "2026-10-24T15:21:50.000Z"
     },
     {
@@ -543,7 +543,7 @@
         }
       ],
       "partsFormat": "zip",
-      "downloads": 14,
+      "downloads": 16,
       "addedAt": "2026-10-24T17:14:46.000Z"
     },
     {
@@ -659,7 +659,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 227,
+      "downloads": 231,
       "addedAt": "2026-10-24T20:27:08.000Z"
     },
     {
@@ -763,7 +763,7 @@
         "CUSA04284"
       ],
       "parts": [],
-      "downloads": 256,
+      "downloads": 262,
       "addedAt": "2026-10-25T16:33:50.000Z"
     },
     {
@@ -797,7 +797,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 339,
+      "downloads": 343,
       "addedAt": "2026-10-25T23:47:11.000Z"
     },
     {
@@ -835,7 +835,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 661,
+      "downloads": 671,
       "addedAt": "2026-10-26T15:26:09.000Z"
     },
     {
@@ -874,7 +874,7 @@
         "CUSA07995"
       ],
       "parts": [],
-      "downloads": 755,
+      "downloads": 765,
       "addedAt": "2026-10-27T11:00:23.000Z"
     },
     {
@@ -939,7 +939,7 @@
         "CUSA12047"
       ],
       "parts": [],
-      "downloads": 734,
+      "downloads": 752,
       "addedAt": "2026-10-27T23:42:00.000Z"
     },
     {
@@ -1006,7 +1006,7 @@
         "CUSA24898"
       ],
       "parts": [],
-      "downloads": 444,
+      "downloads": 451,
       "addedAt": "2026-10-28T17:58:55.000Z"
     },
     {
@@ -1045,7 +1045,7 @@
         "CUSA02703"
       ],
       "parts": [],
-      "downloads": 344,
+      "downloads": 348,
       "addedAt": "2026-11-04T12:00:00.000Z"
     },
     {
@@ -1072,7 +1072,7 @@
         "CUSA01111"
       ],
       "parts": [],
-      "downloads": 323,
+      "downloads": 325,
       "addedAt": "2026-11-04T12:00:00.000Z"
     },
     {
@@ -1100,7 +1100,7 @@
         "CUSA00076"
       ],
       "parts": [],
-      "downloads": 220,
+      "downloads": 229,
       "addedAt": "2026-11-04T12:00:00.000Z"
     },
     {
@@ -1127,7 +1127,7 @@
         "CUSA26618"
       ],
       "parts": [],
-      "downloads": 938,
+      "downloads": 952,
       "addedAt": "2026-11-04T12:00:00.000Z"
     },
     {
@@ -1154,7 +1154,7 @@
         "CUSA23501"
       ],
       "parts": [],
-      "downloads": 135,
+      "downloads": 143,
       "addedAt": "2026-11-04T12:00:00.000Z"
     },
     {
@@ -1162,17 +1162,35 @@
       "titleId": "CUSA26615",
       "name": "Grand Theft Auto Vice City The Definitive Edition",
       "team": "حمزة الحمود",
-      "version": "1.3",
+      "version": "1.4",
       "supportedUpdate": "1.07",
       "format": "AFR",
-      "size": 4025535,
-      "sha256": "7b4f27cbc0bdef987f57de3fd55ce303f525280e4ef24ba115041cc0ede31968",
-      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA26615_T1.3_G1.07_HUMAN_fb1187.zip",
-      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/709572961",
-      "icon": "media/icons/mw253msd-p65f.png",
-      "screenshots": [],
+      "size": 8115025,
+      "sha256": "bdf58e12eaca2543f052f8968fcd3b4d358bddef02a0d933b3f4547fdff82e87",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA26615_T1.4_G1.07_HUMAN_fb1187.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/740495842",
+      "icon": "media/icons/mwdugq9r-4cdi.png",
+      "screenshots": [
+        "media/shots/mwdulgi0-cnwa.jpg",
+        "media/shots/mwdulhye-lhr7.jpg",
+        "media/shots/mwduljc6-8bll.jpg",
+        "media/shots/mwdull19-1c90.jpg",
+        "media/shots/mwdulnng-6z5l.jpg",
+        "media/shots/mwdulpgs-p6do.jpg",
+        "media/shots/mwdulqsn-n2nh.jpg",
+        "media/shots/mwdulsef-4wvf.jpg"
+      ],
       "iconSha256": "a068c08060b55c493abd6137909c65fa55fc1343cb7af85a2d533fb53f52fcbc",
-      "screenshotsSha256": [],
+      "screenshotsSha256": [
+        "3b4b4c8eb82a72bf94779eed7d0457827f697d036b000d4568def0098ff3a731",
+        "87a67b38548346018b90a658fb2d6524fd588c6beba7d2b75c40ffb4fc87c953",
+        "299c5ba9da0ed339d31791bcb69133e535a20e149f07026be0f117bb61b2f050",
+        "9ddae9bfb8f4623dfa801602f0d406121615d2811887e42d4b6ff402d5c53c09",
+        "67adb13ee33f5cdef842ac02b6da3b6ac8433f604dfbc332a8f661b581ac9248",
+        "467fde01924ea0f6b5d8e42571e3e60215fc43e50c9395e2c98a41c78b2c55f0",
+        "e8d2751c02ca3f12df6181e017eec1a663286e43cc3d8a0475ae59b5a8425341",
+        "14589c8ec0f1b1da41275518a56f2eb7276a46272b707802d7c966d6158a3468"
+      ],
       "description": "حمزة الحمود",
       "readme": "",
       "origin": "community",
@@ -1181,8 +1199,9 @@
         "CUSA26616"
       ],
       "parts": [],
-      "downloads": 489,
-      "addedAt": "2026-11-04T12:00:00.000Z"
+      "downloads": 506,
+      "downloadsBase": 506,
+      "addedAt": "2026-11-12T12:00:00.000Z"
     },
     {
       "id": "CUSA00375",
@@ -1238,7 +1257,7 @@
         "CUSA00203"
       ],
       "parts": [],
-      "downloads": 162,
+      "downloads": 164,
       "addedAt": "2026-11-06T12:00:00.000Z"
     },
     {
@@ -1325,7 +1344,7 @@
         "CUSA08974"
       ],
       "parts": [],
-      "downloads": 217,
+      "downloads": 221,
       "addedAt": "2026-11-06T12:00:00.000Z"
     },
     {
@@ -1422,7 +1441,7 @@
           "size": 99319961
         }
       ],
-      "downloads": 798,
+      "downloads": 816,
       "addedAt": "2026-11-06T12:00:00.000Z"
     },
     {
@@ -1461,7 +1480,7 @@
         "CUSA03985"
       ],
       "parts": [],
-      "downloads": 78,
+      "downloads": 82,
       "addedAt": "2026-11-08T12:00:00.000Z"
     },
     {
@@ -1489,7 +1508,7 @@
         "CUSA00552"
       ],
       "parts": [],
-      "downloads": 1002,
+      "downloads": 1011,
       "addedAt": "2026-11-09T12:00:00.000Z"
     },
     {
@@ -1531,7 +1550,7 @@
         "CUSA01141"
       ],
       "parts": [],
-      "downloads": 123,
+      "downloads": 127,
       "addedAt": "2026-11-09T12:00:00.000Z"
     },
     {
@@ -1670,7 +1689,7 @@
       "origin": "community",
       "translationType": "machine",
       "parts": [],
-      "downloads": 160,
+      "downloads": 170,
       "addedAt": "2026-11-11T12:00:00.000Z"
     },
     {
@@ -1726,9 +1745,9 @@
       "origin": "community",
       "translationType": "machine",
       "parts": [],
-      "downloads": 36,
+      "downloads": 40,
       "addedAt": "2026-11-11T12:00:00.000Z"
     }
   ],
-  "sig": "55c41bf65fcf74920ac5785968425efb0795f2e3f4266f62288204fbcebc489eb442458f0a34a1c0fff7909d9d45d5959895b02bb7cb96686b72efe09d27d908"
+  "sig": "8da7e5e33f7bc6a4508b634c12b4326fd355f1a91a3dbfc92a0704837ae893640d9b04cd2f0596948b06b24fd7f04c947721cba643da7c37bd38e6c5c64ee004"
 }
