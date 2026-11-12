@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-11T20:04:22.955Z",
+  "updatedAt": "2026-11-12T16:38:43.683Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -34,7 +34,7 @@
         "CUSA16742"
       ],
       "parts": [],
-      "downloads": 719,
+      "downloads": 827,
       "addedAt": "2026-10-22T10:46:47.000Z"
     },
     {
@@ -68,42 +68,8 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 1215,
+      "downloads": 1374,
       "addedAt": "2026-10-21T18:34:26.000Z"
-    },
-    {
-      "id": "CUSA03173",
-      "titleId": "CUSA03173",
-      "name": "Bloodborne",
-      "team": "الحلم المتجدد",
-      "version": "1.3",
-      "supportedUpdate": "1.09",
-      "format": "AFR",
-      "size": 82515484,
-      "sha256": "62a6c8b98c7cd6d17d9df3b3da2246cc4d472efdaff25d86843e03e58bef205a",
-      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA03173_T1.3_G1.09.zip",
-      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/663453481",
-      "icon": "media/icons/mviggmad-re0l.png",
-      "screenshots": [
-        "media/shots/mviggoom-rjb5.jpg",
-        "media/shots/mviggs8z-n2qu.jpg",
-        "media/shots/mviggts6-demn.jpg",
-        "media/shots/mvigguz9-mjcn.jpg"
-      ],
-      "iconSha256": "422f73df1ff3f3af95a81e5f95e4d34cea816b0458cd67936d2c763bf9f5e665",
-      "screenshotsSha256": [
-        "d52e8e9f55da7c07b50b148ee8b59762f11706ff2fcd14c243ec8f9faaa592e6",
-        "8307dd688d239fa15ba9fe29f3e689f2fc176a1d2652710c0888a2690c013cf1",
-        "f7af4dc5e021bb12feb2928e01d2ab718217c3d2198815ec75faa878baea1505",
-        "864260205070d8648add34848f7bb8b5e3b5ecdb23eb4b571b543818e7d99856"
-      ],
-      "description": "  التعديل التقني: AdamSaeed، ‎!MAX\n  الترجمة: جيزص، Mesho، RyokoSubs، Allen Wouka، منصور (ترجمات ثانوية)\n  التدقيق: YatoSubs، Yasser-Sensei\n  الشعار والتوجه الفني: AdamSaeed، منصور\n  مراقبة الجودة: ‎!MAX\n  دمج التعريب مع باتش 60FPS: ‎!MAX\n  نسخة محاكي ShadPS4: كوتشيكي\n  تنسيق النشرة: AdamSaeed، منصور\n  شكر خاص: KayMaw، فريق DarkWare، سباد، مؤلف كتاب موسوعة العذاب، وكل من شجعنا على تعريب هذه اللعبة أو نصحنا بالابتعاد عنها",
-      "readme": "",
-      "origin": "community",
-      "translationType": "human",
-      "parts": [],
-      "downloads": 281,
-      "addedAt": "2026-10-21T18:42:12.000Z"
     },
     {
       "id": "CUSA57547",
@@ -136,7 +102,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 632,
+      "downloads": 732,
       "addedAt": "2026-10-21T18:45:08.000Z"
     },
     {
@@ -170,7 +136,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 336,
+      "downloads": 395,
       "addedAt": "2026-10-21T18:55:21.000Z"
     },
     {
@@ -204,7 +170,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 261,
+      "downloads": 307,
       "addedAt": "2026-10-21T19:03:32.000Z"
     },
     {
@@ -228,7 +194,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 16,
+      "downloads": 18,
       "addedAt": "2026-10-21T19:07:46.000Z"
     },
     {
@@ -264,7 +230,7 @@
         "CUSA02826"
       ],
       "parts": [],
-      "downloads": 208,
+      "downloads": 231,
       "addedAt": "2026-10-22T20:34:45.000Z"
     },
     {
@@ -300,32 +266,8 @@
         "CUSA02826"
       ],
       "parts": [],
-      "downloads": 428,
+      "downloads": 493,
       "addedAt": "2026-10-22T21:29:37.000Z"
-    },
-    {
-      "id": "CUSA11302",
-      "titleId": "CUSA11302",
-      "name": "Celeste",
-      "team": "الحلم المتجدد",
-      "version": "1.0",
-      "supportedUpdate": "1.00",
-      "format": "AFR",
-      "size": 514200,
-      "sha256": "0c905d90cfb89775ef79370b135487ccc6d7d8c52383d25d58d1ffaa12a78fd2",
-      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA11302_T1.0_G1.00_HUMAN_be95cf.zip",
-      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/670570880",
-      "icon": "media/icons/mvlj6gtd-dlj3.png",
-      "screenshots": [],
-      "iconSha256": "2d4559ead48e964df69c7d98b84d68c1543aaa547f4d19f7acc9b1457cde55ae",
-      "screenshotsSha256": [],
-      "description": "Asgore_Undertale : ترجمة النص، تعديل تقني، إعداد تنصيب التعريب.\nداركو، صفا: تعديل تقني (حل مشكلة الخط في أول المشروع).\nسلمان: تعديل تقني (الخط)، مراجعة لغوية.\nمحمد المسطح، عمر يوسف: مساعدة في المراجعة اللغوية.\nAllen Wouka: نقل التعريب.",
-      "readme": "",
-      "origin": "community",
-      "translationType": "human",
-      "parts": [],
-      "downloads": 133,
-      "addedAt": "2026-10-23T22:18:41.000Z"
     },
     {
       "id": "CUSA05347",
@@ -359,7 +301,7 @@
         "CUSA05275"
       ],
       "parts": [],
-      "downloads": 29,
+      "downloads": 39,
       "addedAt": "2026-10-23T22:26:06.000Z"
     },
     {
@@ -401,7 +343,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 47,
+      "downloads": 53,
       "addedAt": "2026-10-23T22:33:07.000Z"
     },
     {
@@ -428,7 +370,7 @@
         "CUSA09407"
       ],
       "parts": [],
-      "downloads": 87,
+      "downloads": 104,
       "addedAt": "2026-10-23T22:40:10.000Z"
     },
     {
@@ -465,7 +407,7 @@
         "CUSA10357"
       ],
       "parts": [],
-      "downloads": 191,
+      "downloads": 217,
       "addedAt": "2026-10-24T00:01:09.000Z"
     },
     {
@@ -501,47 +443,8 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 138,
+      "downloads": 158,
       "addedAt": "2026-10-24T00:07:18.000Z"
-    },
-    {
-      "id": "CUSA25000",
-      "titleId": "CUSA25000",
-      "name": "Kena Bridge of Spirits",
-      "team": "الحلم المتجدد",
-      "version": "1.0",
-      "supportedUpdate": "2.08",
-      "format": "AFR",
-      "size": 2916078,
-      "sha256": "0a520b573ecf894024c7134b595947b86ad2a435c3dd7c63fafaf9670f97f38e",
-      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA25000_T1.0_G2.08_HUMAN_be95cf.zip",
-      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/672234054",
-      "icon": "media/icons/mvmbtyjf-r9zj.png",
-      "screenshots": [
-        "media/shots/mvm976ot-f4ej.jpg",
-        "media/shots/mvm978yl-ebhk.jpg",
-        "media/shots/mvm97aea-dzo2.jpg",
-        "media/shots/mvm97c5s-sb36.jpg",
-        "media/shots/mvm97e31-t4t9.jpg"
-      ],
-      "iconSha256": "e1ecfab6e85eaa941e6694d0a45374772ea5dfd90ba6c3a0c9ce3d570f557bb0",
-      "screenshotsSha256": [
-        "252fcbc73c50d35b330b0610c1e3233425d23b6ce897c93b05a9298a7e43b230",
-        "38536d8b11d72b9bc29faafa9a6a3f849e4fe3e17949e102782eebb8600d01cb",
-        "77476aca4df5a9e4d6fb7fffe20582b5feb44b12c27bf1bbecbab5f50631cddc",
-        "5b8c1e41ddc45112896b3516c1f0c612c21457fa6b400a04c972cff659075aa4",
-        "12968cb1eb3f6cb7b7e62c09bfffa79bf29d71f338fee3c458c292ae54a8d774"
-      ],
-      "description": "إدارة المشروع: AdamSaeed\nالتعديل التقني: AdamSaeed (نسخة الحاسب)، Allen Wouka (دعم نقل نسخة PS4)\nالترجمة: AdamSaeed، و StriverFreedom و Spad.\nالتدقيق: AdamSaeed، منصور (ملاحظات)\nالشعار: Dothir\nمراقبة الجودة: رائد، DARD\nالتواصل: منصور، رائد\nشكر خاص: Irish Hercules (دعم بخصوص الفيديوهات)، Albatros (ملاحظات)",
-      "readme": "",
-      "origin": "community",
-      "translationType": "human",
-      "compatibleTitleIds": [
-        "CUSA24853"
-      ],
-      "parts": [],
-      "downloads": 110,
-      "addedAt": "2026-10-24T12:38:39.000Z"
     },
     {
       "id": "CUSA18100",
@@ -574,7 +477,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 319,
+      "downloads": 373,
       "addedAt": "2026-10-24T15:21:50.000Z"
     },
     {
@@ -640,7 +543,7 @@
         }
       ],
       "partsFormat": "zip",
-      "downloads": 10,
+      "downloads": 14,
       "addedAt": "2026-10-24T17:14:46.000Z"
     },
     {
@@ -674,7 +577,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 175,
+      "downloads": 189,
       "addedAt": "2026-10-24T18:57:45.000Z"
     },
     {
@@ -756,7 +659,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 210,
+      "downloads": 227,
       "addedAt": "2026-10-24T20:27:08.000Z"
     },
     {
@@ -788,7 +691,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 67,
+      "downloads": 77,
       "addedAt": "2026-10-25T16:19:51.000Z"
     },
     {
@@ -823,32 +726,8 @@
         "CUSA26738"
       ],
       "parts": [],
-      "downloads": 21,
+      "downloads": 27,
       "addedAt": "2026-10-25T16:18:39.000Z"
-    },
-    {
-      "id": "CUSA07029",
-      "titleId": "CUSA07029",
-      "name": "Wonder Boy The Dragons Trap",
-      "team": "الحلم المتجدد",
-      "version": "1.0",
-      "supportedUpdate": "1.01",
-      "format": "AFR",
-      "size": 16381836,
-      "sha256": "d531eb5d74fe4d5985f67236d8e09e29844f364a70dee4f1ba249eac79861518",
-      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA07029_T1.0_G1.01_HUMAN_be95cf.zip",
-      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/675524976",
-      "icon": "media/icons/mvo1hn7e-bwzq.png",
-      "screenshots": [],
-      "iconSha256": "f890e3c222a02e812ce3112cb57f21258f1e6d11e1de1b9df4888e30e21e03d1",
-      "screenshotsSha256": [],
-      "description": "منصور – ترجمة نصية (مرسكلة من النسخة الحديثة)، خطوط و شعارات، ادخال نصوص (أولي).\ne% – ادخال نصوص (تكميلي)، اعادة توزيع التايلات لشاشة العنوان و النصوص المستعصية.\nشكر خاص – خالد حسني على تطويره خدمة الخط الكوفي الفاطمي التي استعملناها لتصميم شاشة العنوان.\nلم نستشر، أو نستعمل جهد/أبحاث/معلومات أحد غيرنا في عملنا على هذه النسخة.\nالنسخة الحديثة:\nمنصور – ترجمة نصية رئيسية، تعديل خطوط/رسوم، ادخال نصوص (الجزء الحديث، جزء الريترو).\nAdamSaeed – تصميم شعار شاشة العنوان الرائع.\nشكر خاص – e%، داركو، صفا (محاولات ادخال نصوص أولية)، oblait، كوتشيكي، و كل أعضاء الفريق (اقتراحات).\nنقل التعريب لنسخ PS4 و Switch:\nAllen Wouka – نقل لنسخة PS4.\nشكر خاص – داركو (نظر في نقل التعريب لنسخة سويتش).",
-      "readme": "",
-      "origin": "community",
-      "translationType": "human",
-      "parts": [],
-      "downloads": 19,
-      "addedAt": "2026-10-25T16:26:31.000Z"
     },
     {
       "id": "CUSA04437",
@@ -884,191 +763,8 @@
         "CUSA04284"
       ],
       "parts": [],
-      "downloads": 232,
+      "downloads": 256,
       "addedAt": "2026-10-25T16:33:50.000Z"
-    },
-    {
-      "id": "CUSA04480",
-      "titleId": "CUSA04480",
-      "name": "NieR Automata",
-      "team": "الحلم المتجدد",
-      "version": "1.3",
-      "supportedUpdate": "1.06",
-      "format": "AFR",
-      "size": 58528582,
-      "sha256": "7ee6a31d525a945d18fd4799ceb05dbdf60b06d9485d5ff7a1fdacbb3bd3c108",
-      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA04480_T1.3_G1.06_HUMAN_be95cf.zip",
-      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/675625978",
-      "icon": "media/icons/mvo329bb-yz3i.png",
-      "screenshots": [
-        "media/shots/mvo2c45i-myju.jpg",
-        "media/shots/mvo2c639-lh97.jpg",
-        "media/shots/mvo2c82f-harc.jpg",
-        "media/shots/mvo2c9kc-bnea.jpg",
-        "media/shots/mvo2cb6d-orke.jpg"
-      ],
-      "iconSha256": "59ac45cb841281ee8c05123ebfb80d0e66adf8e9fe3b333d97dbe1934f6c65cf",
-      "screenshotsSha256": [
-        "2214cb5b7b901c41ec719468d04aa88c093a13dd3eedccc7b7017d7ea1fa8375",
-        "aab4a7f0b47ff29304020810f8d96e77c9dbb047c2e82962b650c123fca264c8",
-        "2f1eb37af339717cf5e854e07ad0d06dd711e42961f594059d5db3af9964e9fc",
-        "659be098ec0122471aa86c8bd95e2175f478e472749776a0b6fe76c770fd1a3d",
-        "689024524f51b8c6d0407924e87ac699fb026afdfcbb85317e83d2995f5e64cf"
-      ],
-      "description": "إدارة المشروع: Allen Wouka\nالتعديل التقني: ‏Allen Wouka (تخريج النصوص، إدخال الملفات، ضبط تحريك الصور) • منصور (تعديل الخطوط، ضبط جدول التعويض للحروف، نصائح تقنية قيمة) • كوتشكي (إدخال الخطوط، تخريج الملفات، نصائح تقنية) • آسغور (إدخال النصوص وتحويلها، ترتيب الجدوال) • ‏Levan (تخريج بعض النصوص).\nأدوات تعديل اللعبة: RaiderBV • DevolasRevenge  •  WoefulWolf\nأدوات الإدخال: آسغور (إدخال النصوص، ترتيب الجدوال) • ‏Allen Wouka (تحويل ملفات القوائم والأسماء)\nالخطوط: AdamSaeed (التوجه الفني والتعديل التقني الرئيسي) • منصور • Allen Wouka\nالترجمة والتدقيق: ‏Allen Wouka (كلها بحلوها ومرها)\nالشعار: Hayyan • ‏Allen Wouka\nتعديل الصور: Allen Wouka\nالاختبار: Allen Wouka • ‏Levan • الهمام • AdamSaeed\nالتحرير: Allen Wouka • ‏Levan\nنقل السوني 4: Allen Wouka • MAX\nالنشرة: Allen Wouka",
-      "readme": "",
-      "origin": "community",
-      "translationType": "human",
-      "parts": [],
-      "downloads": 68,
-      "addedAt": "2026-10-25T17:10:32.000Z"
-    },
-    {
-      "id": "CUSA08495",
-      "titleId": "CUSA08495",
-      "name": "Dark Souls Remastered",
-      "team": "الحلم المتجدد",
-      "version": "1.0",
-      "supportedUpdate": "1.03",
-      "format": "AFR",
-      "size": 153802452,
-      "sha256": "994a7982301d2ac777ff58e4c6cc96e25cae43df2da68f0f571738c71df9b815",
-      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA08495_T1.0_G1.03_HUMAN_be95cf.zip",
-      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/676013099",
-      "icon": "media/icons/mvo9go61-0en4.png",
-      "screenshots": [
-        "media/shots/mvo9h6n8-z4eo.jpg",
-        "media/shots/mvo9h91s-do31.jpg"
-      ],
-      "iconSha256": "055a46cc53ce5f5caf42a8ed935696650601f0236088a039b2218628cb8fda23",
-      "screenshotsSha256": [
-        "0fc330f12dc96d7aaaa333e1a2c7a6732ee59f3a7c36b15aeeffd6154146ee75",
-        "0c52e5c032d874b6b9bc973d69ee51159b280c1c2f6876ae53544c41ef789600"
-      ],
-      "description": "ملاحظة: وجدت الآراء متضاربة فيما بين الفريق والتعديل التقني حول الأدوار والتعديل التقني؛ لذلك أضفتهم كلهم.\n\nالترجمة: منصور • جين • The Soul King • A_hassan • Hessa • suhaib • سباد • AdamSaeed • Yatoh\nالتعديل التقني: [مشكوك في نسبته، سيعيد إنتاجه الحلم داخليا. مع الشكر الخاص لعمرو شاهين حتى لو لم يحتفظ بتعديله]\nالتعديل التقني حسب اراء البقية: عمرو شاهين وabodora\nتصميم الخط: آدم سعيد، منصور\nالشعارات: KayMaw",
-      "readme": "",
-      "origin": "community",
-      "translationType": "human",
-      "compatibleTitleIds": [
-        "CUSA08692"
-      ],
-      "parts": [],
-      "downloads": 129,
-      "addedAt": "2026-10-25T20:13:26.000Z"
-    },
-    {
-      "id": "CUSA01589",
-      "titleId": "CUSA01589",
-      "name": "Dark Souls 2 Scholar of The First Sin",
-      "team": "الحلم المتجدد",
-      "version": "1.0",
-      "supportedUpdate": "1.02",
-      "format": "AFR",
-      "size": 20040597,
-      "sha256": "fc59cbb444097775f3ec4083a151ddcb0d3fbc45e200248aec7d8f75c6893182",
-      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA01589_T1.0_G1.02_HUMAN_be95cf.zip",
-      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/676050541",
-      "icon": "media/icons/mvoa8430-313v.png",
-      "screenshots": [
-        "media/shots/mvoa3oj5-29ss.png",
-        "media/shots/mvoa3pzz-hzgj.png",
-        "media/shots/mvoa3rci-2xph.png",
-        "media/shots/mvoa3sme-nluw.png"
-      ],
-      "iconSha256": "1d8cfb42facfe649e512f35f574cfe33f3e591f42a47ac5e9dd39a1f5bfb7653",
-      "screenshotsSha256": [
-        "fba13213e4f75eb2d16b01ac4eed7f04241ce80ef970bf155b92999d0063e4a4",
-        "b8bfa57bb1a2e64f6a73d3b3ee112abb086edd9b51ced530390d9ec58642e0f1",
-        "677f729f177cd3eb67f11c03f5ed0c40c559add15f0f70d37ecb616e5f9c82fb",
-        "c0808b1ec66fe07c6a972d2f82b0ff7fdd5b757ce6d1876612e984a852ff40cd"
-      ],
-      "description": "التعديل التقني: آسغور • AdamSaeed • Garden of Eyes.\nتصميم الخط: آسغور • AdamSaeed.\nالترجمة الأساسية: جيزص • Mesho • Allen Wouka • عبد الوهاب • يُونُس العبيْدي • Zojaj • Mo7nek.\nالترجمة الفرعية: منصور • ديناصور • A_hassan.\nالتدقيق والتحرير: Allen Wouka • Mesho • الهمام • Yasser\nالشعار والتوجه الفني: KayMaw • منصور.\nالنشرة: منصور.\nالصور والتصاميم: منصور • Hayyan • Allen Wouka.\nنقل التعريب: !MAX (نسخة الـPS4)\nشكر خاص: Aetius (لحفظه السر) • Phos (تشجيع معنوي) • فريق DarkWare (صفحة فروم سوفت بالعربي)، مجتمع السولز للتعديلات وخاصة SoulsTools و الفريق المجري لترجمة اللعبة",
-      "readme": "",
-      "origin": "community",
-      "translationType": "human",
-      "compatibleTitleIds": [
-        "CUSA01760"
-      ],
-      "parts": [],
-      "downloads": 93,
-      "addedAt": "2026-10-25T20:30:53.000Z"
-    },
-    {
-      "id": "CUSA07439",
-      "titleId": "CUSA07439",
-      "name": "Dark Souls 3",
-      "team": "الحلم المتجدد",
-      "version": "1.0",
-      "supportedUpdate": "1.03",
-      "format": "AFR",
-      "size": 20762739,
-      "sha256": "19438fbbfb01050f5ff2a5c07ad3696e964d192de3976e14cfa69f4d9760ef36",
-      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA07439_T1.0_G1.03_HUMAN_be95cf.zip",
-      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/676069858",
-      "icon": "media/icons/mvoajhy2-bijz.png",
-      "screenshots": [
-        "media/shots/mvoae1sk-ge6q.jpg",
-        "media/shots/mvoae386-rz0g.jpg",
-        "media/shots/mvoae4ih-1hq0.jpg",
-        "media/shots/mvoae5rx-48qn.jpg",
-        "media/shots/mvoae74b-t26w.jpg"
-      ],
-      "iconSha256": "25fa64573241314b8afefd330e572d56d0abe80b9bc073730b5ebbf9265ad402",
-      "screenshotsSha256": [
-        "41f5cae6825d6683f7bb1dbbeb651a30213991f5a497968239d49147d60d1f8c",
-        "f1166e364af46fa4a23bfeedc05595cdc8a9065cf57867468e7fc0d00470ba3f",
-        "0d576172cf9c79733eada90493aaf16ae824f70dfc7f83127f9828ff166bca21",
-        "ab89f28baf0484d9ae1648a9af4ae9f23122a85a358e10789a8a3d260b48105d",
-        "ce69092d883bc92fc0dd3bd38f4ec63bc82e2a39435bc6e7c5390139fa471b04"
-      ],
-      "description": "التعديل التقني: آسغور • ‏AdamSaeed.\nالترجمة (المرحلة الأولى): ‏Mido Dz • تركي عبد الله • ‏Mageed Bogard • ‏Ezio Arishi • ‏ashhab 21 • ‏Osama Anas Ibrahim.\nالترجمة (المرحلة الثانية): ‏Allen Wouka • منصور • ‏Levan.\nالتدقيق والتحرير: Allen Wouka • منصور • ‏Mesho (ساعد في اختيار المصطلحات).\nالشعار والتوجه الفني: KayMaw • منصور.\nالصور والتصاميم: GINJEHAD • منصور .\nالاختبار: ‏Levan • ‏AdamSaeed.\nنقل التعريب للـ‏PS4‏: !MAX\nالنشرة: Allen Wouka • منصور • ‏Levan.\nشكر خاص: ‏‏Samet Takao (نصائح تقنية قيمة) • Phos‏ (تشجيع معنوي) • فريق DarkWare (صفحة فروم سوفت بالعربي)، مجتمع السولز للتعديلات وخاصة SoulsTools و Garden of Eyes و الفريق المجري لترجمة اللعبة.",
-      "readme": "",
-      "origin": "community",
-      "translationType": "human",
-      "parts": [],
-      "downloads": 157,
-      "addedAt": "2026-10-25T20:39:55.000Z"
-    },
-    {
-      "id": "CUSA10410",
-      "titleId": "CUSA10410",
-      "name": "Code Vein",
-      "team": "الحلم المتجدد",
-      "version": "1.0",
-      "supportedUpdate": "1.53",
-      "format": "AFR",
-      "size": 4678833,
-      "sha256": "4637872bb2fba39cc54bbefb9f718a92c181a194579712add7c8efa92df665eb",
-      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA10410_T1.0_G1.53_HUMAN_be95cf.zip",
-      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/676097085",
-      "icon": "media/icons/mvoawv15-vhm1.png",
-      "screenshots": [
-        "media/shots/mvoaxwf6-y5n4.jpg",
-        "media/shots/mvoay13x-dnl9.jpg",
-        "media/shots/mvoay2pi-t77i.jpg",
-        "media/shots/mvoay48l-wljq.jpg",
-        "media/shots/mvoay5oj-mdmb.jpg",
-        "media/shots/mvoay6zn-qt81.jpg"
-      ],
-      "iconSha256": "0dc1a79c4db7dfe73884cc26d06acb3b8a48ffd3cb9e3eb50f7e8513420eabfa",
-      "screenshotsSha256": [
-        "bdc0a697431a5d529633d2a8b8d5f4a1c5281b75d560eaae52f71d3c1581c72f",
-        "9345178050fc4862f4a4850279b823c29143151caaab12ff863f8d87d42365a3",
-        "07ae30f6b486041661dec8b87f461f75cd6252b6c65606a5a22b35f5018f3429",
-        "215f29d3bc5ed3293ddc63b98599263dcaefbba849200badfbb9f51d53cae2ed",
-        "7f1a8a4ddb0370d243b6024098b05eb00fb29eb0044417ea82e51bb6ce84cccb",
-        "21f91cac47436cc956d0736c1fe1469553cedc5fbb364b3e7c20dd96bbfa4113"
-      ],
-      "description": "التعديل التقني: Hayyan • آسغور\nالترجمة: Allen Wouka • عبد الوهاب • Zojaj • Mo7nek\nالتدقيق والتحرير: Allen Wouka\nالشعار والتوجه الفني: Hayyan • منصور\nالإختبار: Allen Wouka • Phos • عبد الوهاب • AdamSaeed\nنقل التعريب: !MAX (نسخة الـPS4)\nالنشرة: Allen Wouka • ‏Levan",
-      "readme": "",
-      "origin": "community",
-      "translationType": "human",
-      "compatibleTitleIds": [
-        "CUSA10246"
-      ],
-      "parts": [],
-      "downloads": 34,
-      "addedAt": "2026-10-25T20:52:20.000Z"
     },
     {
       "id": "CUSA57547_1.09",
@@ -1101,80 +797,8 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 306,
+      "downloads": 339,
       "addedAt": "2026-10-25T23:47:11.000Z"
-    },
-    {
-      "id": "CUSA10650",
-      "titleId": "CUSA10650",
-      "name": "Yokus Island Express",
-      "team": "الحلم المتجدد",
-      "version": "1.0",
-      "supportedUpdate": "1.02",
-      "format": "AFR",
-      "size": 987127,
-      "sha256": "99a25ec8a61297a22fcc35a2e13bcecfd0f9810b06393f86e161e0eabf3fdbce",
-      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA10650_T1.0_G1.02_HUMAN_be95cf.zip",
-      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/677868424",
-      "icon": "media/icons/mvp5084i-ix8e.png",
-      "screenshots": [],
-      "iconSha256": "3d354a0943e7c6fd8bd76d9a262b9970c330261a1b772e41f962771e9b61d3b6",
-      "screenshotsSha256": [],
-      "description": "إدارة المشروع: AdamSaeed\nالتعديل التقني: AdamSaeed\nالترجمة: AdamSaeed، منصور\nالتدقيق: منصور\nالشعار: AdamSaeed\nمراقبة الجودة: الهمام\nنقل كونسول بلايستيشن 4: MAX\nنقل كونسول سويتش: AdamSaeed\nشكر خاص: Allen Wouka",
-      "readme": "",
-      "origin": "community",
-      "translationType": "human",
-      "compatibleTitleIds": [
-        "CUSA10654"
-      ],
-      "parts": [],
-      "downloads": 55,
-      "addedAt": "2026-10-26T10:53:21.000Z"
-    },
-    {
-      "id": "CUSA30423",
-      "titleId": "CUSA30423",
-      "name": "Deaths Door",
-      "team": "الحلم المتجدد",
-      "version": "1.0",
-      "supportedUpdate": "1.01",
-      "format": "AFR",
-      "size": 24599555,
-      "sha256": "d422ea3ab3de51b8d59a57f065818d8c377b0464ceef60d8777d4f55dcfe35a7",
-      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA30423_T1.0_G1.01_HUMAN_be95cf.zip",
-      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/677913139",
-      "icon": "media/icons/mvp5jh2s-hq68.png",
-      "screenshots": [
-        "media/shots/mvp5lme3-5sqc.jpg",
-        "media/shots/mvp5lnw8-uxu2.jpg",
-        "media/shots/mvp5lp9p-8j6w.jpg",
-        "media/shots/mvp5lquf-27n9.jpg",
-        "media/shots/mvp5lt62-b6lh.jpg",
-        "media/shots/mvp5lui2-5bj2.jpg",
-        "media/shots/mvp5lvro-vnuf.jpg",
-        "media/shots/mvp5lxhb-f7tq.jpg"
-      ],
-      "iconSha256": "134c3a6d7ceb60a6ccde70a30a1fc700faa06fa420b5ef5a540c12850e1bcb08",
-      "screenshotsSha256": [
-        "09f6d6a21c364e2c4d685badc1cb4dc84355821a78eadfb14b7538e0ee021d0e",
-        "4f0660a3624657e96dcd403e585a35c7006901b57a4559774a3ed200775e0b02",
-        "8485c0e4e4cf39911a462a823d12f5a2ed75834a5a0f05e32684b0ff721364e9",
-        "7db646b4cfb882af83993b64388da1307423167254583f417b850af8f8c0b9d2",
-        "97c43577dc4362fa54a01ec7bd010d794149d75b28d77ea42373e40e4e0ee971",
-        "f969ee1cc834a5a0e60089a3d6b61fb7d81f91e5d6af06ce7f57f5ec619433ca",
-        "4577efe7ca521058c04a92f06ae5465f3ac2b14263f5846adc35e66fa2953be3",
-        "92d4685ae4ed204ec4103cc7cec908804cf79752d50ab5790ce462a50265a727"
-      ],
-      "description": "الترجمة الرئيسية: StriverFreedom، Oblait، Spad\nالإشراف على المشروع: StriverFreedom (تدقيق رئيسي، تجميع ملفات، تنسيق مترجمين، الخ)\nالتعديل التقني: داركو (النص والصور والمرحلة الثانية من الخطوط)، StriverFreedom (تحرير النصوص)، كوتشيكي و e% (إعادة برمجة سريان اللعبة)، منصور (المرحلة الأولى من الخطوط)، Sobarashi (تعديل أولي على الخطوط).\nتصميم الشعار: AdamSaeed (شعار متميز آخر، أعيد إنتاجه مرتين…)\nاختبار اللعبة: DARD ،Raied، Sobarashi. سرعة وحماس وتميز كالعادة في صيد الأخطاء والمساعدة في لوجستيكيات المشروع!\nعلاقات عامة: منصور، Raied، Sobarashi، Oblait\nنقل الكونسول: MAX! (السوني 4)، AdamSaeed (السويتش)\nشكر خاص: أسغور أندرتيل (على إعداد الأدوات المستخدمة في مشاريعنا المختلفة، بما فيها هذا، ودونها لإستحال نشره)، وكل فريق الحلم المتجدد على الإقتراحات، ومتابعينا الأوفياء.",
-      "readme": "",
-      "origin": "community",
-      "translationType": "human",
-      "compatibleTitleIds": [
-        "CUSA30424"
-      ],
-      "parts": [],
-      "downloads": 29,
-      "addedAt": "2026-10-26T11:10:53.000Z"
     },
     {
       "id": "CUSA39420",
@@ -1211,7 +835,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 583,
+      "downloads": 661,
       "addedAt": "2026-10-26T15:26:09.000Z"
     },
     {
@@ -1250,7 +874,7 @@
         "CUSA07995"
       ],
       "parts": [],
-      "downloads": 637,
+      "downloads": 755,
       "addedAt": "2026-10-27T11:00:23.000Z"
     },
     {
@@ -1315,7 +939,7 @@
         "CUSA12047"
       ],
       "parts": [],
-      "downloads": 658,
+      "downloads": 734,
       "addedAt": "2026-10-27T23:42:00.000Z"
     },
     {
@@ -1382,45 +1006,8 @@
         "CUSA24898"
       ],
       "parts": [],
-      "downloads": 396,
+      "downloads": 444,
       "addedAt": "2026-10-28T17:58:55.000Z"
-    },
-    {
-      "id": "CUSA32600",
-      "titleId": "CUSA32600",
-      "name": "Armored Core 6 Fires of Rubicon",
-      "team": "الحلم المتجدد",
-      "version": "1.0",
-      "supportedUpdate": "1.09",
-      "format": "AFR",
-      "size": 55677873,
-      "sha256": "085b7aa63f4c8f9be5cd5d4e0ef5563dc58477506ae48184128d94d547094aad",
-      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA32600_T1.0_G1.09_HUMAN_be95cf.zip",
-      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/707536015",
-      "icon": "media/icons/mw1cd910-zr9x.png",
-      "screenshots": [
-        "media/shots/mw1c4jc2-nrfg.jpg",
-        "media/shots/mw1c4ktk-cscc.jpg",
-        "media/shots/mw1c4mo1-m0pi.jpg",
-        "media/shots/mw1c4oe2-ozpl.jpg"
-      ],
-      "iconSha256": "f6186dca885560b9b87c57723b68108ffaaac16c5a76f81997605b1509196cee",
-      "screenshotsSha256": [
-        "006eeae2b9942f6ebcd64e70b840de10fc5ef09c0cce53b62748f3a51aee8bd3",
-        "f209748b8326aaaa98f12c7aba800a4995e7bd0be6b23378f3accb9bea32012a",
-        "5734ca60d231b00a78a4660862ac62ba59ead63102c20ce015a4dac76703200c",
-        "337e3629cd21e2e017a8d66838a10a7306a3c7a3d74089d1c8aa11c574905ba1"
-      ],
-      "description": "إدارة المشروع: AdamSaeed\nالتعديل الأساسي: AdamSaeed\nالتعديل الفرعي: حيَّان\nالترجمة: ‏Allen Wouka • منصور • حيَّان • ‏Mo7nek • ‏AdamSaeed\nالتدقيق: ‏Allen Wouka • ‏Levan • ‏AdamSaeed\nالتحرير: ‏AdamSaeed\nالشعار: GINJEHAD\nالصور والتصاميم: GINJEHAD\nنقل الكونسول: !MAX\nالاختبار: ‏Levan • ‏AdamSaeed\nالنشرة: ‏Allen Wouka • منصور • ‏AdamSaeed",
-      "readme": "",
-      "origin": "community",
-      "translationType": "human",
-      "compatibleTitleIds": [
-        "CUSA32599"
-      ],
-      "parts": [],
-      "downloads": 32,
-      "addedAt": "2026-11-04T12:00:00.000Z"
     },
     {
       "id": "CUSA00054",
@@ -1458,7 +1045,7 @@
         "CUSA02703"
       ],
       "parts": [],
-      "downloads": 261,
+      "downloads": 344,
       "addedAt": "2026-11-04T12:00:00.000Z"
     },
     {
@@ -1485,7 +1072,7 @@
         "CUSA01111"
       ],
       "parts": [],
-      "downloads": 275,
+      "downloads": 323,
       "addedAt": "2026-11-04T12:00:00.000Z"
     },
     {
@@ -1513,7 +1100,7 @@
         "CUSA00076"
       ],
       "parts": [],
-      "downloads": 187,
+      "downloads": 220,
       "addedAt": "2026-11-04T12:00:00.000Z"
     },
     {
@@ -1540,7 +1127,7 @@
         "CUSA26618"
       ],
       "parts": [],
-      "downloads": 811,
+      "downloads": 938,
       "addedAt": "2026-11-04T12:00:00.000Z"
     },
     {
@@ -1567,7 +1154,7 @@
         "CUSA23501"
       ],
       "parts": [],
-      "downloads": 115,
+      "downloads": 135,
       "addedAt": "2026-11-04T12:00:00.000Z"
     },
     {
@@ -1594,7 +1181,7 @@
         "CUSA26616"
       ],
       "parts": [],
-      "downloads": 404,
+      "downloads": 489,
       "addedAt": "2026-11-04T12:00:00.000Z"
     },
     {
@@ -1651,7 +1238,7 @@
         "CUSA00203"
       ],
       "parts": [],
-      "downloads": 148,
+      "downloads": 162,
       "addedAt": "2026-11-06T12:00:00.000Z"
     },
     {
@@ -1687,7 +1274,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 70,
+      "downloads": 82,
       "addedAt": "2026-11-06T12:00:00.000Z"
     },
     {
@@ -1738,7 +1325,7 @@
         "CUSA08974"
       ],
       "parts": [],
-      "downloads": 191,
+      "downloads": 217,
       "addedAt": "2026-11-06T12:00:00.000Z"
     },
     {
@@ -1779,7 +1366,7 @@
         "CUSA03986"
       ],
       "parts": [],
-      "downloads": 31,
+      "downloads": 43,
       "addedAt": "2026-11-06T12:00:00.000Z"
     },
     {
@@ -1835,7 +1422,7 @@
           "size": 99319961
         }
       ],
-      "downloads": 663,
+      "downloads": 798,
       "addedAt": "2026-11-06T12:00:00.000Z"
     },
     {
@@ -1874,7 +1461,7 @@
         "CUSA03985"
       ],
       "parts": [],
-      "downloads": 64,
+      "downloads": 78,
       "addedAt": "2026-11-08T12:00:00.000Z"
     },
     {
@@ -1902,7 +1489,7 @@
         "CUSA00552"
       ],
       "parts": [],
-      "downloads": 873,
+      "downloads": 1002,
       "addedAt": "2026-11-09T12:00:00.000Z"
     },
     {
@@ -1944,7 +1531,7 @@
         "CUSA01141"
       ],
       "parts": [],
-      "downloads": 103,
+      "downloads": 123,
       "addedAt": "2026-11-09T12:00:00.000Z"
     },
     {
@@ -2027,7 +1614,7 @@
         }
       ],
       "partsFormat": "zip",
-      "downloads": 14,
+      "downloads": 16,
       "addedAt": "2026-11-10T12:00:00.000Z"
     },
     {
@@ -2083,7 +1670,7 @@
       "origin": "community",
       "translationType": "machine",
       "parts": [],
-      "downloads": 0,
+      "downloads": 160,
       "addedAt": "2026-11-11T12:00:00.000Z"
     },
     {
@@ -2139,9 +1726,9 @@
       "origin": "community",
       "translationType": "machine",
       "parts": [],
-      "downloads": 0,
+      "downloads": 36,
       "addedAt": "2026-11-11T12:00:00.000Z"
     }
   ],
-  "sig": "3dc268827fd8a9e5bb0d07fc5f7ad5c9a835de5ffd878a0447f1d5ee9b2267c3dd94e7b807ddc42db34822ab557c0c358605f9f8335748162a96a3dbba8b1704"
+  "sig": "55c41bf65fcf74920ac5785968425efb0795f2e3f4266f62288204fbcebc489eb442458f0a34a1c0fff7909d9d45d5959895b02bb7cb96686b72efe09d27d908"
 }
