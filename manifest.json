@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T18:02:45.932Z",
+  "updatedAt": "2026-11-12T18:30:13.956Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -34,7 +34,7 @@
         "CUSA16742"
       ],
       "parts": [],
-      "downloads": 845,
+      "downloads": 848,
       "addedAt": "2026-10-22T10:46:47.000Z"
     },
     {
@@ -68,7 +68,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 1400,
+      "downloads": 1406,
       "addedAt": "2026-10-21T18:34:26.000Z"
     },
     {
@@ -102,7 +102,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 736,
+      "downloads": 738,
       "addedAt": "2026-10-21T18:45:08.000Z"
     },
     {
@@ -136,7 +136,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 401,
+      "downloads": 403,
       "addedAt": "2026-10-21T18:55:21.000Z"
     },
     {
@@ -170,7 +170,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 313,
+      "downloads": 317,
       "addedAt": "2026-10-21T19:03:32.000Z"
     },
     {
@@ -266,7 +266,7 @@
         "CUSA02826"
       ],
       "parts": [],
-      "downloads": 503,
+      "downloads": 505,
       "addedAt": "2026-10-22T21:29:37.000Z"
     },
     {
@@ -407,7 +407,7 @@
         "CUSA10357"
       ],
       "parts": [],
-      "downloads": 221,
+      "downloads": 225,
       "addedAt": "2026-10-24T00:01:09.000Z"
     },
     {
@@ -659,7 +659,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 231,
+      "downloads": 235,
       "addedAt": "2026-10-24T20:27:08.000Z"
     },
     {
@@ -691,7 +691,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 77,
+      "downloads": 81,
       "addedAt": "2026-10-25T16:19:51.000Z"
     },
     {
@@ -763,7 +763,7 @@
         "CUSA04284"
       ],
       "parts": [],
-      "downloads": 262,
+      "downloads": 264,
       "addedAt": "2026-10-25T16:33:50.000Z"
     },
     {
@@ -835,7 +835,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 671,
+      "downloads": 679,
       "addedAt": "2026-10-26T15:26:09.000Z"
     },
     {
@@ -874,7 +874,7 @@
         "CUSA07995"
       ],
       "parts": [],
-      "downloads": 765,
+      "downloads": 771,
       "addedAt": "2026-10-27T11:00:23.000Z"
     },
     {
@@ -939,7 +939,7 @@
         "CUSA12047"
       ],
       "parts": [],
-      "downloads": 752,
+      "downloads": 755,
       "addedAt": "2026-10-27T23:42:00.000Z"
     },
     {
@@ -1006,7 +1006,7 @@
         "CUSA24898"
       ],
       "parts": [],
-      "downloads": 451,
+      "downloads": 455,
       "addedAt": "2026-10-28T17:58:55.000Z"
     },
     {
@@ -1155,7 +1155,7 @@
         "CUSA26618"
       ],
       "parts": [],
-      "downloads": 952,
+      "downloads": 960,
       "downloadsBase": 952,
       "addedAt": "2026-11-12T12:00:00.000Z"
     },
@@ -1207,7 +1207,7 @@
         "CUSA23501"
       ],
       "parts": [],
-      "downloads": 143,
+      "downloads": 145,
       "downloadsBase": 143,
       "addedAt": "2026-11-12T12:00:00.000Z"
     },
@@ -1253,7 +1253,7 @@
         "CUSA26616"
       ],
       "parts": [],
-      "downloads": 506,
+      "downloads": 510,
       "downloadsBase": 506,
       "addedAt": "2026-11-12T12:00:00.000Z"
     },
@@ -1398,7 +1398,7 @@
         "CUSA08974"
       ],
       "parts": [],
-      "downloads": 221,
+      "downloads": 223,
       "addedAt": "2026-11-06T12:00:00.000Z"
     },
     {
@@ -1495,7 +1495,7 @@
           "size": 99319961
         }
       ],
-      "downloads": 816,
+      "downloads": 818,
       "addedAt": "2026-11-06T12:00:00.000Z"
     },
     {
@@ -1604,7 +1604,7 @@
         "CUSA01141"
       ],
       "parts": [],
-      "downloads": 127,
+      "downloads": 129,
       "addedAt": "2026-11-09T12:00:00.000Z"
     },
     {
@@ -1743,7 +1743,7 @@
       "origin": "community",
       "translationType": "machine",
       "parts": [],
-      "downloads": 170,
+      "downloads": 172,
       "addedAt": "2026-11-11T12:00:00.000Z"
     },
     {
@@ -1801,7 +1801,72 @@
       "parts": [],
       "downloads": 40,
       "addedAt": "2026-11-11T12:00:00.000Z"
+    },
+    {
+      "id": "CUSA08161",
+      "titleId": "CUSA08161",
+      "name": "Devil May Cry 5",
+      "team": "AR Team",
+      "version": "1.4",
+      "supportedUpdate": "1.10",
+      "format": "AFR",
+      "size": 10248853,
+      "sha256": "acfec1e5968a63f310f0698290a4d3daff67f6daefd8230d9271fb3ae6e5255d",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA08161_T1.4_G1.10_HUMAN_ARTeam.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/740609887",
+      "icon": "media/icons/mwdvsjrc-ct9h.jpg",
+      "screenshots": [
+        "media/shots/mwdvsomj-4y5a.jpg",
+        "media/shots/mwdvsqvj-6zkg.jpg",
+        "media/shots/mwdvss8k-3nbg.jpg",
+        "media/shots/mwdvstg6-fqta.jpg",
+        "media/shots/mwdvsux1-rn7t.jpg",
+        "media/shots/mwdvswdk-yv6f.jpg",
+        "media/shots/mwdvsxye-cymd.jpg",
+        "media/shots/mwdvszbv-sy99.jpg",
+        "media/shots/mwdvt0mb-n1gy.jpg",
+        "media/shots/mwdvt26m-iikf.jpg",
+        "media/shots/mwdvt3di-2t2w.jpg",
+        "media/shots/mwdvt4nm-x7kv.jpg",
+        "media/shots/mwdvt5z1-tnq6.jpg",
+        "media/shots/mwdvt7cl-m0c3.jpg",
+        "media/shots/mwdvt8mk-xboh.jpg",
+        "media/shots/mwdvt9zq-rgx3.jpg",
+        "media/shots/mwdvtba6-jixd.jpg",
+        "media/shots/mwdvtckq-en3t.jpg"
+      ],
+      "iconSha256": "0ec5e58903421d3a74c3ca32e235cc34657ac24906316da9e7e5c35366417af3",
+      "screenshotsSha256": [
+        "d72762fedd9fffc5d4a5accffd0e541b04805ed12e026e3b542070d8c5a8bbfe",
+        "4dd7ea634c965e81477468393a1d71b57b97ad7689e45855f964dca9cbeabcd8",
+        "5c4b6a6fef65a3105df758e93b093950017b0578220f6eeafefd178e6e07a06e",
+        "7a075d663210a44836868443a5b2471d8f94ab41e661dc937245d1a8b674f895",
+        "4cae2cd5d2836d74e59472afa19fff46d05b65641acf38ffa6c6208edce51015",
+        "04f1d8c0ea379b8657b4558cf26c83836034c6d9163417874f837a35816761be",
+        "0168134302b9c4b16c26e60ba2890ce5c226a4d528cf1d99515a17498d3de38b",
+        "9df28347f378d74872a200c6b291372b7a78b8281d45b3d27bffb9da2851cf4e",
+        "eaa4836faba1d43217183f7b1c54017baa3bdf4f40f28a2440dff031c0ee1771",
+        "c3b9cc95c91f3caaa3b6c0be5471927cd2d34807d860e5885fd90a577b55a1b3",
+        "d1263877a703a7dbaf2edf31cfab78613345c548471270e43d7459e0f8357d92",
+        "05090eafb0d57fbc27daf234d19d15b2d93398f24707566dca9d1dfe6213d72b",
+        "a7f24838e523794727f6a02456a1af27c129d570b0d37dc0562e9f779fb8d100",
+        "c0a9cb7931c1868993ca48baf117328a44fd5d9a8fe3c919558750c9722c2181",
+        "f6e6068123769d4db0d6145664c54400b772554bef7fec552c1b02c53055df25",
+        "d65c5ef041613166ed5616beae0b563a87459d22c1fe397612a8a1ab66a021d2",
+        "4d037c5861603f505bcf2d8388e4d9a6ab2a7dbc85aa2178870eddd55586361e",
+        "2c8f665b849a24db7ee64ef69195fe7860a9ecf0f22efd3cfbde689372f6bdc3"
+      ],
+      "description": "◄ ترجمة نهائية وتدقيق ►\n» Jacob Darka «\n» Venom Hussain «\n\n◄ برمجة ►\n» Jacob Darka «\n» Sajjad Rahim «\n\n\\\n◄ المترجمين الرئيسيين ►\n» BotanYo «\n» Ganymede Laureat «\n» Safa Alfulaij «\n\n◄ المترجمين الفرعيين ►\n» Abdullah amb6045 « - » Ahmed Abu Adham « - » Eslam «\n» Morison « - » OniiChan « - » IMA Station « - » ImOGZz «\n» Mahmod Awad « - » Mohamad Ali « - » Khaled Abdullah «\n» MisharyZH « - » Mohammed Muraisi « - » mohab edrise «\n» roov55 « - » mohamed safiae « - » abood x95 «\n» ahmed khaled « - » nour mohamed « - » Omar Aljohani «\n» Ramy Zahran « - » Tube Omar « - » Sajjad Rahim «\n» Stapheen « - » Uncle bode13223 « - » يزيد الحربي «\n\n◄ اختيار الخط ►\n» Sajjad Rahim «\n» Jacob Darka «\n\n◄ تصميم مخطوط اللعبة باللغة العربية ►\n» Jacob Darka «\n\n◄ شكر خاص إلى من أبدع في ابتكار\n تعريب مصطلحات اللعبة ►\n» BotanYo «\n» Ganymede Laureat «\n» Jacob Darka «\n» Safa Alfulaij «\n» Venom Hussain «\n\n◄ شكر خاص إلى صانعي أداوت التعريب►\n» rengareng «\n» Michalss & Kramla «\n\n◄نقل التعريب إلى PS4►\n» Sajjad Rahim «",
+      "readme": "",
+      "origin": "community",
+      "translationType": "human",
+      "compatibleTitleIds": [
+        "CUSA08216"
+      ],
+      "parts": [],
+      "downloads": 0,
+      "addedAt": "2026-11-12T12:00:00.000Z"
     }
   ],
-  "sig": "25ebf0f5a57a14d6ab41a56d561b5f44377af2bdcbe743dbc17a1a49c06103608334b937ab077bd633157d1404427c6376bce24c93ecac10b9bb9e4a81c3a40c"
+  "sig": "7b74f0a8f39f1b7b058adbad9330a1b6adc3d605ca0fc1ee25255e2b3a23d6e38f5694479ba78a64daab48a028170bff6985a627f8083b2ced73d7e8f6caf505"
 }
