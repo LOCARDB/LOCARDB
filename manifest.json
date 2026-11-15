@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-15T20:23:46.448Z",
+  "updatedAt": "2026-11-15T20:26:40.503Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -170,7 +170,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 524,
+      "downloads": 526,
       "addedAt": "2026-10-21T19:03:32.000Z"
     },
     {
@@ -1562,7 +1562,7 @@
         "CUSA00552"
       ],
       "parts": [],
-      "downloads": 1780,
+      "downloads": 1782,
       "addedAt": "2026-11-09T12:00:00.000Z"
     },
     {
@@ -2147,7 +2147,31 @@
       "parts": [],
       "downloads": 0,
       "addedAt": "2026-11-16T12:00:00.000Z"
+    },
+    {
+      "id": "CUSA01623",
+      "titleId": "CUSA01623",
+      "name": "God of War III Remastered by morad salah",
+      "team": "morad salah",
+      "version": "1.0",
+      "supportedUpdate": "1.02",
+      "format": "AFR",
+      "size": 1197563,
+      "sha256": "be979644c534d217825d7558de7c682eed6f73139640d45f320b1aa3971555e7",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA01623_T1.0_G1.02_HUMAN_moradsalah.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/752249918",
+      "icon": "media/icons/mwiaapdt-lyht.jpg",
+      "screenshots": [],
+      "iconSha256": "fe8fe1c93a4ba1ea2a0d2d34934f86806bfcf89b6c9ec7b99219aa79d1ac76a3",
+      "screenshotsSha256": [],
+      "description": "تعريب مقدم من morad salah/مراد صلاح",
+      "readme": "",
+      "origin": "community",
+      "translationType": "human",
+      "parts": [],
+      "downloads": 0,
+      "addedAt": "2026-11-16T12:00:00.000Z"
     }
   ],
-  "sig": "a9a3a4fa9739130c164cd31f2a19796c14faa3215f338ddf0caae8f38c7482b9f9cbb7d2de1739aca5cc83af9eb5fd75434a0627ee538f8137abd2f5d9b68809"
+  "sig": "fd5dd43aaf2d028a5a4d01759a243f11c7025f575456454c49bd2101530de272a3de2c6336f50bb825814633d90b41a16b4c9b9b45f543b370d430e4ffa78e02"
 }
