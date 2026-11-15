@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-15T20:23:16.230Z",
+  "updatedAt": "2026-11-15T20:23:46.448Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -2110,15 +2110,15 @@
     {
       "id": "CUSA01715",
       "titleId": "CUSA01715",
-      "name": "God of War III Remastered",
+      "name": "God of War III Remastered AI by anhar331",
       "team": "anhar331",
       "version": "1.0",
       "supportedUpdate": "1.02",
       "format": "AFR",
-      "size": 2915574,
-      "sha256": "9e2b6a463d450911553b63bf979dec3294db52351c4125fd3a81d5dacb7de29d",
+      "size": 2915580,
+      "sha256": "42a665da15c857e9bd3e569ac738c12c1aec776fe2e6da0a896dd31bbc282da0",
       "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA01715_T1.0_G1.02_AI_anhar331.zip",
-      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/752239771",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/752241275",
       "icon": "media/icons/mwia5u0h-e59o.jpg",
       "screenshots": [
         "media/shots/mwia5x0x-rldw.jpg",
@@ -2149,5 +2149,5 @@
       "addedAt": "2026-11-16T12:00:00.000Z"
     }
   ],
-  "sig": "d33d1e41b9fd4dfb2d7f13341d78eb0221dc11613513fcfa42a119358fb9708e24170691c8a1e0f43ecb91567bacf632cdc92aa724e5062957769240010db007"
+  "sig": "a9a3a4fa9739130c164cd31f2a19796c14faa3215f338ddf0caae8f38c7482b9f9cbb7d2de1739aca5cc83af9eb5fd75434a0627ee538f8137abd2f5d9b68809"
 }
