@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-18T21:49:28.451Z",
+  "updatedAt": "2026-11-18T21:50:06.924Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -68,7 +68,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 2760,
+      "downloads": 2762,
       "addedAt": "2026-10-21T18:34:26.000Z"
     },
     {
@@ -102,7 +102,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 1472,
+      "downloads": 1474,
       "addedAt": "2026-10-21T18:45:08.000Z"
     },
     {
@@ -939,7 +939,7 @@
         "CUSA12047"
       ],
       "parts": [],
-      "downloads": 1612,
+      "downloads": 1614,
       "addedAt": "2026-10-27T23:42:00.000Z"
     },
     {
@@ -1207,7 +1207,7 @@
         "CUSA23501"
       ],
       "parts": [],
-      "downloads": 380,
+      "downloads": 382,
       "downloadsBase": 143,
       "addedAt": "2026-11-12T12:00:00.000Z"
     },
@@ -2295,5 +2295,5 @@
       "addedAt": "2026-11-19T12:00:00.000Z"
     }
   ],
-  "sig": "ad9af8817fdb8768f39160840c729194d1b00470ca8485c6a0cda36cba7d04d2e664d5fca121b542a2fe676442b5f5542d073643799f15aca22d4a8eb785b30a"
+  "sig": "3cf3845afa3b10770d1da760307969b8d106ee0d34b6d0791fe303ff2326e5e8f8b23cb478575e947960434f1312dbe26cdc3f985a649fa9d7f473879a03f604"
 }
