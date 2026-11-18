@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-18T21:46:54.853Z",
+  "updatedAt": "2026-11-18T21:49:28.451Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -1155,7 +1155,7 @@
         "CUSA26618"
       ],
       "parts": [],
-      "downloads": 2191,
+      "downloads": 2193,
       "downloadsBase": 952,
       "addedAt": "2026-11-12T12:00:00.000Z"
     },
@@ -1253,7 +1253,7 @@
         "CUSA26616"
       ],
       "parts": [],
-      "downloads": 941,
+      "downloads": 943,
       "downloadsBase": 506,
       "addedAt": "2026-11-12T12:00:00.000Z"
     },
@@ -1805,7 +1805,7 @@
       "origin": "community",
       "translationType": "machine",
       "parts": [],
-      "downloads": 305,
+      "downloads": 309,
       "addedAt": "2026-11-11T12:00:00.000Z"
     },
     {
@@ -2235,7 +2235,65 @@
       "parts": [],
       "downloads": 0,
       "addedAt": "2026-11-19T12:00:00.000Z"
+    },
+    {
+      "id": "CUSA07408",
+      "titleId": "CUSA07408",
+      "name": "God of War 2018 - CUSA07408",
+      "team": "هشام",
+      "version": "1.0",
+      "supportedUpdate": "1.35",
+      "format": "AFR",
+      "size": 89288877,
+      "sha256": "2206ee030da0289e5124131e4d707684f4e62f08cd9341677b81d18e6394ce37",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA07408_T1.0_G1.35_AI_a1800b.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/765132307",
+      "icon": "media/icons/mwmnjcd8-9ltk.png",
+      "screenshots": [
+        "media/shots/mwmnjekn-o8m7.jpg",
+        "media/shots/mwmnjeku-6e3u.jpg",
+        "media/shots/mwmnjeky-jw6f.jpg",
+        "media/shots/mwmnjel9-hzbb.jpg",
+        "media/shots/mwmnjelf-l5d4.jpg",
+        "media/shots/mwmnjelp-mu4c.jpg",
+        "media/shots/mwmnjelw-afnl.jpg",
+        "media/shots/mwmnjem7-l0yn.jpg",
+        "media/shots/mwmnjemc-9z0e.jpg",
+        "media/shots/mwmnjemo-lh0b.jpg",
+        "media/shots/mwmnjemv-zty7.jpg",
+        "media/shots/mwmnjen3-q2gy.jpg",
+        "media/shots/mwmnjen7-0qca.jpg",
+        "media/shots/mwmnjene-c0yn.jpg",
+        "media/shots/mwmnjenl-3uzc.jpg",
+        "media/shots/mwmnjenq-2yoz.jpg"
+      ],
+      "iconSha256": "eef1f8fa44595923b82f0958cc24b966ded90c3a6bb07de322f08a9c998e9144",
+      "screenshotsSha256": [
+        "dfe54c1004cc7375ade44e8d00719387ee4ff3ab212416fffd754311fe3e60d1",
+        "10d835f148e5533a86b6d95014e9058156918ec068b4ca5c3d104a5d4368db56",
+        "51f71432208d1aeda58a8c5c6db845bdfd54d9779c47d1bfec27965a42a01b8a",
+        "3bdf21d14fd56d24c92976182d52d9a64e62dc621d99fb291bee1c3ec3d365a8",
+        "1aabb9d4c02970ecb827bdfdd0b2e827a307a6173789f599eeb37324073d4ceb",
+        "b5371a9edd84cbe0deb501191d7652e64b72251275e41832fa345164f63ebdc5",
+        "1ca951fbba66d9e4e6a5e1f71f2948619e70683ac5817d78dc29a0bf3d38de59",
+        "3dc390beae26a607133c8afddaabcf5a1da99f076fa503e1d297a41b41ff89fc",
+        "079fd17041b8856526d99aae2c7cd39b3d42da816f6a273d3f0000777e879aaf",
+        "0372df586ec8fe8ce630b74db6d3e57091ef628a56a1fd6a89d3d86aebaf3dd3",
+        "6386ffd2d9ad0dc6f450e1e1f1b5f35d638f376523b8a62a25072042dfda6738",
+        "9727df4522df71d9e828fce5d878ed357f566d48ea03fe5b310c92db7a349a2d",
+        "18eed228c58effd02663e438de5af2498a0d34fd9506435f1581a1616e6b3faa",
+        "a76b9cc693df1e2f163074b4507816045bd5adf4db872c840d06ed637294474d",
+        "02cbe640deb7b07b8bf06a45a1c00582eb125c52d391e98fd982ee54f84be626",
+        "2b5790e2d5623a199e0350006696384b95b813c88780cc7d350ae71e7a4b6049"
+      ],
+      "description": "فريق التعريب الأصلي على PC — هشام | الداعم — Khaled\n\nنقل التعريب إلى منصة PS4 — سجاد رحيم\n\nميزات التعريب\n- تعريب كامل للحوارات والقوائم وتعليمات اللعب.\n- العربية خيار مستقل للغة النص، مع بقاء صوت الحوار بالإنجليزية.\n- تحسين اتصال الحروف ومحاذاة النصوص، وظهور اسم المتحدث على يمين الحوار.\n- شعار عربي في شاشة البداية.",
+      "readme": "",
+      "origin": "community",
+      "translationType": "machine",
+      "parts": [],
+      "downloads": 0,
+      "addedAt": "2026-11-19T12:00:00.000Z"
     }
   ],
-  "sig": "b60cc0dfb262b08896d574629723607ed8608ac941b87abd104701bb465e70fc6037a260bc2cd57a00fa8cbe26708329d4824782754e96dc0869dddd305fb80a"
+  "sig": "ad9af8817fdb8768f39160840c729194d1b00470ca8485c6a0cda36cba7d04d2e664d5fca121b542a2fe676442b5f5542d073643799f15aca22d4a8eb785b30a"
 }
