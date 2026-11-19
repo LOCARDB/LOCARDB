@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T19:56:54.630Z",
+  "updatedAt": "2026-11-19T21:03:30.167Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -34,7 +34,7 @@
         "CUSA16742"
       ],
       "parts": [],
-      "downloads": 1873,
+      "downloads": 1886,
       "addedAt": "2026-10-22T10:46:47.000Z"
     },
     {
@@ -68,7 +68,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 2941,
+      "downloads": 2947,
       "addedAt": "2026-10-21T18:34:26.000Z"
     },
     {
@@ -102,7 +102,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 1514,
+      "downloads": 1520,
       "addedAt": "2026-10-21T18:45:08.000Z"
     },
     {
@@ -136,7 +136,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 832,
+      "downloads": 834,
       "addedAt": "2026-10-21T18:55:21.000Z"
     },
     {
@@ -230,7 +230,7 @@
         "CUSA02826"
       ],
       "parts": [],
-      "downloads": 519,
+      "downloads": 521,
       "addedAt": "2026-10-22T20:34:45.000Z"
     },
     {
@@ -266,7 +266,7 @@
         "CUSA02826"
       ],
       "parts": [],
-      "downloads": 982,
+      "downloads": 984,
       "addedAt": "2026-10-22T21:29:37.000Z"
     },
     {
@@ -477,7 +477,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 758,
+      "downloads": 762,
       "addedAt": "2026-10-24T15:21:50.000Z"
     },
     {
@@ -622,7 +622,7 @@
         "CUSA00343"
       ],
       "parts": [],
-      "downloads": 85,
+      "downloads": 87,
       "downloadsBase": 23,
       "addedAt": "2026-10-24T20:19:33.000Z"
     },
@@ -659,7 +659,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 496,
+      "downloads": 498,
       "addedAt": "2026-10-24T20:27:08.000Z"
     },
     {
@@ -763,7 +763,7 @@
         "CUSA04284"
       ],
       "parts": [],
-      "downloads": 535,
+      "downloads": 537,
       "addedAt": "2026-10-25T16:33:50.000Z"
     },
     {
@@ -797,7 +797,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 666,
+      "downloads": 670,
       "addedAt": "2026-10-25T23:47:11.000Z"
     },
     {
@@ -835,7 +835,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 1335,
+      "downloads": 1338,
       "addedAt": "2026-10-26T15:26:09.000Z"
     },
     {
@@ -874,7 +874,7 @@
         "CUSA07995"
       ],
       "parts": [],
-      "downloads": 1681,
+      "downloads": 1689,
       "addedAt": "2026-10-27T11:00:23.000Z"
     },
     {
@@ -939,7 +939,7 @@
         "CUSA12047"
       ],
       "parts": [],
-      "downloads": 1695,
+      "downloads": 1700,
       "addedAt": "2026-10-27T23:42:00.000Z"
     },
     {
@@ -1006,7 +1006,7 @@
         "CUSA24898"
       ],
       "parts": [],
-      "downloads": 997,
+      "downloads": 1003,
       "addedAt": "2026-10-28T17:58:55.000Z"
     },
     {
@@ -1045,7 +1045,7 @@
         "CUSA02703"
       ],
       "parts": [],
-      "downloads": 771,
+      "downloads": 773,
       "addedAt": "2026-11-04T12:00:00.000Z"
     },
     {
@@ -1072,7 +1072,7 @@
         "CUSA01111"
       ],
       "parts": [],
-      "downloads": 619,
+      "downloads": 623,
       "addedAt": "2026-11-04T12:00:00.000Z"
     },
     {
@@ -1155,7 +1155,7 @@
         "CUSA26618"
       ],
       "parts": [],
-      "downloads": 2309,
+      "downloads": 2311,
       "downloadsBase": 952,
       "addedAt": "2026-11-12T12:00:00.000Z"
     },
@@ -1207,7 +1207,7 @@
         "CUSA23501"
       ],
       "parts": [],
-      "downloads": 392,
+      "downloads": 394,
       "downloadsBase": 143,
       "addedAt": "2026-11-12T12:00:00.000Z"
     },
@@ -1253,7 +1253,7 @@
         "CUSA26616"
       ],
       "parts": [],
-      "downloads": 979,
+      "downloads": 985,
       "downloadsBase": 506,
       "addedAt": "2026-11-12T12:00:00.000Z"
     },
@@ -1311,7 +1311,7 @@
         "CUSA00203"
       ],
       "parts": [],
-      "downloads": 334,
+      "downloads": 336,
       "addedAt": "2026-11-06T12:00:00.000Z"
     },
     {
@@ -1347,7 +1347,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 175,
+      "downloads": 177,
       "addedAt": "2026-11-06T12:00:00.000Z"
     },
     {
@@ -1495,7 +1495,7 @@
           "size": 99319961
         }
       ],
-      "downloads": 1932,
+      "downloads": 1938,
       "addedAt": "2026-11-06T12:00:00.000Z"
     },
     {
@@ -1534,7 +1534,7 @@
         "CUSA03985"
       ],
       "parts": [],
-      "downloads": 179,
+      "downloads": 181,
       "addedAt": "2026-11-08T12:00:00.000Z"
     },
     {
@@ -1562,7 +1562,7 @@
         "CUSA00552"
       ],
       "parts": [],
-      "downloads": 2563,
+      "downloads": 2574,
       "addedAt": "2026-11-09T12:00:00.000Z"
     },
     {
@@ -1749,7 +1749,7 @@
       "origin": "community",
       "translationType": "machine",
       "parts": [],
-      "downloads": 944,
+      "downloads": 948,
       "addedAt": "2026-11-11T12:00:00.000Z"
     },
     {
@@ -1870,7 +1870,7 @@
         "CUSA08216"
       ],
       "parts": [],
-      "downloads": 206,
+      "downloads": 210,
       "addedAt": "2026-11-12T12:00:00.000Z"
     },
     {
@@ -2053,7 +2053,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 172,
+      "downloads": 175,
       "addedAt": "2026-11-15T12:00:00.000Z"
     },
     {
@@ -2110,7 +2110,7 @@
         "CUSA36848"
       ],
       "parts": [],
-      "downloads": 136,
+      "downloads": 139,
       "addedAt": "2026-11-15T12:00:00.000Z"
     },
     {
@@ -2151,7 +2151,7 @@
         "CUSA01623"
       ],
       "parts": [],
-      "downloads": 472,
+      "downloads": 476,
       "addedAt": "2026-11-16T12:00:00.000Z"
     },
     {
@@ -2175,7 +2175,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 307,
+      "downloads": 311,
       "addedAt": "2026-11-16T12:00:00.000Z"
     },
     {
@@ -2233,7 +2233,7 @@
       "origin": "community",
       "translationType": "machine",
       "parts": [],
-      "downloads": 139,
+      "downloads": 143,
       "addedAt": "2026-11-19T12:00:00.000Z"
     },
     {
@@ -2291,7 +2291,7 @@
       "origin": "community",
       "translationType": "machine",
       "parts": [],
-      "downloads": 138,
+      "downloads": 146,
       "addedAt": "2026-11-19T12:00:00.000Z"
     },
     {
@@ -2366,7 +2366,61 @@
       ],
       "downloads": 0,
       "addedAt": "2026-11-20T12:00:00.000Z"
+    },
+    {
+      "id": "CUSA33874",
+      "titleId": "CUSA33874",
+      "name": "Persona 4 Golden AI by AsmarGamesAR",
+      "team": "AsmarGamesAR",
+      "version": "1.0",
+      "supportedUpdate": "1.01",
+      "format": "AFR",
+      "size": 500554680,
+      "sha256": "cdaefd46dba32fd79674b4ec24b49572b863ae7e19b370245c4289a1218b8c12",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA33874_T1.0_G1.01_AI_AsmarGamesAR.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/769249885",
+      "icon": "media/icons/mwo1827l-pi3d.jpg",
+      "screenshots": [
+        "media/shots/mwo1871n-fmaw.jpg",
+        "media/shots/mwo1871s-6ri2.jpg",
+        "media/shots/mwo1871z-tnfc.jpg",
+        "media/shots/mwo18728-837i.jpg",
+        "media/shots/mwo1872c-7h68.jpg",
+        "media/shots/mwo1872f-y30c.jpg",
+        "media/shots/mwo1872j-ms4i.jpg",
+        "media/shots/mwo1872q-7ok7.jpg",
+        "media/shots/mwo1872x-gv26.jpg",
+        "media/shots/mwo18738-7r2p.jpg",
+        "media/shots/mwo1873s-864j.jpg",
+        "media/shots/mwo1873z-b9b9.jpg",
+        "media/shots/mwo18746-blom.jpg",
+        "media/shots/mwo1874e-chjn.jpg"
+      ],
+      "iconSha256": "72a37ccb451a1070bc3d9bf276dfb48f5f36dd4717bfdc681ab8ebd5182074bb",
+      "screenshotsSha256": [
+        "6d5595581465a7385646fb10cf5908ffa69e0581b12f6e00b4099af4a6a71606",
+        "a7471f4f0240efc81f387e7b9ce64e188fbbed89f983a85f011501146f3491c5",
+        "9a002d9199263f1d2c7210dbcb329280d28ed6fd2121b172efeaf9a2ecca8c44",
+        "f11f5a32dfc3826ca0a2a755f24365da3d0b667754b5d04292a047f56e7e4f94",
+        "0e57cc55688f888da5a7db7e1ba6418e7e5fb5ae293823e93c38c1b0e23fa8a5",
+        "3a088d98beae488748d634fcf350b91cf77d9192222829102ec6e1239a53a798",
+        "2da31a7eefc5d368a530afd631707f9bf44fd84e6149a9894eb6f224865c2f12",
+        "dc18132caa5ebaa38a4f7d19812d73c50763970224d91aa09525c1447f6ab48a",
+        "6eaac330505f76f9b14d2fab40f89d7637f0b76086b477fb9c4ab963353d0e4a",
+        "346e7e2173098f8fc1fb345f4e0dee684b1299a3137ad3ac9e69c85fa55531d8",
+        "6f1515ec063d7c677070e1f067b19419f451aeeac06a35103e2bccb32ec1a8d6",
+        "97b0418edf463588ac8a0fc2629d4f9ea01a0c604f863d427431f381cd802d57",
+        "f028ed55e984763081f9d0bc7d6a6831730ff725027cead0401a60dd68cfe944",
+        "6cfdbf372485f90a178e420fdac59dc34b5deb039f1f470fbceffe1be73726f7"
+      ],
+      "description": "تعريب آلي و كامل للعبة Persona 4 Golden من عمل فريق أسمر للتعريب (x.com/AsmarGamesAR)\n\nنقل التعريب إلى منصة PS4: سجاد رحيم\n",
+      "readme": "",
+      "origin": "community",
+      "translationType": "machine",
+      "parts": [],
+      "downloads": 0,
+      "addedAt": "2026-11-20T12:00:00.000Z"
     }
   ],
-  "sig": "2d112e522b5584120bd18cfd11cb180193826cd64852be795bbcd2d5d46c03f30c01ba92fda5ac9bb7a4bc08c95e5afa1b69470e9b3db159b5c88db9a1edd407"
+  "sig": "b9b10479da4086ef8809e55f10c2c84836cf75f8c85268f8daebae04e24b2aab4d576f3c1bd50e3aa1e1846d38b14fbd6037305736592848af881b5a9b6f9607"
 }
