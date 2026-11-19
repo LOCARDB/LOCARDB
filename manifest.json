@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-18T21:50:06.924Z",
+  "updatedAt": "2026-11-19T19:56:45.200Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -34,7 +34,7 @@
         "CUSA16742"
       ],
       "parts": [],
-      "downloads": 1776,
+      "downloads": 1865,
       "addedAt": "2026-10-22T10:46:47.000Z"
     },
     {
@@ -68,7 +68,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 2762,
+      "downloads": 2935,
       "addedAt": "2026-10-21T18:34:26.000Z"
     },
     {
@@ -102,7 +102,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 1474,
+      "downloads": 1514,
       "addedAt": "2026-10-21T18:45:08.000Z"
     },
     {
@@ -136,7 +136,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 804,
+      "downloads": 832,
       "addedAt": "2026-10-21T18:55:21.000Z"
     },
     {
@@ -170,7 +170,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 728,
+      "downloads": 765,
       "addedAt": "2026-10-21T19:03:32.000Z"
     },
     {
@@ -194,7 +194,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 46,
+      "downloads": 48,
       "addedAt": "2026-10-21T19:07:46.000Z"
     },
     {
@@ -230,7 +230,7 @@
         "CUSA02826"
       ],
       "parts": [],
-      "downloads": 497,
+      "downloads": 517,
       "addedAt": "2026-10-22T20:34:45.000Z"
     },
     {
@@ -266,7 +266,7 @@
         "CUSA02826"
       ],
       "parts": [],
-      "downloads": 933,
+      "downloads": 982,
       "addedAt": "2026-10-22T21:29:37.000Z"
     },
     {
@@ -301,7 +301,7 @@
         "CUSA05275"
       ],
       "parts": [],
-      "downloads": 121,
+      "downloads": 127,
       "addedAt": "2026-10-23T22:26:06.000Z"
     },
     {
@@ -343,7 +343,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 125,
+      "downloads": 127,
       "addedAt": "2026-10-23T22:33:07.000Z"
     },
     {
@@ -370,7 +370,7 @@
         "CUSA09407"
       ],
       "parts": [],
-      "downloads": 235,
+      "downloads": 243,
       "addedAt": "2026-10-23T22:40:10.000Z"
     },
     {
@@ -407,7 +407,7 @@
         "CUSA10357"
       ],
       "parts": [],
-      "downloads": 518,
+      "downloads": 552,
       "addedAt": "2026-10-24T00:01:09.000Z"
     },
     {
@@ -443,7 +443,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 307,
+      "downloads": 322,
       "addedAt": "2026-10-24T00:07:18.000Z"
     },
     {
@@ -477,7 +477,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 729,
+      "downloads": 758,
       "addedAt": "2026-10-24T15:21:50.000Z"
     },
     {
@@ -577,7 +577,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 369,
+      "downloads": 390,
       "addedAt": "2026-10-24T18:57:45.000Z"
     },
     {
@@ -622,7 +622,7 @@
         "CUSA00343"
       ],
       "parts": [],
-      "downloads": 77,
+      "downloads": 85,
       "downloadsBase": 23,
       "addedAt": "2026-10-24T20:19:33.000Z"
     },
@@ -659,7 +659,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 462,
+      "downloads": 492,
       "addedAt": "2026-10-24T20:27:08.000Z"
     },
     {
@@ -691,7 +691,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 175,
+      "downloads": 179,
       "addedAt": "2026-10-25T16:19:51.000Z"
     },
     {
@@ -726,7 +726,7 @@
         "CUSA26738"
       ],
       "parts": [],
-      "downloads": 82,
+      "downloads": 98,
       "addedAt": "2026-10-25T16:18:39.000Z"
     },
     {
@@ -763,7 +763,7 @@
         "CUSA04284"
       ],
       "parts": [],
-      "downloads": 523,
+      "downloads": 535,
       "addedAt": "2026-10-25T16:33:50.000Z"
     },
     {
@@ -797,7 +797,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 646,
+      "downloads": 666,
       "addedAt": "2026-10-25T23:47:11.000Z"
     },
     {
@@ -835,7 +835,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 1265,
+      "downloads": 1335,
       "addedAt": "2026-10-26T15:26:09.000Z"
     },
     {
@@ -874,7 +874,7 @@
         "CUSA07995"
       ],
       "parts": [],
-      "downloads": 1599,
+      "downloads": 1679,
       "addedAt": "2026-10-27T11:00:23.000Z"
     },
     {
@@ -939,7 +939,7 @@
         "CUSA12047"
       ],
       "parts": [],
-      "downloads": 1614,
+      "downloads": 1693,
       "addedAt": "2026-10-27T23:42:00.000Z"
     },
     {
@@ -1006,7 +1006,7 @@
         "CUSA24898"
       ],
       "parts": [],
-      "downloads": 948,
+      "downloads": 997,
       "addedAt": "2026-10-28T17:58:55.000Z"
     },
     {
@@ -1045,7 +1045,7 @@
         "CUSA02703"
       ],
       "parts": [],
-      "downloads": 719,
+      "downloads": 771,
       "addedAt": "2026-11-04T12:00:00.000Z"
     },
     {
@@ -1072,7 +1072,7 @@
         "CUSA01111"
       ],
       "parts": [],
-      "downloads": 604,
+      "downloads": 619,
       "addedAt": "2026-11-04T12:00:00.000Z"
     },
     {
@@ -1100,7 +1100,7 @@
         "CUSA00076"
       ],
       "parts": [],
-      "downloads": 408,
+      "downloads": 422,
       "addedAt": "2026-11-04T12:00:00.000Z"
     },
     {
@@ -1155,7 +1155,7 @@
         "CUSA26618"
       ],
       "parts": [],
-      "downloads": 2193,
+      "downloads": 2307,
       "downloadsBase": 952,
       "addedAt": "2026-11-12T12:00:00.000Z"
     },
@@ -1207,7 +1207,7 @@
         "CUSA23501"
       ],
       "parts": [],
-      "downloads": 382,
+      "downloads": 392,
       "downloadsBase": 143,
       "addedAt": "2026-11-12T12:00:00.000Z"
     },
@@ -1253,7 +1253,7 @@
         "CUSA26616"
       ],
       "parts": [],
-      "downloads": 943,
+      "downloads": 977,
       "downloadsBase": 506,
       "addedAt": "2026-11-12T12:00:00.000Z"
     },
@@ -1311,7 +1311,7 @@
         "CUSA00203"
       ],
       "parts": [],
-      "downloads": 310,
+      "downloads": 332,
       "addedAt": "2026-11-06T12:00:00.000Z"
     },
     {
@@ -1347,7 +1347,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 165,
+      "downloads": 173,
       "addedAt": "2026-11-06T12:00:00.000Z"
     },
     {
@@ -1398,7 +1398,7 @@
         "CUSA08974"
       ],
       "parts": [],
-      "downloads": 455,
+      "downloads": 503,
       "addedAt": "2026-11-06T12:00:00.000Z"
     },
     {
@@ -1439,7 +1439,7 @@
         "CUSA03986"
       ],
       "parts": [],
-      "downloads": 93,
+      "downloads": 97,
       "addedAt": "2026-11-06T12:00:00.000Z"
     },
     {
@@ -1495,7 +1495,7 @@
           "size": 99319961
         }
       ],
-      "downloads": 1794,
+      "downloads": 1932,
       "addedAt": "2026-11-06T12:00:00.000Z"
     },
     {
@@ -1562,7 +1562,7 @@
         "CUSA00552"
       ],
       "parts": [],
-      "downloads": 2403,
+      "downloads": 2559,
       "addedAt": "2026-11-09T12:00:00.000Z"
     },
     {
@@ -1604,7 +1604,7 @@
         "CUSA01141"
       ],
       "parts": [],
-      "downloads": 322,
+      "downloads": 333,
       "addedAt": "2026-11-09T12:00:00.000Z"
     },
     {
@@ -1692,7 +1692,7 @@
         }
       ],
       "partsFormat": "zip",
-      "downloads": 60,
+      "downloads": 68,
       "downloadsBase": 54,
       "addedAt": "2026-11-17T12:00:00.000Z"
     },
@@ -1749,7 +1749,7 @@
       "origin": "community",
       "translationType": "machine",
       "parts": [],
-      "downloads": 878,
+      "downloads": 942,
       "addedAt": "2026-11-11T12:00:00.000Z"
     },
     {
@@ -1805,7 +1805,7 @@
       "origin": "community",
       "translationType": "machine",
       "parts": [],
-      "downloads": 309,
+      "downloads": 323,
       "addedAt": "2026-11-11T12:00:00.000Z"
     },
     {
@@ -1870,7 +1870,7 @@
         "CUSA08216"
       ],
       "parts": [],
-      "downloads": 190,
+      "downloads": 204,
       "addedAt": "2026-11-12T12:00:00.000Z"
     },
     {
@@ -1951,7 +1951,7 @@
         "CUSA37521"
       ],
       "parts": [],
-      "downloads": 124,
+      "downloads": 137,
       "addedAt": "2026-11-12T12:00:00.000Z"
     },
     {
@@ -1985,7 +1985,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 82,
+      "downloads": 89,
       "addedAt": "2026-11-14T12:00:00.000Z"
     },
     {
@@ -2019,7 +2019,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 94,
+      "downloads": 107,
       "addedAt": "2026-11-14T12:00:00.000Z"
     },
     {
@@ -2053,7 +2053,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 156,
+      "downloads": 172,
       "addedAt": "2026-11-15T12:00:00.000Z"
     },
     {
@@ -2110,7 +2110,7 @@
         "CUSA36848"
       ],
       "parts": [],
-      "downloads": 104,
+      "downloads": 136,
       "addedAt": "2026-11-15T12:00:00.000Z"
     },
     {
@@ -2151,7 +2151,7 @@
         "CUSA01623"
       ],
       "parts": [],
-      "downloads": 413,
+      "downloads": 470,
       "addedAt": "2026-11-16T12:00:00.000Z"
     },
     {
@@ -2175,7 +2175,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 266,
+      "downloads": 307,
       "addedAt": "2026-11-16T12:00:00.000Z"
     },
     {
@@ -2233,7 +2233,7 @@
       "origin": "community",
       "translationType": "machine",
       "parts": [],
-      "downloads": 0,
+      "downloads": 135,
       "addedAt": "2026-11-19T12:00:00.000Z"
     },
     {
@@ -2291,9 +2291,82 @@
       "origin": "community",
       "translationType": "machine",
       "parts": [],
-      "downloads": 0,
+      "downloads": 133,
       "addedAt": "2026-11-19T12:00:00.000Z"
+    },
+    {
+      "id": "CUSA41300",
+      "titleId": "CUSA41300",
+      "name": "METAL GEAR SOLID - Master Collection Version",
+      "team": "besofh19",
+      "version": "1.0",
+      "supportedUpdate": "1.03",
+      "format": "AFR",
+      "size": 2035960279,
+      "sha256": "40eeb464d955a2ac02e00f2acfb30159115a0fbd44f1714682582333a128a016",
+      "url": "",
+      "api": "",
+      "icon": "media/icons/mwnyf3h1-jkfb.jpg",
+      "screenshots": [
+        "media/shots/mwnyfdi3-t696.jpg",
+        "media/shots/mwnyfmjm-ux9q.jpg",
+        "media/shots/mwnyfmjt-9l3s.jpg",
+        "media/shots/mwnyfmk1-zd2i.jpg",
+        "media/shots/mwnyfmkc-dim5.jpg",
+        "media/shots/mwnyfmkk-0l7g.jpg",
+        "media/shots/mwnyfmkp-1iig.jpg",
+        "media/shots/mwnyfmku-61ks.jpg",
+        "media/shots/mwnyfmkz-9zff.jpg",
+        "media/shots/mwnyfml3-udkw.jpg",
+        "media/shots/mwnyfml7-pfx0.jpg",
+        "media/shots/mwnyfmlb-xdv6.jpg",
+        "media/shots/mwnyfmlj-4vr3.jpg",
+        "media/shots/mwnyfmlo-zmgd.jpg",
+        "media/shots/mwnyfmlx-2kwo.jpg",
+        "media/shots/mwnyfmm2-fdsd.jpg",
+        "media/shots/mwnyfmm7-b6qi.jpg",
+        "media/shots/mwnyfmme-tmt9.jpg"
+      ],
+      "iconSha256": "1afeead4639aeff892709d9eb9b8d3c5366785f02fa8215812b05f79815bd9ba",
+      "screenshotsSha256": [
+        "ceec9a1cff3b01d766298b0db69eca6aca3c6956aee1fe5fd36ab54bf0e736ba",
+        "6cfbde104d4822d75434e568b3a1a020c7f69d8bb233cc73f636aa1df6b3aab3",
+        "564e9c58fca3007c1d90569fbf5a1c2a862a07bd3c9e7e50896382f636ca4ebd",
+        "2c919d249ddef16e775c05fd278dd769364f87f647c699716bb5963ffe9a60ef",
+        "713293307132f1dc1c1b36247d7da28fc39f2cea7b83ca2c0098616afb1a4c36",
+        "4d06e8214c5cfecccb9da4e9f5241476fdb4bc1b6dd201c367141ace5075df7f",
+        "37a29c7769ce1e4390212035ae6c2213fe4793a57cca48f26276ad5d32dae043",
+        "e36d3090169193eb03306f55020837c377df1bcfd6e38e029a804a60f9fa0293",
+        "37350e9d01918f79ae8f034b3a0fa72f9b3fc4cc9b53ab35a234cc1825f4706b",
+        "9cf3024ebe4c6a857929eeac04d094f5fee9d823672e135192bf0024b09ba491",
+        "6f10479ada0526a682cf0e82e5fe99504690841239a19ce6e19f25ed36f953d9",
+        "d52a54c958f808dc527f233d7bd1880eb2cd73c1d7bf03823fb096f5b2ad830d",
+        "77713665f5fdf6188a4863556ca27d88763c4beff034c4fc0368300304ccdb46",
+        "2d8bf3c223bbddfadf10a41a1337bc234f835d05fb467c8f490172afe6eba916",
+        "0503fec3b6b7003f7c9399184ed3c9afe33083c667a47dd9a379a98ef81d92c3",
+        "b93093277838a2b4b3c4dc06f02d9413e75470c0d0046d60f855725c8dcf4100",
+        "f72fa282060cefc8b7d9bf0abb10b76a47d644621bbb5139160c4fcf65df9225",
+        "6b8746be62a486de3372e0972c11f7bac7c14ecae34bc98fa0ad2f8d6db5879c"
+      ],
+      "description": "فريق التعريب الأصلي على PC\n- الترجمة — بسام (besofh)\n- البرمجة — Green_goblin\n- تصميم الخط العربي — عبدالله (IIRitoI)\n\nنقل التعريب إلى منصة PS4 — سجاد رحيم",
+      "readme": "",
+      "origin": "community",
+      "translationType": "human",
+      "parts": [
+        {
+          "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA41300_T1.0_G1.03_HUMAN_besofh19.zip.part01",
+          "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/769013011",
+          "size": 1610612736
+        },
+        {
+          "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA41300_T1.0_G1.03_HUMAN_besofh19.zip.part02",
+          "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/769048567",
+          "size": 425347543
+        }
+      ],
+      "downloads": 0,
+      "addedAt": "2026-11-20T12:00:00.000Z"
     }
   ],
-  "sig": "3cf3845afa3b10770d1da760307969b8d106ee0d34b6d0791fe303ff2326e5e8f8b23cb478575e947960434f1312dbe26cdc3f985a649fa9d7f473879a03f604"
+  "sig": "8ebc92c110b7372adbce0a5a02973751e717327746ee7f92a0a8f321318b7d229961883896e9a56143f2007ae50bb55e9faaa2eb8d9f90cbb7d83529941be903"
 }
