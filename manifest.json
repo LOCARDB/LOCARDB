@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T21:03:30.167Z",
+  "updatedAt": "2026-11-19T21:13:55.830Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -34,7 +34,7 @@
         "CUSA16742"
       ],
       "parts": [],
-      "downloads": 1886,
+      "downloads": 1890,
       "addedAt": "2026-10-22T10:46:47.000Z"
     },
     {
@@ -68,7 +68,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 2947,
+      "downloads": 2951,
       "addedAt": "2026-10-21T18:34:26.000Z"
     },
     {
@@ -443,7 +443,7 @@
       "origin": "community",
       "translationType": "human",
       "parts": [],
-      "downloads": 322,
+      "downloads": 325,
       "addedAt": "2026-10-24T00:07:18.000Z"
     },
     {
@@ -622,7 +622,7 @@
         "CUSA00343"
       ],
       "parts": [],
-      "downloads": 87,
+      "downloads": 89,
       "downloadsBase": 23,
       "addedAt": "2026-10-24T20:19:33.000Z"
     },
@@ -874,7 +874,7 @@
         "CUSA07995"
       ],
       "parts": [],
-      "downloads": 1689,
+      "downloads": 1691,
       "addedAt": "2026-10-27T11:00:23.000Z"
     },
     {
@@ -1155,7 +1155,7 @@
         "CUSA26618"
       ],
       "parts": [],
-      "downloads": 2311,
+      "downloads": 2313,
       "downloadsBase": 952,
       "addedAt": "2026-11-12T12:00:00.000Z"
     },
@@ -1495,7 +1495,7 @@
           "size": 99319961
         }
       ],
-      "downloads": 1938,
+      "downloads": 1940,
       "addedAt": "2026-11-06T12:00:00.000Z"
     },
     {
@@ -1562,7 +1562,7 @@
         "CUSA00552"
       ],
       "parts": [],
-      "downloads": 2574,
+      "downloads": 2578,
       "addedAt": "2026-11-09T12:00:00.000Z"
     },
     {
@@ -2420,7 +2420,65 @@
       "parts": [],
       "downloads": 0,
       "addedAt": "2026-11-20T12:00:00.000Z"
+    },
+    {
+      "id": "CUSA33874_1.01",
+      "titleId": "CUSA33874",
+      "name": "Persona 4 Golden AI by Arabic_Hesham",
+      "team": "هشام",
+      "version": "1.0",
+      "supportedUpdate": "1.01",
+      "format": "AFR",
+      "size": 754913832,
+      "sha256": "e9b0edb988977092ac3065de21c6898401b44ccf2e81dd0bf14f71e2d3fc4ad5",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA33874_T1.0_G1.01_AI_a1800b.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/769277078",
+      "icon": "media/icons/mwo1j2ni-l3hr.jpg",
+      "screenshots": [
+        "media/shots/mwo1jqvy-qk5w.jpg",
+        "media/shots/mwo1jqw4-6of0.jpg",
+        "media/shots/mwo1jqwb-oxh3.jpg",
+        "media/shots/mwo1jqwg-gy7o.jpg",
+        "media/shots/mwo1jqwl-nyz5.jpg",
+        "media/shots/mwo1jqwo-ngti.jpg",
+        "media/shots/mwo1jqwx-wxgn.jpg",
+        "media/shots/mwo1jqx4-obbo.jpg",
+        "media/shots/mwo1jqxb-l1gx.jpg",
+        "media/shots/mwo1jqxh-gaul.jpg",
+        "media/shots/mwo1jqxo-zp9l.jpg",
+        "media/shots/mwo1jqxz-ufm2.jpg",
+        "media/shots/mwo1jqy5-l8g4.jpg",
+        "media/shots/mwo1jqyf-vagj.jpg",
+        "media/shots/mwo1jqym-b2ei.jpg",
+        "media/shots/mwo1jqyv-7ukh.jpg"
+      ],
+      "iconSha256": "72a37ccb451a1070bc3d9bf276dfb48f5f36dd4717bfdc681ab8ebd5182074bb",
+      "screenshotsSha256": [
+        "b8f4c9df3bfc95c623e14a6b181236707057e1d77510132efdf0e8acc9279d13",
+        "576355481e57a622e732ac97e49c0f15442e4fc147bac426de2e8e0e1f387059",
+        "3a30ab0b695d81735295492fe17c857b00678f71d8b0dc9b5936bf584a80a78b",
+        "9526b6397841c40d490b4d276d60133f665c878d38e48e87a0326bd9d8b336ad",
+        "11e1c40012b013e58a70a93bce96d99edfa650f5dd46e65fad6d0446e3ddb17b",
+        "f77b385f5d283055d8be0ba4ef5975deeafffec31973460385603beda615ff63",
+        "d416636c919eb6fb9656baa74f9e760d533bd30d24cf1bd38e4ebfb23674f76f",
+        "1a96a02d9f08183d6a3feafcdc8a307afba617511aec9632d3931fa100991262",
+        "25047f907f7ae6f7d3d31c059970235cf7b809e980c1da0e5fcbf907d1904534",
+        "c3fb82033ed163f8c1f4b78dbc65998325cb08c62961ccf86ec468e22801a80d",
+        "c8c709f5341b327cae9e25f20a792d1da12405ceb5d5032710e6279042074c5b",
+        "b572f57610359bc169e2eb66b621a963087703f4e2031be3f0141b7685c26eda",
+        "6b6084277b409e67d7f75d0d095f6066fd40a10e03b667e9c5e1646a2e423792",
+        "7db4800e109a988aefe0a1d2dd4a5e553d782f252b2cbcfc2b84e930373fb873",
+        "995f5e27f75bf570b1d1cb9e198cd3cf6b515ed9d855b2fc534cb8bf86485cf0",
+        "00ab4bd7227c5cbe06331e76304ebc7431965ef90cf4b8151a5f5f56609e1d6d"
+      ],
+      "description": "تعريب آلي و كامل للعبة Persona 4 Golden من عمل هشـــام (x.com/Arabic_Hesham)\n\nنقل التعريب إلى منصة PS4: سجاد رحيم\n",
+      "readme": "",
+      "origin": "community",
+      "translationType": "machine",
+      "parts": [],
+      "downloads": 0,
+      "addedAt": "2026-11-20T12:00:00.000Z"
     }
   ],
-  "sig": "b9b10479da4086ef8809e55f10c2c84836cf75f8c85268f8daebae04e24b2aab4d576f3c1bd50e3aa1e1846d38b14fbd6037305736592848af881b5a9b6f9607"
+  "sig": "b9876e9b2dfebffd64a647622739031d6c86efb0038c21872c8bbd37008404d52ad53bb2dbea37ff2abe111279e43d94550ade5d126cc9bf086f6bd10d29f900"
 }
