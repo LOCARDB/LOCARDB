@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-21T19:02:32.266Z",
+  "updatedAt": "2026-11-21T19:04:27.092Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -1052,7 +1052,7 @@
         "stealth"
       ],
       "parts": [],
-      "downloads": 1901,
+      "downloads": 1903,
       "addedAt": "2026-10-27T23:42:00.000Z"
     },
     {
@@ -2523,7 +2523,7 @@
         "adventure"
       ],
       "parts": [],
-      "downloads": 422,
+      "downloads": 424,
       "addedAt": "2026-11-19T12:00:00.000Z"
     },
     {
@@ -2786,9 +2786,9 @@
         "horror"
       ],
       "parts": [],
-      "downloads": 248,
+      "downloads": 250,
       "addedAt": "2026-11-21T12:00:00.000Z"
     }
   ],
-  "sig": "8648717f74f307934f1b5809810244f238587e7d93e9480f40777cfdbc1c333b5b03e902db9f526146c762ad028ca6b78e6023b3fda7274494c2e591c3b2e40a"
+  "sig": "c5b3480bb62759bc4e78fe69768b7ef9a702ad3f0c41a5c8b5cbfb4c7a9cb5eeb6d5904dbb040bbc98aa49729fa05ac4606b144869450fe79e54d4af62b8cc05"
 }
