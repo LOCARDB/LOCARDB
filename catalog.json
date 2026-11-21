@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-21T19:04:27.092Z",
+  "updatedAt": "2026-11-21T19:21:37.333Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -39,7 +39,7 @@
         "puzzle"
       ],
       "parts": [],
-      "downloads": 2108,
+      "downloads": 2112,
       "addedAt": "2026-10-22T10:46:47.000Z"
     },
     {
@@ -264,7 +264,7 @@
         "shooter"
       ],
       "parts": [],
-      "downloads": 604,
+      "downloads": 606,
       "addedAt": "2026-10-22T20:34:45.000Z"
     },
     {
@@ -305,7 +305,7 @@
         "shooter"
       ],
       "parts": [],
-      "downloads": 1115,
+      "downloads": 1117,
       "addedAt": "2026-10-22T21:29:37.000Z"
     },
     {
@@ -1052,7 +1052,7 @@
         "stealth"
       ],
       "parts": [],
-      "downloads": 1903,
+      "downloads": 1905,
       "addedAt": "2026-10-27T23:42:00.000Z"
     },
     {
@@ -1292,7 +1292,7 @@
         "shooter"
       ],
       "parts": [],
-      "downloads": 2655,
+      "downloads": 2661,
       "downloadsBase": 952,
       "addedAt": "2026-11-12T12:00:00.000Z"
     },
@@ -1400,7 +1400,7 @@
         "shooter"
       ],
       "parts": [],
-      "downloads": 1095,
+      "downloads": 1097,
       "downloadsBase": 506,
       "addedAt": "2026-11-12T12:00:00.000Z"
     },
@@ -1939,7 +1939,7 @@
         "action"
       ],
       "parts": [],
-      "downloads": 1142,
+      "downloads": 1144,
       "addedAt": "2026-11-11T12:00:00.000Z"
     },
     {
@@ -2326,7 +2326,7 @@
         "rpg"
       ],
       "parts": [],
-      "downloads": 185,
+      "downloads": 187,
       "addedAt": "2026-11-15T12:00:00.000Z"
     },
     {
@@ -2788,7 +2788,69 @@
       "parts": [],
       "downloads": 250,
       "addedAt": "2026-11-21T12:00:00.000Z"
+    },
+    {
+      "id": "CUSA11560",
+      "titleId": "CUSA11560",
+      "name": "Assassin's Creed III Remastered",
+      "team": "ماجد العتيبي",
+      "version": "1.0",
+      "supportedUpdate": "1.03",
+      "format": "OT",
+      "size": 104157648,
+      "sha256": "1e6abd9772a5aca91912017af5a5c4637a0d9acf440564abcfd3b5989b67f960",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA11560_T1.0_G1.03_HUMAN_584d08.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/776613798",
+      "icon": "media/icons/mwqskup8-u0m4.jpg",
+      "screenshots": [
+        "media/shots/mwqskykw-0ubr.jpg",
+        "media/shots/mwqskyl4-u3tq.jpg",
+        "media/shots/mwqsl0f4-7klk.jpg",
+        "media/shots/mwqsl3qn-mkth.jpg",
+        "media/shots/mwqsl3qt-g8da.jpg",
+        "media/shots/mwqsl3r0-wqed.jpg",
+        "media/shots/mwqsl3r5-ysi6.jpg",
+        "media/shots/mwqsl3rd-2gdc.jpg",
+        "media/shots/mwqsl3ri-uqsu.jpg",
+        "media/shots/mwqsl3rn-is4a.jpg",
+        "media/shots/mwqsl3rx-belp.jpg",
+        "media/shots/mwqsl3s2-016p.jpg",
+        "media/shots/mwqsl3s7-490d.jpg",
+        "media/shots/mwqsl3sc-bmw3.jpg"
+      ],
+      "iconSha256": "e95a74d0b95dae68ec9e4507c9fff1ddcb3988f77969204cbdfb2fecb616ca6c",
+      "screenshotsSha256": [
+        "3d87f726e9342207d3cf1f213ec64607e2f1c261c8ef817265fb2772664e6c6a",
+        "ffef6f37adb0ba0e7230fb777cc3bb209b6b336a30682584ddc9df85d64c26d5",
+        "1fdfd69bd48248b5fe5de3279795598ef9eff0fd25c981c29ff4bad07f82cc10",
+        "92883ee8083ea9bba1b75959444fed09d13686c7593696ad1655335948d25f3e",
+        "df3831ebf272d64843ca0813c8ba4c99c3032368208cca71c44a390a8a781624",
+        "375f22b101ab71050e001407f74b5a4e000367dcf13f5994fcd3faea42e0ccad",
+        "fbca1ae92b0ac8a3d72c4f8667442342c0d7a30c6bfb4462a9cef5a27e6e0916",
+        "eb018ca98087d26f4f5f19ca64d6346fe548bf1be4e8c640b2abd1e4e76ae901",
+        "1d8cab44d6c243b70b127f788c360ad11655aed0f8f6b34deeeb9fd9542187a3",
+        "132852288afbba3009d7584569474295cdc69e83c99f577b7d5a40af7356cc8f",
+        "d8ca2c4b4fd51310f5f407940c33c712e36aa06637b056100e17baf07f62f09a",
+        "1d92818c52c1dd643d331017314a42185035b9c3bc690446a87958a6e0580f38",
+        "39c6b9d84451e333c6d524027a4033a57104d655bb5207b43da5bcced074ee62",
+        "a7b7f930ec5b49d1e668246311c862c412657b1bd666dcb3b4ac6306941e38b8"
+      ],
+      "description": "التعريب الأصلي لنسخة PC من قبل ماجد العتيبي\n\nنقل التعريب إلى منصة PS4 — سجاد رحيم",
+      "readme": "",
+      "origin": "community",
+      "translationType": "human",
+      "compatibleTitleIds": [
+        "CUSA11711"
+      ],
+      "genres": [
+        "open-world",
+        "adventure",
+        "stealth"
+      ],
+      "parts": [],
+      "downloads": 0,
+      "addedAt": "2026-11-22T12:00:00.000Z"
     }
   ],
-  "sig": "c5b3480bb62759bc4e78fe69768b7ef9a702ad3f0c41a5c8b5cbfb4c7a9cb5eeb6d5904dbb040bbc98aa49729fa05ac4606b144869450fe79e54d4af62b8cc05"
+  "sig": "66a3961856247ae42ec953581b2f1952f41c4088aae9be44a6467fd6d747a80fd984f29c8053b1db1db66c7ee1e558a80fcb2df163652e866d7392b9b7926b05"
 }
