@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-21T17:41:37.643Z",
+  "updatedAt": "2026-11-21T19:02:32.266Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -33,8 +33,13 @@
       "compatibleTitleIds": [
         "CUSA16742"
       ],
+      "genres": [
+        "adventure",
+        "platformer",
+        "puzzle"
+      ],
       "parts": [],
-      "downloads": 2096,
+      "downloads": 2108,
       "addedAt": "2026-10-22T10:46:47.000Z"
     },
     {
@@ -67,8 +72,13 @@
       "readme": "",
       "origin": "community",
       "translationType": "human",
+      "genres": [
+        "open-world",
+        "action",
+        "adventure"
+      ],
       "parts": [],
-      "downloads": 3322,
+      "downloads": 3334,
       "addedAt": "2026-10-21T18:34:26.000Z"
     },
     {
@@ -101,8 +111,12 @@
       "readme": "",
       "origin": "community",
       "translationType": "human",
+      "genres": [
+        "shooter",
+        "action"
+      ],
       "parts": [],
-      "downloads": 1675,
+      "downloads": 1685,
       "addedAt": "2026-10-21T18:45:08.000Z"
     },
     {
@@ -135,8 +149,13 @@
       "readme": "",
       "origin": "community",
       "translationType": "human",
+      "genres": [
+        "adventure",
+        "stealth",
+        "story"
+      ],
       "parts": [],
-      "downloads": 926,
+      "downloads": 928,
       "addedAt": "2026-10-21T18:55:21.000Z"
     },
     {
@@ -169,8 +188,13 @@
       "readme": "",
       "origin": "community",
       "translationType": "human",
+      "genres": [
+        "horror",
+        "action",
+        "shooter"
+      ],
       "parts": [],
-      "downloads": 877,
+      "downloads": 883,
       "addedAt": "2026-10-21T19:03:32.000Z"
     },
     {
@@ -193,8 +217,13 @@
       "readme": "",
       "origin": "community",
       "translationType": "human",
+      "genres": [
+        "horror",
+        "adventure",
+        "story"
+      ],
       "parts": [],
-      "downloads": 50,
+      "downloads": 52,
       "addedAt": "2026-10-21T19:07:46.000Z"
     },
     {
@@ -229,8 +258,13 @@
         "CUSA02344",
         "CUSA02826"
       ],
+      "genres": [
+        "action",
+        "adventure",
+        "shooter"
+      ],
       "parts": [],
-      "downloads": 600,
+      "downloads": 604,
       "addedAt": "2026-10-22T20:34:45.000Z"
     },
     {
@@ -265,8 +299,13 @@
         "CUSA02344",
         "CUSA02826"
       ],
+      "genres": [
+        "action",
+        "adventure",
+        "shooter"
+      ],
       "parts": [],
-      "downloads": 1111,
+      "downloads": 1115,
       "addedAt": "2026-10-22T21:29:37.000Z"
     },
     {
@@ -300,8 +339,12 @@
       "compatibleTitleIds": [
         "CUSA05275"
       ],
+      "genres": [
+        "action",
+        "adventure"
+      ],
       "parts": [],
-      "downloads": 137,
+      "downloads": 139,
       "addedAt": "2026-10-23T22:26:06.000Z"
     },
     {
@@ -342,8 +385,11 @@
       "readme": "",
       "origin": "community",
       "translationType": "human",
+      "genres": [
+        "action"
+      ],
       "parts": [],
-      "downloads": 140,
+      "downloads": 142,
       "addedAt": "2026-10-23T22:33:07.000Z"
     },
     {
@@ -369,8 +415,11 @@
       "compatibleTitleIds": [
         "CUSA09407"
       ],
+      "genres": [
+        "action"
+      ],
       "parts": [],
-      "downloads": 262,
+      "downloads": 264,
       "addedAt": "2026-10-23T22:40:10.000Z"
     },
     {
@@ -406,8 +455,13 @@
       "compatibleTitleIds": [
         "CUSA10357"
       ],
+      "genres": [
+        "open-world",
+        "shooter",
+        "action"
+      ],
       "parts": [],
-      "downloads": 636,
+      "downloads": 642,
       "addedAt": "2026-10-24T00:01:09.000Z"
     },
     {
@@ -442,8 +496,13 @@
       "readme": "",
       "origin": "community",
       "translationType": "human",
+      "genres": [
+        "open-world",
+        "action",
+        "adventure"
+      ],
       "parts": [],
-      "downloads": 360,
+      "downloads": 362,
       "addedAt": "2026-10-24T00:07:18.000Z"
     },
     {
@@ -476,8 +535,13 @@
       "readme": "",
       "origin": "community",
       "translationType": "human",
+      "genres": [
+        "action",
+        "adventure",
+        "shooter"
+      ],
       "parts": [],
-      "downloads": 861,
+      "downloads": 865,
       "addedAt": "2026-10-24T15:21:50.000Z"
     },
     {
@@ -510,6 +574,9 @@
       "readme": "",
       "origin": "community",
       "translationType": "human",
+      "genres": [
+        "action"
+      ],
       "parts": [
         {
           "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA01708_T1.0_G1.00_HUMAN_584d08.part01.zip",
@@ -576,8 +643,13 @@
       "readme": "",
       "origin": "community",
       "translationType": "human",
+      "genres": [
+        "action",
+        "adventure",
+        "shooter"
+      ],
       "parts": [],
-      "downloads": 440,
+      "downloads": 442,
       "addedAt": "2026-10-24T18:57:45.000Z"
     },
     {
@@ -621,8 +693,12 @@
       "compatibleTitleIds": [
         "CUSA00343"
       ],
+      "genres": [
+        "adventure",
+        "story"
+      ],
       "parts": [],
-      "downloads": 101,
+      "downloads": 103,
       "downloadsBase": 23,
       "addedAt": "2026-10-24T20:19:33.000Z"
     },
@@ -658,8 +734,12 @@
       "readme": "",
       "origin": "community",
       "translationType": "human",
+      "genres": [
+        "horror",
+        "stealth"
+      ],
       "parts": [],
-      "downloads": 591,
+      "downloads": 594,
       "addedAt": "2026-10-24T20:27:08.000Z"
     },
     {
@@ -690,8 +770,12 @@
       "readme": "",
       "origin": "community",
       "translationType": "human",
+      "genres": [
+        "action",
+        "adventure"
+      ],
       "parts": [],
-      "downloads": 201,
+      "downloads": 205,
       "addedAt": "2026-10-25T16:19:51.000Z"
     },
     {
@@ -725,8 +809,13 @@
       "compatibleTitleIds": [
         "CUSA26738"
       ],
+      "genres": [
+        "adventure",
+        "puzzle",
+        "story"
+      ],
       "parts": [],
-      "downloads": 104,
+      "downloads": 106,
       "addedAt": "2026-10-25T16:18:39.000Z"
     },
     {
@@ -762,6 +851,11 @@
       "compatibleTitleIds": [
         "CUSA04284"
       ],
+      "genres": [
+        "horror",
+        "action",
+        "shooter"
+      ],
       "parts": [],
       "downloads": 585,
       "addedAt": "2026-10-25T16:33:50.000Z"
@@ -796,8 +890,12 @@
       "readme": "",
       "origin": "community",
       "translationType": "human",
+      "genres": [
+        "shooter",
+        "action"
+      ],
       "parts": [],
-      "downloads": 725,
+      "downloads": 729,
       "addedAt": "2026-10-25T23:47:11.000Z"
     },
     {
@@ -834,8 +932,13 @@
       "readme": "",
       "origin": "community",
       "translationType": "human",
+      "genres": [
+        "platformer",
+        "action",
+        "adventure"
+      ],
       "parts": [],
-      "downloads": 1490,
+      "downloads": 1498,
       "addedAt": "2026-10-26T15:26:09.000Z"
     },
     {
@@ -873,8 +976,13 @@
       "compatibleTitleIds": [
         "CUSA07995"
       ],
+      "genres": [
+        "action",
+        "adventure",
+        "story"
+      ],
       "parts": [],
-      "downloads": 1912,
+      "downloads": 1924,
       "addedAt": "2026-10-27T11:00:23.000Z"
     },
     {
@@ -938,8 +1046,13 @@
       "compatibleTitleIds": [
         "CUSA12047"
       ],
+      "genres": [
+        "action",
+        "adventure",
+        "stealth"
+      ],
       "parts": [],
-      "downloads": 1893,
+      "downloads": 1901,
       "addedAt": "2026-10-27T23:42:00.000Z"
     },
     {
@@ -1005,8 +1118,12 @@
       "compatibleTitleIds": [
         "CUSA24898"
       ],
+      "genres": [
+        "adventure",
+        "puzzle"
+      ],
       "parts": [],
-      "downloads": 1163,
+      "downloads": 1167,
       "addedAt": "2026-10-28T17:58:55.000Z"
     },
     {
@@ -1044,8 +1161,13 @@
       "compatibleTitleIds": [
         "CUSA02703"
       ],
+      "genres": [
+        "open-world",
+        "action",
+        "racing"
+      ],
       "parts": [],
-      "downloads": 862,
+      "downloads": 874,
       "addedAt": "2026-11-04T12:00:00.000Z"
     },
     {
@@ -1071,8 +1193,13 @@
       "compatibleTitleIds": [
         "CUSA01111"
       ],
+      "genres": [
+        "open-world",
+        "action",
+        "fighting"
+      ],
       "parts": [],
-      "downloads": 681,
+      "downloads": 685,
       "addedAt": "2026-11-04T12:00:00.000Z"
     },
     {
@@ -1098,6 +1225,11 @@
       "compatibleTitleIds": [
         "CUSA00785",
         "CUSA00076"
+      ],
+      "genres": [
+        "shooter",
+        "action",
+        "story"
       ],
       "parts": [],
       "downloads": 462,
@@ -1154,8 +1286,13 @@
       "compatibleTitleIds": [
         "CUSA26618"
       ],
+      "genres": [
+        "open-world",
+        "action",
+        "shooter"
+      ],
       "parts": [],
-      "downloads": 2636,
+      "downloads": 2655,
       "downloadsBase": 952,
       "addedAt": "2026-11-12T12:00:00.000Z"
     },
@@ -1206,8 +1343,13 @@
       "compatibleTitleIds": [
         "CUSA23501"
       ],
+      "genres": [
+        "open-world",
+        "action",
+        "shooter"
+      ],
       "parts": [],
-      "downloads": 436,
+      "downloads": 440,
       "downloadsBase": 143,
       "addedAt": "2026-11-12T12:00:00.000Z"
     },
@@ -1252,8 +1394,13 @@
       "compatibleTitleIds": [
         "CUSA26616"
       ],
+      "genres": [
+        "open-world",
+        "action",
+        "shooter"
+      ],
       "parts": [],
-      "downloads": 1083,
+      "downloads": 1095,
       "downloadsBase": 506,
       "addedAt": "2026-11-12T12:00:00.000Z"
     },
@@ -1310,8 +1457,12 @@
       "compatibleTitleIds": [
         "CUSA00203"
       ],
+      "genres": [
+        "horror",
+        "action"
+      ],
       "parts": [],
-      "downloads": 372,
+      "downloads": 376,
       "addedAt": "2026-11-06T12:00:00.000Z"
     },
     {
@@ -1346,8 +1497,13 @@
       "readme": "",
       "origin": "community",
       "translationType": "human",
+      "genres": [
+        "shooter",
+        "action",
+        "rpg"
+      ],
       "parts": [],
-      "downloads": 181,
+      "downloads": 185,
       "addedAt": "2026-11-06T12:00:00.000Z"
     },
     {
@@ -1397,8 +1553,13 @@
       "compatibleTitleIds": [
         "CUSA08974"
       ],
+      "genres": [
+        "horror",
+        "action",
+        "stealth"
+      ],
       "parts": [],
-      "downloads": 559,
+      "downloads": 563,
       "addedAt": "2026-11-06T12:00:00.000Z"
     },
     {
@@ -1438,8 +1599,13 @@
       "compatibleTitleIds": [
         "CUSA03986"
       ],
+      "genres": [
+        "shooter",
+        "action",
+        "adventure"
+      ],
       "parts": [],
-      "downloads": 115,
+      "downloads": 123,
       "addedAt": "2026-11-06T12:00:00.000Z"
     },
     {
@@ -1473,6 +1639,11 @@
       "compatibleTitleIds": [
         "CUSA03041"
       ],
+      "genres": [
+        "open-world",
+        "action",
+        "adventure"
+      ],
       "parts": [
         {
           "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA08519_T1.9_G1.32_HUMAN_REDEMPTIONTEAM.zip.part01",
@@ -1495,7 +1666,7 @@
           "size": 99319961
         }
       ],
-      "downloads": 2246,
+      "downloads": 2251,
       "addedAt": "2026-11-06T12:00:00.000Z"
     },
     {
@@ -1533,8 +1704,13 @@
       "compatibleTitleIds": [
         "CUSA03985"
       ],
+      "genres": [
+        "shooter",
+        "action",
+        "rpg"
+      ],
       "parts": [],
-      "downloads": 197,
+      "downloads": 201,
       "addedAt": "2026-11-08T12:00:00.000Z"
     },
     {
@@ -1561,8 +1737,13 @@
         "CUSA00557",
         "CUSA00552"
       ],
+      "genres": [
+        "action",
+        "adventure",
+        "horror"
+      ],
       "parts": [],
-      "downloads": 2973,
+      "downloads": 2987,
       "addedAt": "2026-11-09T12:00:00.000Z"
     },
     {
@@ -1603,8 +1784,13 @@
         "CUSA01133",
         "CUSA01141"
       ],
+      "genres": [
+        "horror",
+        "action",
+        "shooter"
+      ],
       "parts": [],
-      "downloads": 374,
+      "downloads": 376,
       "addedAt": "2026-11-09T12:00:00.000Z"
     },
     {
@@ -1748,8 +1934,12 @@
       "readme": "",
       "origin": "community",
       "translationType": "machine",
+      "genres": [
+        "shooter",
+        "action"
+      ],
       "parts": [],
-      "downloads": 1135,
+      "downloads": 1142,
       "addedAt": "2026-11-11T12:00:00.000Z"
     },
     {
@@ -1804,8 +1994,12 @@
       "readme": "",
       "origin": "community",
       "translationType": "machine",
+      "genres": [
+        "shooter",
+        "action"
+      ],
       "parts": [],
-      "downloads": 362,
+      "downloads": 374,
       "addedAt": "2026-11-11T12:00:00.000Z"
     },
     {
@@ -1869,8 +2063,11 @@
       "compatibleTitleIds": [
         "CUSA08216"
       ],
+      "genres": [
+        "action"
+      ],
       "parts": [],
-      "downloads": 246,
+      "downloads": 248,
       "addedAt": "2026-11-12T12:00:00.000Z"
     },
     {
@@ -1950,8 +2147,11 @@
       "compatibleTitleIds": [
         "CUSA37521"
       ],
+      "genres": [
+        "rpg"
+      ],
       "parts": [],
-      "downloads": 157,
+      "downloads": 159,
       "addedAt": "2026-11-12T12:00:00.000Z"
     },
     {
@@ -1984,6 +2184,10 @@
       "readme": "",
       "origin": "community",
       "translationType": "human",
+      "genres": [
+        "story",
+        "adventure"
+      ],
       "parts": [],
       "downloads": 106,
       "addedAt": "2026-11-14T12:00:00.000Z"
@@ -2018,8 +2222,12 @@
       "readme": "",
       "origin": "community",
       "translationType": "human",
+      "genres": [
+        "story",
+        "adventure"
+      ],
       "parts": [],
-      "downloads": 127,
+      "downloads": 129,
       "addedAt": "2026-11-14T12:00:00.000Z"
     },
     {
@@ -2052,8 +2260,12 @@
       "readme": "",
       "origin": "community",
       "translationType": "human",
+      "genres": [
+        "story",
+        "adventure"
+      ],
       "parts": [],
-      "downloads": 221,
+      "downloads": 223,
       "addedAt": "2026-11-15T12:00:00.000Z"
     },
     {
@@ -2109,8 +2321,12 @@
       "compatibleTitleIds": [
         "CUSA36848"
       ],
+      "genres": [
+        "action",
+        "rpg"
+      ],
       "parts": [],
-      "downloads": 181,
+      "downloads": 185,
       "addedAt": "2026-11-15T12:00:00.000Z"
     },
     {
@@ -2150,8 +2366,12 @@
       "compatibleTitleIds": [
         "CUSA01623"
       ],
+      "genres": [
+        "action",
+        "adventure"
+      ],
       "parts": [],
-      "downloads": 664,
+      "downloads": 668,
       "addedAt": "2026-11-16T12:00:00.000Z"
     },
     {
@@ -2174,8 +2394,12 @@
       "readme": "",
       "origin": "community",
       "translationType": "human",
+      "genres": [
+        "action",
+        "adventure"
+      ],
       "parts": [],
-      "downloads": 424,
+      "downloads": 430,
       "addedAt": "2026-11-16T12:00:00.000Z"
     },
     {
@@ -2232,8 +2456,12 @@
       "readme": "",
       "origin": "community",
       "translationType": "machine",
+      "genres": [
+        "action",
+        "adventure"
+      ],
       "parts": [],
-      "downloads": 323,
+      "downloads": 329,
       "addedAt": "2026-11-19T12:00:00.000Z"
     },
     {
@@ -2290,8 +2518,12 @@
       "readme": "",
       "origin": "community",
       "translationType": "machine",
+      "genres": [
+        "action",
+        "adventure"
+      ],
       "parts": [],
-      "downloads": 412,
+      "downloads": 422,
       "addedAt": "2026-11-19T12:00:00.000Z"
     },
     {
@@ -2352,6 +2584,10 @@
       "readme": "",
       "origin": "community",
       "translationType": "human",
+      "genres": [
+        "action",
+        "stealth"
+      ],
       "parts": [
         {
           "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA41300_T1.0_G1.03_HUMAN_besofh19.zip.part01",
@@ -2364,7 +2600,7 @@
           "size": 425347543
         }
       ],
-      "downloads": 23,
+      "downloads": 25,
       "addedAt": "2026-11-20T12:00:00.000Z"
     },
     {
@@ -2417,6 +2653,9 @@
       "readme": "",
       "origin": "community",
       "translationType": "machine",
+      "genres": [
+        "rpg"
+      ],
       "parts": [],
       "downloads": 25,
       "addedAt": "2026-11-20T12:00:00.000Z"
@@ -2475,8 +2714,11 @@
       "readme": "",
       "origin": "community",
       "translationType": "machine",
+      "genres": [
+        "rpg"
+      ],
       "parts": [],
-      "downloads": 28,
+      "downloads": 30,
       "addedAt": "2026-11-20T12:00:00.000Z"
     },
     {
@@ -2538,10 +2780,15 @@
       "compatibleTitleIds": [
         "CUSA10249"
       ],
+      "genres": [
+        "action",
+        "adventure",
+        "horror"
+      ],
       "parts": [],
-      "downloads": 225,
+      "downloads": 248,
       "addedAt": "2026-11-21T12:00:00.000Z"
     }
   ],
-  "sig": "642793cd75e81722238c5ef80d4c4e678cb2c198e3932cbc11fcb54eccb6bff9f6aea4f563f346dbbadd1aadfb9f402599c379a8a1f049291010fedcf949f40d"
+  "sig": "8648717f74f307934f1b5809810244f238587e7d93e9480f40777cfdbc1c333b5b03e902db9f526146c762ad028ca6b78e6023b3fda7274494c2e591c3b2e40a"
 }
