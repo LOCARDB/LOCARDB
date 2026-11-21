@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-21T17:35:48.893Z",
+  "updatedAt": "2026-11-21T17:41:37.643Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -1006,7 +1006,7 @@
         "CUSA24898"
       ],
       "parts": [],
-      "downloads": 1161,
+      "downloads": 1163,
       "addedAt": "2026-10-28T17:58:55.000Z"
     },
     {
@@ -1495,7 +1495,7 @@
           "size": 99319961
         }
       ],
-      "downloads": 2242,
+      "downloads": 2246,
       "addedAt": "2026-11-06T12:00:00.000Z"
     },
     {
@@ -1749,7 +1749,7 @@
       "origin": "community",
       "translationType": "machine",
       "parts": [],
-      "downloads": 1133,
+      "downloads": 1135,
       "addedAt": "2026-11-11T12:00:00.000Z"
     },
     {
@@ -2541,64 +2541,7 @@
       "parts": [],
       "downloads": 225,
       "addedAt": "2026-11-21T12:00:00.000Z"
-    },
-    {
-      "id": "CUSA11560",
-      "titleId": "CUSA11560",
-      "name": "Assassin's Creed III Remastered",
-      "team": "ماجد العتيبي",
-      "version": "1.0",
-      "supportedUpdate": "1.03",
-      "format": "OT",
-      "size": 104157603,
-      "sha256": "09f2a279862c025db17965a306b7c279c5547ecde3bec98601d5457815c91e2f",
-      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA11560_T1.0_G1.03_HUMAN_584d08.zip",
-      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/776339074",
-      "icon": "media/icons/mwqohxyu-ery8.jpg",
-      "screenshots": [
-        "media/shots/mwqoi1xo-9mog.jpg",
-        "media/shots/mwqoi1y5-y4y1.jpg",
-        "media/shots/mwqoi3j2-9mrg.jpg",
-        "media/shots/mwqoi6i9-zeay.jpg",
-        "media/shots/mwqoi6ie-zhw7.jpg",
-        "media/shots/mwqoi6in-6lv4.jpg",
-        "media/shots/mwqoi6iu-5lwy.jpg",
-        "media/shots/mwqoi6iy-k2x4.jpg",
-        "media/shots/mwqoi6j5-cvvb.jpg",
-        "media/shots/mwqoi6jb-vlv4.jpg",
-        "media/shots/mwqoi6jg-dp93.jpg",
-        "media/shots/mwqoi6jk-3njt.jpg",
-        "media/shots/mwqoi6jq-4xt7.jpg",
-        "media/shots/mwqoi6jv-wvg0.jpg"
-      ],
-      "iconSha256": "e95a74d0b95dae68ec9e4507c9fff1ddcb3988f77969204cbdfb2fecb616ca6c",
-      "screenshotsSha256": [
-        "3d87f726e9342207d3cf1f213ec64607e2f1c261c8ef817265fb2772664e6c6a",
-        "ffef6f37adb0ba0e7230fb777cc3bb209b6b336a30682584ddc9df85d64c26d5",
-        "1fdfd69bd48248b5fe5de3279795598ef9eff0fd25c981c29ff4bad07f82cc10",
-        "92883ee8083ea9bba1b75959444fed09d13686c7593696ad1655335948d25f3e",
-        "df3831ebf272d64843ca0813c8ba4c99c3032368208cca71c44a390a8a781624",
-        "375f22b101ab71050e001407f74b5a4e000367dcf13f5994fcd3faea42e0ccad",
-        "fbca1ae92b0ac8a3d72c4f8667442342c0d7a30c6bfb4462a9cef5a27e6e0916",
-        "eb018ca98087d26f4f5f19ca64d6346fe548bf1be4e8c640b2abd1e4e76ae901",
-        "1d8cab44d6c243b70b127f788c360ad11655aed0f8f6b34deeeb9fd9542187a3",
-        "132852288afbba3009d7584569474295cdc69e83c99f577b7d5a40af7356cc8f",
-        "d8ca2c4b4fd51310f5f407940c33c712e36aa06637b056100e17baf07f62f09a",
-        "1d92818c52c1dd643d331017314a42185035b9c3bc690446a87958a6e0580f38",
-        "39c6b9d84451e333c6d524027a4033a57104d655bb5207b43da5bcced074ee62",
-        "a7b7f930ec5b49d1e668246311c862c412657b1bd666dcb3b4ac6306941e38b8"
-      ],
-      "description": "التعريب لنسخة PC من قبل ماجد العتيبي\n\nنقل التعريب إلى نسخة PS4 من قبل سجاد رحيم",
-      "readme": "",
-      "origin": "community",
-      "translationType": "human",
-      "compatibleTitleIds": [
-        "CUSA11711"
-      ],
-      "parts": [],
-      "downloads": 0,
-      "addedAt": "2026-11-22T12:00:00.000Z"
     }
   ],
-  "sig": "4ce33390bd7df06ac7c88fd590fd1638796be81090aaae510ad6fd0fa4726b819900f0075203ca213c9b67c185382ee4ca0869918c5cf1e0966c1bc3c339a60a"
+  "sig": "642793cd75e81722238c5ef80d4c4e678cb2c198e3932cbc11fcb54eccb6bff9f6aea4f563f346dbbadd1aadfb9f402599c379a8a1f049291010fedcf949f40d"
 }
