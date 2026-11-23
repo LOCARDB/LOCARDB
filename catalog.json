@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-21T19:21:37.333Z",
+  "updatedAt": "2026-11-23T21:24:10.602Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -39,7 +39,7 @@
         "puzzle"
       ],
       "parts": [],
-      "downloads": 2112,
+      "downloads": 2205,
       "addedAt": "2026-10-22T10:46:47.000Z"
     },
     {
@@ -78,7 +78,7 @@
         "adventure"
       ],
       "parts": [],
-      "downloads": 3334,
+      "downloads": 3583,
       "addedAt": "2026-10-21T18:34:26.000Z"
     },
     {
@@ -116,7 +116,7 @@
         "action"
       ],
       "parts": [],
-      "downloads": 1685,
+      "downloads": 1766,
       "addedAt": "2026-10-21T18:45:08.000Z"
     },
     {
@@ -155,7 +155,7 @@
         "story"
       ],
       "parts": [],
-      "downloads": 928,
+      "downloads": 965,
       "addedAt": "2026-10-21T18:55:21.000Z"
     },
     {
@@ -194,7 +194,7 @@
         "shooter"
       ],
       "parts": [],
-      "downloads": 883,
+      "downloads": 946,
       "addedAt": "2026-10-21T19:03:32.000Z"
     },
     {
@@ -223,7 +223,7 @@
         "story"
       ],
       "parts": [],
-      "downloads": 52,
+      "downloads": 58,
       "addedAt": "2026-10-21T19:07:46.000Z"
     },
     {
@@ -264,7 +264,7 @@
         "shooter"
       ],
       "parts": [],
-      "downloads": 606,
+      "downloads": 650,
       "addedAt": "2026-10-22T20:34:45.000Z"
     },
     {
@@ -305,7 +305,7 @@
         "shooter"
       ],
       "parts": [],
-      "downloads": 1117,
+      "downloads": 1191,
       "addedAt": "2026-10-22T21:29:37.000Z"
     },
     {
@@ -344,7 +344,7 @@
         "adventure"
       ],
       "parts": [],
-      "downloads": 139,
+      "downloads": 145,
       "addedAt": "2026-10-23T22:26:06.000Z"
     },
     {
@@ -389,7 +389,7 @@
         "action"
       ],
       "parts": [],
-      "downloads": 142,
+      "downloads": 165,
       "addedAt": "2026-10-23T22:33:07.000Z"
     },
     {
@@ -419,7 +419,7 @@
         "action"
       ],
       "parts": [],
-      "downloads": 264,
+      "downloads": 283,
       "addedAt": "2026-10-23T22:40:10.000Z"
     },
     {
@@ -461,7 +461,7 @@
         "action"
       ],
       "parts": [],
-      "downloads": 642,
+      "downloads": 670,
       "addedAt": "2026-10-24T00:01:09.000Z"
     },
     {
@@ -502,7 +502,7 @@
         "adventure"
       ],
       "parts": [],
-      "downloads": 362,
+      "downloads": 396,
       "addedAt": "2026-10-24T00:07:18.000Z"
     },
     {
@@ -541,7 +541,7 @@
         "shooter"
       ],
       "parts": [],
-      "downloads": 865,
+      "downloads": 907,
       "addedAt": "2026-10-24T15:21:50.000Z"
     },
     {
@@ -610,7 +610,7 @@
         }
       ],
       "partsFormat": "zip",
-      "downloads": 30,
+      "downloads": 36,
       "addedAt": "2026-10-24T17:14:46.000Z"
     },
     {
@@ -649,7 +649,7 @@
         "shooter"
       ],
       "parts": [],
-      "downloads": 442,
+      "downloads": 478,
       "addedAt": "2026-10-24T18:57:45.000Z"
     },
     {
@@ -698,7 +698,7 @@
         "story"
       ],
       "parts": [],
-      "downloads": 103,
+      "downloads": 108,
       "downloadsBase": 23,
       "addedAt": "2026-10-24T20:19:33.000Z"
     },
@@ -739,7 +739,7 @@
         "stealth"
       ],
       "parts": [],
-      "downloads": 594,
+      "downloads": 638,
       "addedAt": "2026-10-24T20:27:08.000Z"
     },
     {
@@ -775,7 +775,7 @@
         "adventure"
       ],
       "parts": [],
-      "downloads": 205,
+      "downloads": 223,
       "addedAt": "2026-10-25T16:19:51.000Z"
     },
     {
@@ -815,7 +815,7 @@
         "story"
       ],
       "parts": [],
-      "downloads": 106,
+      "downloads": 114,
       "addedAt": "2026-10-25T16:18:39.000Z"
     },
     {
@@ -857,7 +857,7 @@
         "shooter"
       ],
       "parts": [],
-      "downloads": 585,
+      "downloads": 619,
       "addedAt": "2026-10-25T16:33:50.000Z"
     },
     {
@@ -895,7 +895,7 @@
         "action"
       ],
       "parts": [],
-      "downloads": 729,
+      "downloads": 745,
       "addedAt": "2026-10-25T23:47:11.000Z"
     },
     {
@@ -938,7 +938,7 @@
         "adventure"
       ],
       "parts": [],
-      "downloads": 1498,
+      "downloads": 1551,
       "addedAt": "2026-10-26T15:26:09.000Z"
     },
     {
@@ -982,7 +982,7 @@
         "story"
       ],
       "parts": [],
-      "downloads": 1924,
+      "downloads": 2026,
       "addedAt": "2026-10-27T11:00:23.000Z"
     },
     {
@@ -1052,7 +1052,7 @@
         "stealth"
       ],
       "parts": [],
-      "downloads": 1905,
+      "downloads": 1988,
       "addedAt": "2026-10-27T23:42:00.000Z"
     },
     {
@@ -1123,7 +1123,7 @@
         "puzzle"
       ],
       "parts": [],
-      "downloads": 1167,
+      "downloads": 1208,
       "addedAt": "2026-10-28T17:58:55.000Z"
     },
     {
@@ -1167,7 +1167,7 @@
         "racing"
       ],
       "parts": [],
-      "downloads": 874,
+      "downloads": 920,
       "addedAt": "2026-11-04T12:00:00.000Z"
     },
     {
@@ -1199,7 +1199,7 @@
         "fighting"
       ],
       "parts": [],
-      "downloads": 685,
+      "downloads": 713,
       "addedAt": "2026-11-04T12:00:00.000Z"
     },
     {
@@ -1232,7 +1232,7 @@
         "story"
       ],
       "parts": [],
-      "downloads": 462,
+      "downloads": 498,
       "addedAt": "2026-11-04T12:00:00.000Z"
     },
     {
@@ -1292,7 +1292,7 @@
         "shooter"
       ],
       "parts": [],
-      "downloads": 2661,
+      "downloads": 2831,
       "downloadsBase": 952,
       "addedAt": "2026-11-12T12:00:00.000Z"
     },
@@ -1349,7 +1349,7 @@
         "shooter"
       ],
       "parts": [],
-      "downloads": 440,
+      "downloads": 468,
       "downloadsBase": 143,
       "addedAt": "2026-11-12T12:00:00.000Z"
     },
@@ -1400,7 +1400,7 @@
         "shooter"
       ],
       "parts": [],
-      "downloads": 1097,
+      "downloads": 1150,
       "downloadsBase": 506,
       "addedAt": "2026-11-12T12:00:00.000Z"
     },
@@ -1462,7 +1462,7 @@
         "action"
       ],
       "parts": [],
-      "downloads": 376,
+      "downloads": 390,
       "addedAt": "2026-11-06T12:00:00.000Z"
     },
     {
@@ -1503,7 +1503,7 @@
         "rpg"
       ],
       "parts": [],
-      "downloads": 185,
+      "downloads": 199,
       "addedAt": "2026-11-06T12:00:00.000Z"
     },
     {
@@ -1559,7 +1559,7 @@
         "stealth"
       ],
       "parts": [],
-      "downloads": 563,
+      "downloads": 595,
       "addedAt": "2026-11-06T12:00:00.000Z"
     },
     {
@@ -1605,7 +1605,7 @@
         "adventure"
       ],
       "parts": [],
-      "downloads": 123,
+      "downloads": 133,
       "addedAt": "2026-11-06T12:00:00.000Z"
     },
     {
@@ -1666,7 +1666,7 @@
           "size": 99319961
         }
       ],
-      "downloads": 2251,
+      "downloads": 2433,
       "addedAt": "2026-11-06T12:00:00.000Z"
     },
     {
@@ -1710,7 +1710,7 @@
         "rpg"
       ],
       "parts": [],
-      "downloads": 201,
+      "downloads": 215,
       "addedAt": "2026-11-08T12:00:00.000Z"
     },
     {
@@ -1743,7 +1743,7 @@
         "horror"
       ],
       "parts": [],
-      "downloads": 2987,
+      "downloads": 3159,
       "addedAt": "2026-11-09T12:00:00.000Z"
     },
     {
@@ -1790,7 +1790,7 @@
         "shooter"
       ],
       "parts": [],
-      "downloads": 376,
+      "downloads": 406,
       "addedAt": "2026-11-09T12:00:00.000Z"
     },
     {
@@ -1878,7 +1878,7 @@
         }
       ],
       "partsFormat": "zip",
-      "downloads": 84,
+      "downloads": 96,
       "downloadsBase": 54,
       "addedAt": "2026-11-17T12:00:00.000Z"
     },
@@ -1939,7 +1939,7 @@
         "action"
       ],
       "parts": [],
-      "downloads": 1144,
+      "downloads": 1224,
       "addedAt": "2026-11-11T12:00:00.000Z"
     },
     {
@@ -1999,7 +1999,7 @@
         "action"
       ],
       "parts": [],
-      "downloads": 374,
+      "downloads": 402,
       "addedAt": "2026-11-11T12:00:00.000Z"
     },
     {
@@ -2067,7 +2067,7 @@
         "action"
       ],
       "parts": [],
-      "downloads": 248,
+      "downloads": 266,
       "addedAt": "2026-11-12T12:00:00.000Z"
     },
     {
@@ -2151,7 +2151,7 @@
         "rpg"
       ],
       "parts": [],
-      "downloads": 159,
+      "downloads": 164,
       "addedAt": "2026-11-12T12:00:00.000Z"
     },
     {
@@ -2189,7 +2189,7 @@
         "adventure"
       ],
       "parts": [],
-      "downloads": 106,
+      "downloads": 112,
       "addedAt": "2026-11-14T12:00:00.000Z"
     },
     {
@@ -2227,7 +2227,7 @@
         "adventure"
       ],
       "parts": [],
-      "downloads": 129,
+      "downloads": 139,
       "addedAt": "2026-11-14T12:00:00.000Z"
     },
     {
@@ -2265,7 +2265,7 @@
         "adventure"
       ],
       "parts": [],
-      "downloads": 223,
+      "downloads": 249,
       "addedAt": "2026-11-15T12:00:00.000Z"
     },
     {
@@ -2326,7 +2326,7 @@
         "rpg"
       ],
       "parts": [],
-      "downloads": 187,
+      "downloads": 233,
       "addedAt": "2026-11-15T12:00:00.000Z"
     },
     {
@@ -2371,7 +2371,7 @@
         "adventure"
       ],
       "parts": [],
-      "downloads": 668,
+      "downloads": 779,
       "addedAt": "2026-11-16T12:00:00.000Z"
     },
     {
@@ -2399,7 +2399,7 @@
         "adventure"
       ],
       "parts": [],
-      "downloads": 430,
+      "downloads": 481,
       "addedAt": "2026-11-16T12:00:00.000Z"
     },
     {
@@ -2461,7 +2461,7 @@
         "adventure"
       ],
       "parts": [],
-      "downloads": 329,
+      "downloads": 407,
       "addedAt": "2026-11-19T12:00:00.000Z"
     },
     {
@@ -2523,7 +2523,7 @@
         "adventure"
       ],
       "parts": [],
-      "downloads": 424,
+      "downloads": 550,
       "addedAt": "2026-11-19T12:00:00.000Z"
     },
     {
@@ -2600,7 +2600,7 @@
           "size": 425347543
         }
       ],
-      "downloads": 25,
+      "downloads": 43,
       "addedAt": "2026-11-20T12:00:00.000Z"
     },
     {
@@ -2657,7 +2657,7 @@
         "rpg"
       ],
       "parts": [],
-      "downloads": 25,
+      "downloads": 55,
       "addedAt": "2026-11-20T12:00:00.000Z"
     },
     {
@@ -2718,7 +2718,7 @@
         "rpg"
       ],
       "parts": [],
-      "downloads": 30,
+      "downloads": 49,
       "addedAt": "2026-11-20T12:00:00.000Z"
     },
     {
@@ -2786,7 +2786,7 @@
         "horror"
       ],
       "parts": [],
-      "downloads": 250,
+      "downloads": 437,
       "addedAt": "2026-11-21T12:00:00.000Z"
     },
     {
@@ -2848,9 +2848,61 @@
         "stealth"
       ],
       "parts": [],
-      "downloads": 0,
+      "downloads": 77,
       "addedAt": "2026-11-22T12:00:00.000Z"
+    },
+    {
+      "id": "CUSA41303",
+      "titleId": "CUSA41303",
+      "name": "METAL GEAR SOLID 2 Sons of Liberty",
+      "team": "مجد العروبة",
+      "version": "2.1",
+      "supportedUpdate": "02.00",
+      "format": "OT",
+      "size": 65212781,
+      "sha256": "f680c129c60aa0328421cbf7420f437814f082163a84a8a673964c0fcb25367e",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA41303_T2.1_G02.00_HUMAN_ef0326.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/784590480",
+      "icon": "media/icons/mwtoqlre-eck3.jpg",
+      "screenshots": [
+        "media/shots/mwtor0u0-xul0.jpg",
+        "media/shots/mwtor5a9-3rcg.jpg",
+        "media/shots/mwtor5ad-pev0.jpg",
+        "media/shots/mwtor5ah-vr49.jpg",
+        "media/shots/mwtor5al-8rfh.jpg",
+        "media/shots/mwtor5au-go8k.jpg",
+        "media/shots/mwtor5ay-4zlb.jpg",
+        "media/shots/mwtor5ba-nfwo.jpg",
+        "media/shots/mwtor5bf-5nps.jpg",
+        "media/shots/mwtor5bk-i4jv.jpg",
+        "media/shots/mwtor5bp-6j8k.jpg"
+      ],
+      "iconSha256": "3cfe33cd9c335e7b145720671469a44ddb4b4493e2d58032fb82f3198d20d814",
+      "screenshotsSha256": [
+        "1023e2e7e00839693929ae93402ea820748ebd443626d5730a02eb058aa870fc",
+        "6cd14113e211d06ec0cc29d80524bf36839cc908dfe030e9a1bbff46ea382dde",
+        "0e85417c51f994e26f3f71164c3109ee08e0dda5a62ac435283c0810179f78c7",
+        "e5088c9068223fc3079883f3b29ed472fcaaabc139852b72e925fd1c76532834",
+        "e791a313f125dc1200c0f625836846c886bcc28340895aa519227c5d7804ebae",
+        "0084e10d0ae2bc3e7447accbe9a3fa89a4c438990751700133c9d79863cf46f6",
+        "c575035f9861439c22a9764cd6df2d10c9676f32d3c2bdc7b9c8de76b4cfe27b",
+        "efae5b8f39dab33d7bcc8fb52b497647326efa8c8ce2727b330f9a5e288be98c",
+        "6b4f948021e87818be57ad078dd25e8cb95e9ad0e6681d2f36771e56436c0847",
+        "d3d8689201b42ccd61897ef57b946295f110fc6d3d48045a72aafe90ee400b8d",
+        "7557a597fdd48581a7fec3b9fec886c3ca4966dbc1284d945f117aebb4146cab"
+      ],
+      "description": "التعريب من فريق مجد العروبة.\n\nالترجمة\n- Venom Hussain (@VHussainAR)\n- عبد العزيز الحربي (@ii_5yu)\n- يزيد العنزي (@Yazed0071)\n\nالبرمجة\n- عبد العزيز الحربي (@ii_5yu)\n- Venom Hussain (@VHussainAR)\n\nالإعداد\n- Venom Hussain (@VHussainAR)\n\nالإشراف على المشروع\n- عبد العزيز الحربي (@ii_5yu)\n\nتصميم شعار اللعبة وكل ما يخصه\n- محمد المغربي (@Mohammed Marocci)\n\nنقل التعريب إلى منصة PS4:\n سجاد رحيم",
+      "readme": "",
+      "origin": "community",
+      "translationType": "human",
+      "genres": [
+        "action",
+        "stealth"
+      ],
+      "parts": [],
+      "downloads": 0,
+      "addedAt": "2026-11-24T12:00:00.000Z"
     }
   ],
-  "sig": "66a3961856247ae42ec953581b2f1952f41c4088aae9be44a6467fd6d747a80fd984f29c8053b1db1db66c7ee1e558a80fcb2df163652e866d7392b9b7926b05"
+  "sig": "d811e3560622f497d415ff1026fe37e35fa7911ceeedb9fc41ae9e4a6eaa9b97fbcf241d023bd84ba02ba56aea431373a5c67035254e48a11976706d27d9db0a"
 }
