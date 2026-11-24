@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T20:28:58.179Z",
+  "updatedAt": "2026-11-24T20:33:04.437Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -78,7 +78,7 @@
         "adventure"
       ],
       "parts": [],
-      "downloads": 3659,
+      "downloads": 3665,
       "addedAt": "2026-10-21T18:34:26.000Z"
     },
     {
@@ -305,7 +305,7 @@
         "shooter"
       ],
       "parts": [],
-      "downloads": 1222,
+      "downloads": 1224,
       "addedAt": "2026-10-22T21:29:37.000Z"
     },
     {
@@ -1167,7 +1167,7 @@
         "racing"
       ],
       "parts": [],
-      "downloads": 942,
+      "downloads": 946,
       "addedAt": "2026-11-04T12:00:00.000Z"
     },
     {
@@ -1292,7 +1292,7 @@
         "shooter"
       ],
       "parts": [],
-      "downloads": 2911,
+      "downloads": 2917,
       "downloadsBase": 952,
       "addedAt": "2026-11-12T12:00:00.000Z"
     },
@@ -2786,7 +2786,7 @@
         "horror"
       ],
       "parts": [],
-      "downloads": 515,
+      "downloads": 517,
       "addedAt": "2026-11-21T12:00:00.000Z"
     },
     {
@@ -2969,12 +2969,12 @@
       "name": "Grand Theft Auto V",
       "team": "حمزة الحمود",
       "version": "1.0",
-      "supportedUpdate": "1.00",
+      "supportedUpdate": "1.05",
       "format": "OT",
       "size": 65297236,
       "sha256": "35e179058453b91511a14de8d56d23948c89bb10ce67b277cfa472cad9b7604b",
       "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA00411_T1.0_G1.00_HUMAN_fb1187.zip",
-      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/788738260",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/788749591",
       "icon": "media/icons/mwv5bfuu-ok8v.jpg",
       "screenshots": [
         "media/shots/mwv5bi5s-4rly.jpg",
@@ -3024,5 +3024,5 @@
       "addedAt": "2026-11-25T12:00:00.000Z"
     }
   ],
-  "sig": "b6ee8d229219efa834646427ae5780acfe2307bacfcf6cb49c12a390eef6e7f4e837d81d89d73ce9e089d47a1bbde562ed006ca71b5d4cd5e5d8a4749ecda40d"
+  "sig": "669480e3748e0ded54b5812a466462717b0212717edf32568b524c28ad9908d0744fb793aad095544403b7b2e043b9d62aa82b37e6d1f858d67f9cbe02c22d07"
 }
