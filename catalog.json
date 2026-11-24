@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T20:33:04.437Z",
+  "updatedAt": "2026-11-24T20:37:10.204Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -389,7 +389,7 @@
         "action"
       ],
       "parts": [],
-      "downloads": 169,
+      "downloads": 171,
       "addedAt": "2026-10-23T22:33:07.000Z"
     },
     {
@@ -1349,7 +1349,7 @@
         "shooter"
       ],
       "parts": [],
-      "downloads": 490,
+      "downloads": 492,
       "downloadsBase": 143,
       "addedAt": "2026-11-12T12:00:00.000Z"
     },
@@ -2786,7 +2786,7 @@
         "horror"
       ],
       "parts": [],
-      "downloads": 517,
+      "downloads": 520,
       "addedAt": "2026-11-21T12:00:00.000Z"
     },
     {
@@ -3024,5 +3024,5 @@
       "addedAt": "2026-11-25T12:00:00.000Z"
     }
   ],
-  "sig": "669480e3748e0ded54b5812a466462717b0212717edf32568b524c28ad9908d0744fb793aad095544403b7b2e043b9d62aa82b37e6d1f858d67f9cbe02c22d07"
+  "sig": "565d898880265419e3bcf122c26d2e101a60af09b618bba1c2b0554970d8d10780b02b2b4a2fe5de1b71c033ad903bf23187aea90c6f14ebc7f95e7372911f08"
 }
