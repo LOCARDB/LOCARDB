@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T20:25:49.954Z",
+  "updatedAt": "2026-11-24T20:28:58.179Z",
   "packs": [
     {
       "id": "CUSA16746",
@@ -39,7 +39,7 @@
         "puzzle"
       ],
       "parts": [],
-      "downloads": 2275,
+      "downloads": 2277,
       "addedAt": "2026-10-22T10:46:47.000Z"
     },
     {
@@ -264,7 +264,7 @@
         "shooter"
       ],
       "parts": [],
-      "downloads": 662,
+      "downloads": 664,
       "addedAt": "2026-10-22T20:34:45.000Z"
     },
     {
@@ -1123,7 +1123,7 @@
         "puzzle"
       ],
       "parts": [],
-      "downloads": 1241,
+      "downloads": 1243,
       "addedAt": "2026-10-28T17:58:55.000Z"
     },
     {
@@ -2962,7 +2962,67 @@
       "parts": [],
       "downloads": 0,
       "addedAt": "2026-11-25T12:00:00.000Z"
+    },
+    {
+      "id": "CUSA00411_1.00",
+      "titleId": "CUSA00411",
+      "name": "Grand Theft Auto V",
+      "team": "حمزة الحمود",
+      "version": "1.0",
+      "supportedUpdate": "1.00",
+      "format": "OT",
+      "size": 65297236,
+      "sha256": "35e179058453b91511a14de8d56d23948c89bb10ce67b277cfa472cad9b7604b",
+      "url": "https://github.com/LOCARDB/LOCARDB/releases/download/packs/CUSA00411_T1.0_G1.00_HUMAN_fb1187.zip",
+      "api": "https://api.github.com/repos/LOCARDB/LOCARDB/releases/assets/788738260",
+      "icon": "media/icons/mwv5bfuu-ok8v.jpg",
+      "screenshots": [
+        "media/shots/mwv5bi5s-4rly.jpg",
+        "media/shots/mwv5bi5y-1y0d.jpg",
+        "media/shots/mwv5bi63-ojt5.jpg",
+        "media/shots/mwv5bi68-3cnt.jpg",
+        "media/shots/mwv5bi6c-skcw.jpg",
+        "media/shots/mwv5bi6i-lg25.jpg",
+        "media/shots/mwv5bi6n-v7py.jpg",
+        "media/shots/mwv5bi6u-4qwm.jpg",
+        "media/shots/mwv5bi6y-5ho4.jpg",
+        "media/shots/mwv5bi74-wtam.jpg",
+        "media/shots/mwv5bi7c-a4qk.jpg",
+        "media/shots/mwv5bi7i-mjvn.jpg",
+        "media/shots/mwv5bi7n-t4nz.jpg"
+      ],
+      "iconSha256": "9dfea042aa3605654386f4aef7753a50148af7545d15f34cc3bfd9f33d093cfc",
+      "screenshotsSha256": [
+        "6d4e535c5f5c069fc835a0e91df5b49cad732d6d0f9c70f2a52e0de323cc82b4",
+        "a2dbe95c3eb859c8a11179314371b79a79ceda933125a1a9c25093fbac4a1558",
+        "90673f95c60928a52cf2d7a179849c88724519a0ae47b9400f8fe82dba9b1067",
+        "8db5a27206eed489dbdc8e408595eba524343bcca902f16327d569af223bf8d5",
+        "ed66f260e3d561444a6a8d1050fd041252b91e0e1604d3753e7b55ff34922c08",
+        "5789ee4cc86be71fa0f2ad81944147ef0917a573b27f47b0557b4e8bf9a73759",
+        "6cb128d5d3540e00f0d6b73ec5431de4640e4eaf2a576ac2ae2bc3af1719e6c8",
+        "5ec1601fb99d5c067f21bed124ef4986a6e9014674e16e1cabe25b06175d2d97",
+        "6a0b01b28ed017aba84e644ced24e5dd48f1c63b4877d1094460acf41445755b",
+        "e11faa777bade9a338ddbb03d32129029040cfdfd797d4c7b252cb3967e0af62",
+        "0380169d14334774d521d41ff0d6dab0f97e7b056c8f49c0b46aafcc1c7dd00c",
+        "c8f5b87d4b429701eccc6faa22187b86d21cca4acb2f3c23ca3381df18e4973a",
+        "791c0ac4b7a864bfd7f74cfc52671dbf04f5cbdbc299a7ef5dfbb8b66cd5fdd7"
+      ],
+      "description": "التعريب من عمل حمزة الحمود x.com/ArabicTrilogy\n\nنقل التعريب إلى منصة PS4:\nسجاد رحيم",
+      "readme": "",
+      "origin": "community",
+      "translationType": "human",
+      "compatibleTitleIds": [
+        "CUSA00419"
+      ],
+      "genres": [
+        "open-world",
+        "action",
+        "racing"
+      ],
+      "parts": [],
+      "downloads": 0,
+      "addedAt": "2026-11-25T12:00:00.000Z"
     }
   ],
-  "sig": "07c0121d93b7608b8545e28d3cd277358943b8145155872e313a7b219507a49f9c8a5298a198d86d9160fb738f11601baf198db97d857c8d937d853c2b15d00a"
+  "sig": "b6ee8d229219efa834646427ae5780acfe2307bacfcf6cb49c12a390eef6e7f4e837d81d89d73ce9e089d47a1bbde562ed006ca71b5d4cd5e5d8a4749ecda40d"
 }
